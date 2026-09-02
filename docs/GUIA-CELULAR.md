@@ -36,7 +36,7 @@ Nunca coloque a chave em arquivo `.env` enviado ao GitHub, no código React, no 
 
 No GitHub, abra **Actions → Update football data → Run workflow → Run workflow**. Ao terminar, o workflow cria um commit com arquivos em `public/data`. Verifique em `public/data/fixtures/today.json` se há `updatedAt` e partidas. Se não houver partidas prioritárias no dia, a lista ficará vazia corretamente.
 
-O coletor usa `/leagues` para validar competições e coverage, três buscas de fixtures por data (ontem, hoje e amanhã) e uma busca em lote para detalhes de partidas prioritárias. Ele preserva o último JSON válido se uma chamada falhar ou a quota ficar baixa. O workflow **Update club and player profiles** roda uma vez por dia, atualiza até seis equipes, três perfis aprofundados de jogadores e listas de artilharia de até quatro competições. O plano completo foi calculado para ficar dentro de 100 requisições diárias.
+O coletor usa `/leagues` para validar competições e coverage, três buscas de fixtures por data (ontem, hoje e amanhã) e tabelas das competições disponíveis. O plano Free da API-Football não libera a consulta em lote necessária para eventos, escalações e estatísticas detalhadas de partidas; esses blocos só aparecem quando houver uma fonte compatível. O coletor preserva o último JSON válido se uma chamada falhar ou a quota ficar baixa. O workflow **Update club and player profiles** roda uma vez por dia, atualiza até seis equipes, três perfis aprofundados de jogadores e listas de artilharia de até quatro competições. O plano completo foi calculado para ficar dentro de 100 requisições diárias.
 
 ## 4. Publicar no GitHub Pages
 

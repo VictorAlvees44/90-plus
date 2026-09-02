@@ -1,7 +1,7 @@
 import { mkdir, readFile, rename, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { competitionTargets, isEligibleLeague } from './competitions.mjs'
-import { dateInSaoPaulo, normalizeFixture, normalizeMatchDetail, normalizePlayerProfile, normalizeTeamProfile } from './normalize.mjs'
+import { dateInSaoPaulo, normalizeFixture, normalizePlayerProfile, normalizeTeamProfile } from './normalize.mjs'
 
 const root = resolve(import.meta.dirname, '../..')
 const dataDir = resolve(root, 'public/data')
@@ -25,15 +25,6 @@ async function readSnapshot(path) { return readFile(resolve(dataDir, path), 'utf
 function supportsMatchDetails(league) {
   const fixtures = league.coverage?.fixtures
   return Boolean(fixtures?.events || fixtures?.lineups || fixtures?.statistics_fixtures || fixtures?.statistics_players)
-}
-function detailPriority(raw, league) {
-  const status = normalizeFixture(raw).status
-  const startsAt = new Date(raw.fixture.date).getTime()
-  const delta = startsAt - Date.now()
-  if (status === 'live' || status === 'halftime') return 0
-  if (['finished', 'after_extra_time', 'after_penalties'].includes(status) && delta > -48 * 60 * 60 * 1000) return 1
-  if (status === 'scheduled' && delta <= 18 * 60 * 60 * 1000 && delta >= -6 * 60 * 60 * 1000) return 2
-  return 99 + league.priority
 }
 async function api(path) {
   if (quota.used >= quota.limit - 5) throw new Error('Quota de segurança atingida; dados atuais foram preservados.')
@@ -83,34 +74,17 @@ async function main() {
     await preserveOnFailure('fixtures/upcoming.json', { updatedAt: timestamp, fixtures: upcoming })
     await preserveOnFailure('fixtures/index.json', { updatedAt: timestamp, fixtures: fixtureIndex })
 
-    // One bulk request can return available events, lineups, stats and player
-    // performances for up to 20 fixtures. It replaces several per-match calls.
+    // The Free plan does not include the ids bulk endpoint used for match
+    // events, lineups and statistics. Keep the candidate list for team
+    // profiles, while publishing those optional match details only on plans
+    // that support their source endpoint.
     const leagueById = new Map(selectedLeagues.map(league => [league.id, league]))
     const rawFixtures = [...recentRaw, ...todayRaw, ...upcomingRaw]
     const candidates = [...new Map(rawFixtures.filter(raw => {
       const league = leagueById.get(raw.league.id)
       return league && supportsMatchDetails(league)
-    }).map(raw => [raw.fixture.id, raw])).values()]
-      .sort((left, right) => detailPriority(left, leagueById.get(left.league.id)) - detailPriority(right, leagueById.get(right.league.id)))
-      .slice(0, 20)
-    const rawDetails = candidates.length ? await api(`/fixtures?ids=${candidates.map(item => item.fixture.id).join('-')}`) : []
-    const details = rawDetails.map(item => normalizeMatchDetail(item, timestamp))
-    const h2h = new Map()
-    for (const raw of candidates.slice(0, 3)) {
-      try {
-        const response = await api(`/fixtures/headtohead?h2h=${raw.teams.home.id}-${raw.teams.away.id}&last=5`)
-        const fixtures = response.map(normalizeFixture).filter(fixture => fixture.id !== raw.fixture.id)
-        if (fixtures.length) h2h.set(raw.fixture.id, fixtures)
-      } catch (error) {
-        // Keep an earlier H2H snapshot if this nonessential request is unavailable.
-        log('h2h_skipped', { fixture: raw.fixture.id, message: error instanceof Error ? error.message : 'Erro desconhecido.' })
-      }
-    }
-    for (const detail of details) {
-      const previous = await readSnapshot(`matches/${detail.fixture.id}.json`)
-      const snapshot = { ...detail, ...(h2h.has(detail.fixture.id) ? { h2h: h2h.get(detail.fixture.id) } : previous?.h2h ? { h2h: previous.h2h } : {}) }
-      await preserveOnFailure(`matches/${detail.fixture.id}.json`, snapshot)
-    }
+    }).map(raw => [raw.fixture.id, raw])).values()].slice(0, 6)
+    const details = []
 
     // Player rosters and team context are long-cache data and run once a day,
     // separately from the lightweight match schedule. Six teams plus four
