@@ -1,4 +1,4 @@
-import { mkdir, readFile, rename, writeFile } from 'node:fs/promises'
+import { access, mkdir, readFile, rename, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { competitionTargetFor, isEligibleLeague } from './competitions.mjs'
 import { dateInSaoPaulo, normalizeFixture, normalizePlayerProfile, normalizeTeamProfile } from './normalize.mjs'
@@ -22,6 +22,36 @@ async function preserveOnFailure(path, payload) {
   await rename(temporary, absolute)
 }
 async function readSnapshot(path) { return readFile(resolve(dataDir, path), 'utf8').then(JSON.parse).catch(() => null) }
+async function cacheTeamLogo(team) {
+  if (!team.logo?.startsWith('https://')) return
+  const relativePath = `data/media/teams/${team.id}.png`
+  const target = resolve(dataDir, relativePath)
+  try {
+    await access(target)
+    team.logo = relativePath
+    return
+  } catch {}
+  try {
+    const response = await fetch(team.logo)
+    if (!response.ok) throw new Error(`HTTP ${response.status}`)
+    await mkdir(dirname(target), { recursive: true })
+    const temporary = `${target}.tmp`
+    await writeFile(temporary, new Uint8Array(await response.arrayBuffer()))
+    await rename(temporary, target)
+    team.logo = relativePath
+  } catch (error) {
+    log('team_logo_skipped', { team: team.id, message: error instanceof Error ? error.message : 'Erro desconhecido.' })
+  }
+}
+async function cacheFixtureLogos(fixtures) {
+  const teams = [...new Map(fixtures.flatMap(fixture => [fixture.home, fixture.away]).map(team => [team.id, team])).values()]
+  for (const team of teams) await cacheTeamLogo(team)
+  const cachedTeams = new Map(teams.map(team => [team.id, team.logo]))
+  for (const fixture of fixtures) {
+    fixture.home.logo = cachedTeams.get(fixture.home.id) ?? fixture.home.logo
+    fixture.away.logo = cachedTeams.get(fixture.away.id) ?? fixture.away.logo
+  }
+}
 function supportsMatchDetails(league) {
   const fixtures = league.coverage?.fixtures
   return Boolean(fixtures?.events || fixtures?.lineups || fixtures?.statistics_fixtures || fixtures?.statistics_players)
@@ -77,6 +107,7 @@ async function main() {
     const todayFixtures = selected(todayRaw)
     const upcoming = selected(upcomingRaw)
     const fixtureIndex = [...recent, ...todayFixtures, ...upcoming]
+    await cacheFixtureLogos(fixtureIndex)
     await preserveOnFailure('fixtures/recent.json', { updatedAt: timestamp, fixtures: recent })
     await preserveOnFailure('fixtures/today.json', { updatedAt: timestamp, fixtures: todayFixtures })
     await preserveOnFailure('fixtures/upcoming.json', { updatedAt: timestamp, fixtures: upcoming })

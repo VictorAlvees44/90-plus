@@ -1,8 +1,9 @@
 import { Link } from 'react-router-dom'
 import type { Fixture, MatchDetail, TeamLineup } from '../types/football'
+import { imageSrc } from '../lib/image'
 
 export function Lineups({ lineups }: { lineups: TeamLineup[] }) {
-  return <div className="lineup-grid">{lineups.map(lineup => <section key={lineup.team.id} className="lineup-team"><header>{lineup.team.logo && <img src={lineup.team.logo} alt="" />}<span><b>{lineup.team.name}</b>{lineup.formation && <small>{lineup.formation}</small>}</span></header>{lineup.coach && <p className="coach">Técnico: {lineup.coach}</p>}{lineup.starters.every(player => player.grid) && <Formation lineup={lineup} />}<PlayerList title="Titulares" players={lineup.starters} />{lineup.substitutes.length > 0 && <PlayerList title="Reservas" players={lineup.substitutes} />}</section>)}</div>
+  return <div className="lineup-grid">{lineups.map(lineup => <section key={lineup.team.id} className="lineup-team"><header>{lineup.team.logo && <img src={imageSrc(lineup.team.logo)} alt="" />}<span><b>{lineup.team.name}</b>{lineup.formation && <small>{lineup.formation}</small>}</span></header>{lineup.coach && <p className="coach">Técnico: {lineup.coach}</p>}{lineup.starters.every(player => player.grid) && <Formation lineup={lineup} />}<PlayerList title="Titulares" players={lineup.starters} />{lineup.substitutes.length > 0 && <PlayerList title="Reservas" players={lineup.substitutes} />}</section>)}</div>
 }
 
 function Formation({ lineup }: { lineup: TeamLineup }) { return <div className="formation-pitch" aria-label={`Formação ${lineup.formation ?? ''} de ${lineup.team.name}`}>{lineup.starters.map(player => { const [row, column] = player.grid!.split(':'); return <span key={player.id ?? player.name} style={{ gridRow: row, gridColumn: column }} title={player.name}>{player.number ?? '•'}</span> })}</div> }

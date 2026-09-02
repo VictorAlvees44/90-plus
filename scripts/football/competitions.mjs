@@ -3,7 +3,7 @@
  * resolves these human-readable targets via /leagues and keeps only male football.
  */
 export const competitionTargets = [
-  { country: 'Brazil', names: ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil', 'Paulista - A1', 'Carioca', 'Mineiro - 1', 'Gaúcho - 1', 'Paranaense - 1', 'Baiano - 1', 'Pernambucano - 1', 'Cearense'], priority: 1 },
+  { country: 'Brazil', names: ['Serie A', 'Serie B', 'Serie C', 'Copa do Brasil', 'Paulista - A1', 'Carioca', 'Mineiro - 1', 'Gaúcho - 1', 'Paranaense - 1', 'Baiano - 1', 'Pernambucano - 1', 'Cearense'], priority: 1 },
   { country: 'England', names: ['Premier League', 'Championship', 'League One', 'League Two', 'National League', 'FA Cup', 'League Cup', 'Community Shield'], priority: 2 },
   { country: 'Spain', names: ['La Liga'], priority: 2 },
   { country: 'Italy', names: ['Serie A', 'Serie B', 'Serie C', 'Coppa Italia', 'Super Cup'], priority: 2 },
