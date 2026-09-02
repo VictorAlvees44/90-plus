@@ -1,1 +1,653 @@
-{"updatedAt":null,"leagues":[]}
+{
+  "updatedAt": "2026-09-02T11:58:56.137Z",
+  "leagues": [
+    {
+      "id": 71,
+      "name": "Serie A",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/71.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 1
+    },
+    {
+      "id": 606,
+      "name": "Paranaense - 1",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/606.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 1
+    },
+    {
+      "id": 622,
+      "name": "Pernambucano - 1",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/622.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 1
+    },
+    {
+      "id": 475,
+      "name": "Paulista - A1",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/475.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 1
+    },
+    {
+      "id": 602,
+      "name": "Baiano - 1",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/602.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 1
+    },
+    {
+      "id": 629,
+      "name": "Mineiro - 1",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/629.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 1
+    },
+    {
+      "id": 477,
+      "name": "Gaúcho - 1",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/477.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 1
+    },
+    {
+      "id": 1168,
+      "name": "FIFA Intercontinental Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1168.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": false,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 135,
+      "name": "Serie A",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/135.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/39.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/140.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media.api-sports.io/football/leagues/78.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 531,
+      "name": "UEFA Super Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/531.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": false,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 3
+    },
+    {
+      "id": 13,
+      "name": "CONMEBOL Libertadores",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/13.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 3
+    },
+    {
+      "id": 11,
+      "name": "CONMEBOL Sudamericana",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/11.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 3
+    },
+    {
+      "id": 541,
+      "name": "CONMEBOL Recopa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/541.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": false,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 3
+    },
+    {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/2.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 3
+    },
+    {
+      "id": 848,
+      "name": "UEFA Europa Conference League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/848.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 3
+    },
+    {
+      "id": 3,
+      "name": "UEFA Europa League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/3.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "season": 2024,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 4
+    },
+    {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "season": 2024,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 4
+    },
+    {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 4
+    },
+    {
+      "id": 253,
+      "name": "Major League Soccer",
+      "country": "USA",
+      "logo": "https://media.api-sports.io/football/leagues/253.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 4
+    },
+    {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 4
+    },
+    {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": false,
+          "lineups": false,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": false,
+        "top_scorers": false,
+        "top_assists": false,
+        "top_cards": false,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 4
+    },
+    {
+      "id": 262,
+      "name": "Liga MX",
+      "country": "Mexico",
+      "logo": "https://media.api-sports.io/football/leagues/262.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 4
+    }
+  ]
+}

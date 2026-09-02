@@ -1,0 +1,59 @@
+{
+  "updatedAt": "2026-09-02T11:58:56.353Z",
+  "fixtures": [
+    {
+      "id": 1493102,
+      "startsAt": "2026-09-01T00:15:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "country": "Argentina"
+      },
+      "home": {
+        "id": 478,
+        "name": "Instituto Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/478.png"
+      },
+      "away": {
+        "id": 460,
+        "name": "San Lorenzo",
+        "logo": "https://media.api-sports.io/football/teams/460.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "venue": "Estadio Presidente Peron"
+    },
+    {
+      "id": 1493105,
+      "startsAt": "2026-09-01T00:15:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "country": "Argentina"
+      },
+      "home": {
+        "id": 452,
+        "name": "Tigre",
+        "logo": "https://media.api-sports.io/football/teams/452.png"
+      },
+      "away": {
+        "id": 2432,
+        "name": "Barracas Central",
+        "logo": "https://media.api-sports.io/football/teams/2432.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "venue": "Estadio Jose Dellagiovanna"
+    }
+  ]
+}

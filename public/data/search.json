@@ -1,1 +1,264 @@
-{"updatedAt":null,"items":[]}
+{
+  "updatedAt": "2026-09-02T11:58:56.353Z",
+  "items": [
+    {
+      "type": "league",
+      "id": 71,
+      "label": "Serie A",
+      "subtitle": "Brazil",
+      "image": "https://media.api-sports.io/football/leagues/71.png"
+    },
+    {
+      "type": "league",
+      "id": 606,
+      "label": "Paranaense - 1",
+      "subtitle": "Brazil",
+      "image": "https://media.api-sports.io/football/leagues/606.png"
+    },
+    {
+      "type": "league",
+      "id": 622,
+      "label": "Pernambucano - 1",
+      "subtitle": "Brazil",
+      "image": "https://media.api-sports.io/football/leagues/622.png"
+    },
+    {
+      "type": "league",
+      "id": 475,
+      "label": "Paulista - A1",
+      "subtitle": "Brazil",
+      "image": "https://media.api-sports.io/football/leagues/475.png"
+    },
+    {
+      "type": "league",
+      "id": 602,
+      "label": "Baiano - 1",
+      "subtitle": "Brazil",
+      "image": "https://media.api-sports.io/football/leagues/602.png"
+    },
+    {
+      "type": "league",
+      "id": 629,
+      "label": "Mineiro - 1",
+      "subtitle": "Brazil",
+      "image": "https://media.api-sports.io/football/leagues/629.png"
+    },
+    {
+      "type": "league",
+      "id": 477,
+      "label": "Gaúcho - 1",
+      "subtitle": "Brazil",
+      "image": "https://media.api-sports.io/football/leagues/477.png"
+    },
+    {
+      "type": "league",
+      "id": 1168,
+      "label": "FIFA Intercontinental Cup",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/1168.png"
+    },
+    {
+      "type": "league",
+      "id": 135,
+      "label": "Serie A",
+      "subtitle": "Italy",
+      "image": "https://media.api-sports.io/football/leagues/135.png"
+    },
+    {
+      "type": "league",
+      "id": 61,
+      "label": "Ligue 1",
+      "subtitle": "France",
+      "image": "https://media.api-sports.io/football/leagues/61.png"
+    },
+    {
+      "type": "league",
+      "id": 39,
+      "label": "Premier League",
+      "subtitle": "England",
+      "image": "https://media.api-sports.io/football/leagues/39.png"
+    },
+    {
+      "type": "league",
+      "id": 140,
+      "label": "La Liga",
+      "subtitle": "Spain",
+      "image": "https://media.api-sports.io/football/leagues/140.png"
+    },
+    {
+      "type": "league",
+      "id": 78,
+      "label": "Bundesliga",
+      "subtitle": "Germany",
+      "image": "https://media.api-sports.io/football/leagues/78.png"
+    },
+    {
+      "type": "league",
+      "id": 531,
+      "label": "UEFA Super Cup",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/531.png"
+    },
+    {
+      "type": "league",
+      "id": 13,
+      "label": "CONMEBOL Libertadores",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/13.png"
+    },
+    {
+      "type": "league",
+      "id": 11,
+      "label": "CONMEBOL Sudamericana",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/11.png"
+    },
+    {
+      "type": "league",
+      "id": 541,
+      "label": "CONMEBOL Recopa",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/541.png"
+    },
+    {
+      "type": "league",
+      "id": 2,
+      "label": "UEFA Champions League",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/2.png"
+    },
+    {
+      "type": "league",
+      "id": 848,
+      "label": "UEFA Europa Conference League",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/848.png"
+    },
+    {
+      "type": "league",
+      "id": 3,
+      "label": "UEFA Europa League",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/3.png"
+    },
+    {
+      "type": "league",
+      "id": 4,
+      "label": "Euro Championship",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/4.png"
+    },
+    {
+      "type": "league",
+      "id": 9,
+      "label": "Copa America",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/9.png"
+    },
+    {
+      "type": "league",
+      "id": 1,
+      "label": "World Cup",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/1.png"
+    },
+    {
+      "type": "league",
+      "id": 253,
+      "label": "Major League Soccer",
+      "subtitle": "USA",
+      "image": "https://media.api-sports.io/football/leagues/253.png"
+    },
+    {
+      "type": "league",
+      "id": 128,
+      "label": "Liga Profesional Argentina",
+      "subtitle": "Argentina",
+      "image": "https://media.api-sports.io/football/leagues/128.png"
+    },
+    {
+      "type": "league",
+      "id": 5,
+      "label": "UEFA Nations League",
+      "subtitle": "World",
+      "image": "https://media.api-sports.io/football/leagues/5.png"
+    },
+    {
+      "type": "league",
+      "id": 262,
+      "label": "Liga MX",
+      "subtitle": "Mexico",
+      "image": "https://media.api-sports.io/football/leagues/262.png"
+    },
+    {
+      "type": "team",
+      "id": 478,
+      "label": "Instituto Cordoba",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/478.png"
+    },
+    {
+      "type": "team",
+      "id": 460,
+      "label": "San Lorenzo",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/460.png"
+    },
+    {
+      "type": "team",
+      "id": 452,
+      "label": "Tigre",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/452.png"
+    },
+    {
+      "type": "team",
+      "id": 2432,
+      "label": "Barracas Central",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/2432.png"
+    },
+    {
+      "type": "team",
+      "id": 127,
+      "label": "Flamengo",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/127.png"
+    },
+    {
+      "type": "team",
+      "id": 7848,
+      "label": "Mirassol",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/7848.png"
+    },
+    {
+      "type": "team",
+      "id": 96,
+      "label": "Toulouse",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/96.png"
+    },
+    {
+      "type": "team",
+      "id": 79,
+      "label": "Lille",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/79.png"
+    },
+    {
+      "type": "team",
+      "id": 548,
+      "label": "Real Sociedad",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/548.png"
+    },
+    {
+      "type": "team",
+      "id": 538,
+      "label": "Celta Vigo",
+      "subtitle": "Clube ou seleção",
+      "image": "https://media.api-sports.io/football/teams/538.png"
+    }
+  ]
+}

@@ -1,1 +1,26 @@
-{"updatedAt":null,"fixtures":[]}
+{
+  "updatedAt": "2026-09-02T11:58:56.353Z",
+  "fixtures": [
+    {
+      "id": 1492145,
+      "startsAt": "2026-09-02T22:30:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 71,
+        "name": "Serie A",
+        "logo": "https://media.api-sports.io/football/leagues/71.png",
+        "country": "Brazil"
+      },
+      "home": {
+        "id": 127,
+        "name": "Flamengo",
+        "logo": "https://media.api-sports.io/football/teams/127.png"
+      },
+      "away": {
+        "id": 7848,
+        "name": "Mirassol",
+        "logo": "https://media.api-sports.io/football/teams/7848.png"
+      }
+    }
+  ]
+}

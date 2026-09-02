@@ -1,0 +1,49 @@
+{
+  "updatedAt": "2026-09-02T11:58:56.353Z",
+  "fixtures": [
+    {
+      "id": 1552754,
+      "startsAt": "2026-09-03T18:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 61,
+        "name": "Ligue 1",
+        "logo": "https://media.api-sports.io/football/leagues/61.png",
+        "country": "France"
+      },
+      "home": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media.api-sports.io/football/teams/96.png"
+      },
+      "away": {
+        "id": 79,
+        "name": "Lille",
+        "logo": "https://media.api-sports.io/football/teams/79.png"
+      },
+      "venue": "Stadium de Toulouse"
+    },
+    {
+      "id": 1570392,
+      "startsAt": "2026-09-03T19:00:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "country": "Spain"
+      },
+      "home": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media.api-sports.io/football/teams/548.png"
+      },
+      "away": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media.api-sports.io/football/teams/538.png"
+      },
+      "venue": "Anoeta"
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"dataVersion":"empty","updatedAt":null,"lastSuccessAt":null,"lastFailureAt":null}
+{
+  "dataVersion": "2026-09-02T11:58:56.353Z",
+  "updatedAt": "2026-09-02T11:58:56.353Z",
+  "lastSuccessAt": "2026-09-02T11:58:56.353Z",
+  "lastFailureAt": null,
+  "quota": {
+    "used": 12,
+    "limit": 100,
+    "failures": []
+  }
+}

@@ -1,1 +1,124 @@
-{"updatedAt":null,"fixtures":[]}
+{
+  "updatedAt": "2026-09-02T11:58:56.353Z",
+  "fixtures": [
+    {
+      "id": 1493102,
+      "startsAt": "2026-09-01T00:15:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "country": "Argentina"
+      },
+      "home": {
+        "id": 478,
+        "name": "Instituto Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/478.png"
+      },
+      "away": {
+        "id": 460,
+        "name": "San Lorenzo",
+        "logo": "https://media.api-sports.io/football/teams/460.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "venue": "Estadio Presidente Peron"
+    },
+    {
+      "id": 1493105,
+      "startsAt": "2026-09-01T00:15:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "country": "Argentina"
+      },
+      "home": {
+        "id": 452,
+        "name": "Tigre",
+        "logo": "https://media.api-sports.io/football/teams/452.png"
+      },
+      "away": {
+        "id": 2432,
+        "name": "Barracas Central",
+        "logo": "https://media.api-sports.io/football/teams/2432.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "venue": "Estadio Jose Dellagiovanna"
+    },
+    {
+      "id": 1492145,
+      "startsAt": "2026-09-02T22:30:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 71,
+        "name": "Serie A",
+        "logo": "https://media.api-sports.io/football/leagues/71.png",
+        "country": "Brazil"
+      },
+      "home": {
+        "id": 127,
+        "name": "Flamengo",
+        "logo": "https://media.api-sports.io/football/teams/127.png"
+      },
+      "away": {
+        "id": 7848,
+        "name": "Mirassol",
+        "logo": "https://media.api-sports.io/football/teams/7848.png"
+      }
+    },
+    {
+      "id": 1552754,
+      "startsAt": "2026-09-03T18:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 61,
+        "name": "Ligue 1",
+        "logo": "https://media.api-sports.io/football/leagues/61.png",
+        "country": "France"
+      },
+      "home": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media.api-sports.io/football/teams/96.png"
+      },
+      "away": {
+        "id": 79,
+        "name": "Lille",
+        "logo": "https://media.api-sports.io/football/teams/79.png"
+      },
+      "venue": "Stadium de Toulouse"
+    },
+    {
+      "id": 1570392,
+      "startsAt": "2026-09-03T19:00:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "country": "Spain"
+      },
+      "home": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media.api-sports.io/football/teams/548.png"
+      },
+      "away": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media.api-sports.io/football/teams/538.png"
+      },
+      "venue": "Anoeta"
+    }
+  ]
+}
