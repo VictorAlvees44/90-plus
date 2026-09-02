@@ -26,11 +26,11 @@ async function cacheTeamLogo(team) {
   if (!team.logo?.startsWith('https://')) return
   const relativePath = `data/media/teams/${team.id}.png`
   const target = resolve(dataDir, relativePath)
-  try {
-    await access(target)
+  const cached = await access(target).then(() => true).catch(() => false)
+  if (cached) {
     team.logo = relativePath
     return
-  } catch {}
+  }
   try {
     const response = await fetch(team.logo)
     if (!response.ok) throw new Error(`HTTP ${response.status}`)
