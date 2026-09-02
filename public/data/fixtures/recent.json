@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T11:58:56.353Z",
+  "updatedAt": "2026-09-02T12:06:03.210Z",
   "fixtures": [
     {
       "id": 1493102,
@@ -54,6 +54,870 @@
         "away": 0
       },
       "venue": "Estadio Jose Dellagiovanna"
+    },
+    {
+      "id": 1629056,
+      "startsAt": "2026-09-01T16:00:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 137,
+        "name": "Coppa Italia",
+        "logo": "https://media.api-sports.io/football/leagues/137.png",
+        "country": "Italy"
+      },
+      "home": {
+        "id": 523,
+        "name": "Parma",
+        "logo": "https://media.api-sports.io/football/teams/523.png"
+      },
+      "away": {
+        "id": 520,
+        "name": "Cremonese",
+        "logo": "https://media.api-sports.io/football/teams/520.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "venue": "Stadio Ennio Tardini"
+    },
+    {
+      "id": 1550704,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 81,
+        "name": "DFB Pokal",
+        "logo": "https://media.api-sports.io/football/leagues/81.png",
+        "country": "Germany"
+      },
+      "home": {
+        "id": 16078,
+        "name": "HEBC",
+        "logo": "https://media.api-sports.io/football/teams/16078.png"
+      },
+      "away": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media.api-sports.io/football/teams/165.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "venue": "Volksparkstadion"
+    },
+    {
+      "id": 1563120,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1379,
+        "name": "Lincoln",
+        "logo": "https://media.api-sports.io/football/teams/1379.png"
+      },
+      "away": {
+        "id": 67,
+        "name": "Blackburn",
+        "logo": "https://media.api-sports.io/football/teams/67.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "venue": "Sincil Bank"
+    },
+    {
+      "id": 1563121,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1355,
+        "name": "Portsmouth",
+        "logo": "https://media.api-sports.io/football/teams/1355.png"
+      },
+      "away": {
+        "id": 69,
+        "name": "Derby",
+        "logo": "https://media.api-sports.io/football/teams/69.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "venue": "Fratton Park"
+    },
+    {
+      "id": 1563122,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 59,
+        "name": "Preston",
+        "logo": "https://media.api-sports.io/football/teams/59.png"
+      },
+      "away": {
+        "id": 56,
+        "name": "Bristol City",
+        "logo": "https://media.api-sports.io/football/teams/56.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "venue": "Deepdale"
+    },
+    {
+      "id": 1563123,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 62,
+        "name": "Sheffield Utd",
+        "logo": "https://media.api-sports.io/football/teams/62.png"
+      },
+      "away": {
+        "id": 68,
+        "name": "Bolton",
+        "logo": "https://media.api-sports.io/football/teams/68.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "venue": "Bramall Lane"
+    },
+    {
+      "id": 1563125,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 76,
+        "name": "Swansea",
+        "logo": "https://media.api-sports.io/football/teams/76.png"
+      },
+      "away": {
+        "id": 38,
+        "name": "Watford",
+        "logo": "https://media.api-sports.io/football/teams/38.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "venue": "Swansea.com Stadium"
+    },
+    {
+      "id": 1563126,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media.api-sports.io/football/teams/48.png"
+      },
+      "away": {
+        "id": 39,
+        "name": "Wolves",
+        "logo": "https://media.api-sports.io/football/teams/39.png"
+      },
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "venue": "London Stadium"
+    },
+    {
+      "id": 1563719,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1360,
+        "name": "Accrington ST",
+        "logo": "https://media.api-sports.io/football/teams/1360.png"
+      },
+      "away": {
+        "id": 1365,
+        "name": "Grimsby",
+        "logo": "https://media.api-sports.io/football/teams/1365.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "venue": "The Wham Stadium"
+    },
+    {
+      "id": 1563720,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1334,
+        "name": "Bristol Rovers",
+        "logo": "https://media.api-sports.io/football/teams/1334.png"
+      },
+      "away": {
+        "id": 1361,
+        "name": "Colchester",
+        "logo": "https://media.api-sports.io/football/teams/1361.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "venue": "Memorial Stadium"
+    },
+    {
+      "id": 1563721,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1372,
+        "name": "Cheltenham",
+        "logo": "https://media.api-sports.io/football/teams/1372.png"
+      },
+      "away": {
+        "id": 1828,
+        "name": "York",
+        "logo": "https://media.api-sports.io/football/teams/1828.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "venue": "Whaddon Road"
+    },
+    {
+      "id": 1563722,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1345,
+        "name": "Chesterfield",
+        "logo": "https://media.api-sports.io/football/teams/1345.png"
+      },
+      "away": {
+        "id": 1347,
+        "name": "Gillingham",
+        "logo": "https://media.api-sports.io/football/teams/1347.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "venue": "SMH Group Stadium"
+    },
+    {
+      "id": 1563723,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1363,
+        "name": "Crewe",
+        "logo": "https://media.api-sports.io/football/teams/1363.png"
+      },
+      "away": {
+        "id": 1342,
+        "name": "Walsall",
+        "logo": "https://media.api-sports.io/football/teams/1342.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "venue": "Alexandra Stadium"
+    },
+    {
+      "id": 1563724,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1364,
+        "name": "Exeter City",
+        "logo": "https://media.api-sports.io/football/teams/1364.png"
+      },
+      "away": {
+        "id": 1369,
+        "name": "Barnet",
+        "logo": "https://media.api-sports.io/football/teams/1369.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "venue": "St James Park"
+    },
+    {
+      "id": 1563725,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1336,
+        "name": "Fleetwood Town",
+        "logo": "https://media.api-sports.io/football/teams/1336.png"
+      },
+      "away": {
+        "id": 1349,
+        "name": "Oldham",
+        "logo": "https://media.api-sports.io/football/teams/1349.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "venue": "Highbury Stadium"
+    },
+    {
+      "id": 1563726,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1337,
+        "name": "Northampton",
+        "logo": "https://media.api-sports.io/football/teams/1337.png"
+      },
+      "away": {
+        "id": 1362,
+        "name": "Crawley Town",
+        "logo": "https://media.api-sports.io/football/teams/1362.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "venue": "Sixfields Stadium"
+    },
+    {
+      "id": 1563727,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1339,
+        "name": "Rochdale",
+        "logo": "https://media.api-sports.io/football/teams/1339.png"
+      },
+      "away": {
+        "id": 1352,
+        "name": "Shrewsbury",
+        "logo": "https://media.api-sports.io/football/teams/1352.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "venue": "Spotland Stadium"
+    },
+    {
+      "id": 1563728,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1844,
+        "name": "Salford City",
+        "logo": "https://media.api-sports.io/football/teams/1844.png"
+      },
+      "away": {
+        "id": 1367,
+        "name": "Newport County",
+        "logo": "https://media.api-sports.io/football/teams/1367.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "venue": "Peninsula Stadium"
+    },
+    {
+      "id": 1563729,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1353,
+        "name": "Swindon Town",
+        "logo": "https://media.api-sports.io/football/teams/1353.png"
+      },
+      "away": {
+        "id": 1351,
+        "name": "Port Vale",
+        "logo": "https://media.api-sports.io/football/teams/1351.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "venue": "County Ground"
+    },
+    {
+      "id": 1563730,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 42,
+        "name": "League Two",
+        "logo": "https://media.api-sports.io/football/leagues/42.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1381,
+        "name": "Tranmere",
+        "logo": "https://media.api-sports.io/football/teams/1381.png"
+      },
+      "away": {
+        "id": 73,
+        "name": "Rotherham",
+        "logo": "https://media.api-sports.io/football/teams/73.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "venue": "Prenton Park"
+    },
+    {
+      "id": 1564272,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 41,
+        "name": "League One",
+        "logo": "https://media.api-sports.io/football/leagues/41.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1343,
+        "name": "Bradford",
+        "logo": "https://media.api-sports.io/football/teams/1343.png"
+      },
+      "away": {
+        "id": 1370,
+        "name": "Cambridge United",
+        "logo": "https://media.api-sports.io/football/teams/1370.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "venue": "Valley Parade"
+    },
+    {
+      "id": 1564273,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 41,
+        "name": "League One",
+        "logo": "https://media.api-sports.io/football/leagues/41.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1832,
+        "name": "Bromley",
+        "logo": "https://media.api-sports.io/football/teams/1832.png"
+      },
+      "away": {
+        "id": 1373,
+        "name": "Leyton Orient",
+        "logo": "https://media.api-sports.io/football/teams/1373.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "venue": "Hayes Lane"
+    },
+    {
+      "id": 1564275,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 41,
+        "name": "League One",
+        "logo": "https://media.api-sports.io/football/leagues/41.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1354,
+        "name": "Doncaster",
+        "logo": "https://media.api-sports.io/football/teams/1354.png"
+      },
+      "away": {
+        "id": 1376,
+        "name": "Notts County",
+        "logo": "https://media.api-sports.io/football/teams/1376.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "venue": "Eco-Power Stadium"
+    },
+    {
+      "id": 1564276,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 41,
+        "name": "League One",
+        "logo": "https://media.api-sports.io/football/leagues/41.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 37,
+        "name": "Huddersfield",
+        "logo": "https://media.api-sports.io/football/teams/37.png"
+      },
+      "away": {
+        "id": 1338,
+        "name": "Oxford United",
+        "logo": "https://media.api-sports.io/football/teams/1338.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "venue": "Accu Stadium"
+    },
+    {
+      "id": 1564277,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 41,
+        "name": "League One",
+        "logo": "https://media.api-sports.io/football/leagues/41.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 46,
+        "name": "Leicester",
+        "logo": "https://media.api-sports.io/football/teams/46.png"
+      },
+      "away": {
+        "id": 1357,
+        "name": "Plymouth",
+        "logo": "https://media.api-sports.io/football/teams/1357.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "venue": "King Power Stadium"
+    },
+    {
+      "id": 1564279,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 41,
+        "name": "League One",
+        "logo": "https://media.api-sports.io/football/leagues/41.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1350,
+        "name": "Peterborough",
+        "logo": "https://media.api-sports.io/football/teams/1350.png"
+      },
+      "away": {
+        "id": 1368,
+        "name": "Stevenage",
+        "logo": "https://media.api-sports.io/football/teams/1368.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "venue": "Weston Homes Stadium"
+    },
+    {
+      "id": 1564281,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 41,
+        "name": "League One",
+        "logo": "https://media.api-sports.io/football/leagues/41.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1358,
+        "name": "Wycombe",
+        "logo": "https://media.api-sports.io/football/teams/1358.png"
+      },
+      "away": {
+        "id": 74,
+        "name": "Sheffield Wednesday",
+        "logo": "https://media.api-sports.io/football/teams/74.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "venue": "Adams Park"
+    },
+    {
+      "id": 1585188,
+      "startsAt": "2026-09-01T18:45:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 43,
+        "name": "National League",
+        "logo": "https://media.api-sports.io/football/leagues/43.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 1841,
+        "name": "FC Halifax Town",
+        "logo": "https://media.api-sports.io/football/teams/1841.png"
+      },
+      "away": {
+        "id": 1366,
+        "name": "Hartlepool",
+        "logo": "https://media.api-sports.io/football/teams/1366.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "venue": "The Shay"
+    },
+    {
+      "id": 1563119,
+      "startsAt": "2026-09-01T19:00:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 54,
+        "name": "Birmingham",
+        "logo": "https://media.api-sports.io/football/teams/54.png"
+      },
+      "away": {
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media.api-sports.io/football/teams/41.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "venue": "St. Andrew's @ Knighthead Park"
+    },
+    {
+      "id": 1563124,
+      "startsAt": "2026-09-01T19:00:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 75,
+        "name": "Stoke City",
+        "logo": "https://media.api-sports.io/football/teams/75.png"
+      },
+      "away": {
+        "id": 71,
+        "name": "Norwich",
+        "logo": "https://media.api-sports.io/football/teams/71.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "venue": "bet365 Stadium"
+    },
+    {
+      "id": 1628894,
+      "startsAt": "2026-09-01T19:00:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 137,
+        "name": "Coppa Italia",
+        "logo": "https://media.api-sports.io/football/leagues/137.png",
+        "country": "Italy"
+      },
+      "home": {
+        "id": 503,
+        "name": "Torino",
+        "logo": "https://media.api-sports.io/football/teams/503.png"
+      },
+      "away": {
+        "id": 1579,
+        "name": "Monza",
+        "logo": "https://media.api-sports.io/football/teams/1579.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "venue": "Stadio Olimpico di Torino"
+    },
+    {
+      "id": 1520846,
+      "startsAt": "2026-09-01T22:30:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 72,
+        "name": "Serie B",
+        "logo": "https://media.api-sports.io/football/leagues/72.png",
+        "country": "Brazil"
+      },
+      "home": {
+        "id": 148,
+        "name": "Londrina",
+        "logo": "https://media.api-sports.io/football/teams/148.png"
+      },
+      "away": {
+        "id": 152,
+        "name": "Juventude",
+        "logo": "https://media.api-sports.io/football/teams/152.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "venue": "Estádio Jacy Scaff"
     }
   ]
 }

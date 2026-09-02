@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T11:58:56.137Z",
+  "updatedAt": "2026-09-02T12:06:03.208Z",
   "leagues": [
     {
       "id": 71,
@@ -170,6 +170,222 @@
       "priority": 1
     },
     {
+      "id": 72,
+      "name": "Serie B",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/72.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 1
+    },
+    {
+      "id": 75,
+      "name": "Serie C",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/75.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 1
+    },
+    {
+      "id": 76,
+      "name": "Serie D",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/76.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 1
+    },
+    {
+      "id": 547,
+      "name": "Super Cup",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/547.png",
+      "season": 2025,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": false,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 2
+    },
+    {
+      "id": 529,
+      "name": "Super Cup",
+      "country": "Germany",
+      "logo": "https://media.api-sports.io/football/leagues/529.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": false,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 2
+    },
+    {
+      "id": 528,
+      "name": "Community Shield",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/528.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": false,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 2
+    },
+    {
+      "id": 80,
+      "name": "3. Liga",
+      "country": "Germany",
+      "logo": "https://media.api-sports.io/football/leagues/80.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 43,
+      "name": "National League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/43.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": true,
+        "players": false,
+        "top_scorers": false,
+        "top_assists": false,
+        "top_cards": false,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
       "id": 1168,
       "name": "FIFA Intercontinental Cup",
       "country": "World",
@@ -194,6 +410,30 @@
       "priority": 2
     },
     {
+      "id": 45,
+      "name": "FA Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/45.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": false,
+          "lineups": false,
+          "statistics_fixtures": false,
+          "statistics_players": false
+        },
+        "standings": false,
+        "players": false,
+        "top_scorers": false,
+        "top_assists": false,
+        "top_cards": false,
+        "injuries": false,
+        "predictions": true,
+        "odds": false
+      },
+      "priority": 2
+    },
+    {
       "id": 135,
       "name": "Serie A",
       "country": "Italy",
@@ -212,6 +452,30 @@
         "top_assists": true,
         "top_cards": true,
         "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 81,
+      "name": "DFB Pokal",
+      "country": "Germany",
+      "logo": "https://media.api-sports.io/football/leagues/81.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": false,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
         "predictions": true,
         "odds": true
       },
@@ -242,6 +506,30 @@
       "priority": 2
     },
     {
+      "id": 48,
+      "name": "League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/48.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": false,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
       "id": 39,
       "name": "Premier League",
       "country": "England",
@@ -260,6 +548,102 @@
         "top_assists": true,
         "top_cards": true,
         "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 42,
+      "name": "League Two",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/42.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 41,
+      "name": "League One",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/41.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 137,
+      "name": "Coppa Italia",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/137.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": false,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
         "predictions": true,
         "odds": true
       },
@@ -308,6 +692,30 @@
         "top_assists": true,
         "top_cards": true,
         "injuries": true,
+        "predictions": true,
+        "odds": true
+      },
+      "priority": 2
+    },
+    {
+      "id": 79,
+      "name": "2. Bundesliga",
+      "country": "Germany",
+      "logo": "https://media.api-sports.io/football/leagues/79.png",
+      "season": 2026,
+      "coverage": {
+        "fixtures": {
+          "events": true,
+          "lineups": true,
+          "statistics_fixtures": true,
+          "statistics_players": true
+        },
+        "standings": true,
+        "players": true,
+        "top_scorers": true,
+        "top_assists": true,
+        "top_cards": true,
+        "injuries": false,
         "predictions": true,
         "odds": true
       },
