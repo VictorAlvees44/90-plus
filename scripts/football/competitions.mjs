@@ -3,11 +3,11 @@
  * resolves these human-readable targets via /leagues and keeps only male football.
  */
 export const competitionTargets = [
-  { country: 'Brazil', names: ['Serie A', 'Copa do Brasil', 'Paulista - A1', 'Carioca', 'Mineiro - 1', 'Gaúcho - 1', 'Paranaense - 1', 'Baiano - 1', 'Pernambucano - 1', 'Cearense'], priority: 1 },
-  { country: 'England', names: ['Premier League'], priority: 2 },
+  { country: 'Brazil', names: ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil', 'Paulista - A1', 'Carioca', 'Mineiro - 1', 'Gaúcho - 1', 'Paranaense - 1', 'Baiano - 1', 'Pernambucano - 1', 'Cearense'], priority: 1 },
+  { country: 'England', names: ['Premier League', 'Championship', 'League One', 'League Two', 'National League', 'FA Cup', 'League Cup', 'Community Shield'], priority: 2 },
   { country: 'Spain', names: ['La Liga'], priority: 2 },
-  { country: 'Italy', names: ['Serie A'], priority: 2 },
-  { country: 'Germany', names: ['Bundesliga'], priority: 2 },
+  { country: 'Italy', names: ['Serie A', 'Serie B', 'Serie C', 'Coppa Italia', 'Super Cup'], priority: 2 },
+  { country: 'Germany', names: ['Bundesliga', '2. Bundesliga', '3. Liga', 'DFB Pokal', 'Super Cup'], priority: 2 },
   { country: 'France', names: ['Ligue 1'], priority: 2 },
   { country: 'World', names: ['Club World Cup', 'FIFA Intercontinental Cup'], priority: 2 },
   { country: 'World', names: ['CONMEBOL Libertadores', 'CONMEBOL Sudamericana', 'CONMEBOL Recopa'], priority: 3 },
@@ -19,7 +19,10 @@ export const competitionTargets = [
 ]
 
 const womenPattern = /women|femen|femin|female/i
+export function competitionTargetFor(league) {
+  if (womenPattern.test(league?.name ?? '')) return undefined
+  return competitionTargets.find(target => target.country === league?.country && target.names.includes(league?.name))
+}
 export function isEligibleLeague(league) {
-  if (womenPattern.test(league.league?.name ?? '')) return false
-  return competitionTargets.some(target => target.country === league.country?.name && target.names.includes(league.league?.name))
+  return Boolean(competitionTargetFor({ country: league.country?.name, name: league.league?.name }))
 }

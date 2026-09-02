@@ -1,6 +1,6 @@
 import { mkdir, readFile, rename, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
-import { competitionTargets, isEligibleLeague } from './competitions.mjs'
+import { competitionTargetFor, isEligibleLeague } from './competitions.mjs'
 import { dateInSaoPaulo, normalizeFixture, normalizePlayerProfile, normalizeTeamProfile } from './normalize.mjs'
 
 const root = resolve(import.meta.dirname, '../..')
@@ -51,9 +51,8 @@ async function main() {
       id: item.league.id, name: item.league.name, country: item.country.name, logo: item.league.logo,
       season: item.seasons.find(season => season.current)?.year ?? null,
       coverage: item.seasons.find(season => season.current)?.coverage ?? null,
-      priority: competitionTargets.find(target => target.country === item.country.name && target.names.includes(item.league.name))?.priority ?? 99
+      priority: competitionTargetFor({ country: item.country.name, name: item.league.name })?.priority ?? 99
     })).sort((a, b) => a.priority - b.priority)
-    await preserveOnFailure('leagues/enabled.json', { updatedAt: new Date().toISOString(), leagues: selectedLeagues })
 
     // Free accounts require an additional filter with from/to and do not allow
     // the global last filter. Three explicit dates preserve the 16-call budget.
@@ -62,6 +61,15 @@ async function main() {
       api(`/fixtures?date=${today}`),
       api(`/fixtures?date=${addDays(today, 1)}`)
     ])
+    // A cup can have fixtures today without being returned by /leagues?current.
+    // Discover those allowed national competitions from the fixture response too.
+    for (const raw of [...recentRaw, ...todayRaw, ...upcomingRaw]) {
+      const target = competitionTargetFor({ country: raw.league.country, name: raw.league.name })
+      if (!target || selectedLeagues.some(league => league.id === raw.league.id)) continue
+      selectedLeagues.push({ id: raw.league.id, name: raw.league.name, country: raw.league.country, ...(raw.league.logo ? { logo: raw.league.logo } : {}), season: raw.league.season ?? null, coverage: null, priority: target.priority })
+    }
+    selectedLeagues.sort((a, b) => a.priority - b.priority)
+    await preserveOnFailure('leagues/enabled.json', { updatedAt: new Date().toISOString(), leagues: selectedLeagues })
     const selectedIds = new Set(selectedLeagues.map(league => league.id))
     const selected = raw => raw.filter(item => selectedIds.has(item.league.id)).map(normalizeFixture)
     const timestamp = new Date().toISOString()
