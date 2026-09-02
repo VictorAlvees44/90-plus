@@ -13,7 +13,6 @@ const token = process.env.API_FOOTBALL_KEY
 const collectProfiles = process.env.COLLECT_PROFILES === '1' || process.argv.includes('--profiles')
 
 function log(event, details = {}) { console.log(JSON.stringify({ at: new Date().toISOString(), event, ...details })) }
-function addDays(date, days) { const copy = new Date(`${date}T12:00:00Z`); copy.setUTCDate(copy.getUTCDate() + days); return copy.toISOString().slice(0, 10) }
 async function preserveOnFailure(path, payload) {
   const absolute = resolve(dataDir, path)
   await mkdir(dirname(absolute), { recursive: true })
