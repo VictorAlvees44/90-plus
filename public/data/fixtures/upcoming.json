@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T12:06:03.210Z",
+  "updatedAt": "2026-09-02T13:16:09.964Z",
   "fixtures": [
     {
       "id": 1629057,
@@ -14,12 +14,12 @@
       "home": {
         "id": 522,
         "name": "Palermo",
-        "logo": "https://media.api-sports.io/football/teams/522.png"
+        "logo": "data/media/teams/522.png"
       },
       "away": {
         "id": 1693,
         "name": "Mantova",
-        "logo": "https://media.api-sports.io/football/teams/1693.png"
+        "logo": "data/media/teams/1693.png"
       },
       "venue": "Stadio Renzo Barbera"
     },
@@ -36,12 +36,12 @@
       "home": {
         "id": 96,
         "name": "Toulouse",
-        "logo": "https://media.api-sports.io/football/teams/96.png"
+        "logo": "data/media/teams/96.png"
       },
       "away": {
         "id": 79,
         "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
+        "logo": "data/media/teams/79.png"
       },
       "venue": "Stadium de Toulouse"
     },
@@ -58,12 +58,12 @@
       "home": {
         "id": 548,
         "name": "Real Sociedad",
-        "logo": "https://media.api-sports.io/football/teams/548.png"
+        "logo": "data/media/teams/548.png"
       },
       "away": {
         "id": 538,
         "name": "Celta Vigo",
-        "logo": "https://media.api-sports.io/football/teams/538.png"
+        "logo": "data/media/teams/538.png"
       },
       "venue": "Anoeta"
     },
@@ -80,12 +80,12 @@
       "home": {
         "id": 490,
         "name": "Cagliari",
-        "logo": "https://media.api-sports.io/football/teams/490.png"
+        "logo": "data/media/teams/490.png"
       },
       "away": {
         "id": 504,
         "name": "Hellas Verona",
-        "logo": "https://media.api-sports.io/football/teams/504.png"
+        "logo": "data/media/teams/504.png"
       },
       "venue": "Unipol Domus"
     },
@@ -102,33 +102,12 @@
       "home": {
         "id": 755,
         "name": "Nautico Recife",
-        "logo": "https://media.api-sports.io/football/teams/755.png"
+        "logo": "data/media/teams/755.png"
       },
       "away": {
         "id": 2618,
         "name": "Botafogo SP",
-        "logo": "https://media.api-sports.io/football/teams/2618.png"
-      }
-    },
-    {
-      "id": 1629824,
-      "startsAt": "2026-09-03T23:00:00+00:00",
-      "status": "scheduled",
-      "league": {
-        "id": 76,
-        "name": "Serie D",
-        "logo": "https://media.api-sports.io/football/leagues/76.png",
-        "country": "Brazil"
-      },
-      "home": {
-        "id": 150,
-        "name": "CSA",
-        "logo": "https://media.api-sports.io/football/teams/150.png"
-      },
-      "away": {
-        "id": 7781,
-        "name": "Nacional AM",
-        "logo": "https://media.api-sports.io/football/teams/7781.png"
+        "logo": "data/media/teams/2618.png"
       }
     }
   ]

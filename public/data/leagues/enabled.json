@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T12:06:03.208Z",
+  "updatedAt": "2026-09-02T13:16:09.962Z",
   "leagues": [
     {
       "id": 71,
@@ -198,30 +198,6 @@
       "name": "Serie C",
       "country": "Brazil",
       "logo": "https://media.api-sports.io/football/leagues/75.png",
-      "season": 2026,
-      "coverage": {
-        "fixtures": {
-          "events": true,
-          "lineups": true,
-          "statistics_fixtures": false,
-          "statistics_players": false
-        },
-        "standings": true,
-        "players": true,
-        "top_scorers": true,
-        "top_assists": true,
-        "top_cards": true,
-        "injuries": false,
-        "predictions": true,
-        "odds": true
-      },
-      "priority": 1
-    },
-    {
-      "id": 76,
-      "name": "Serie D",
-      "country": "Brazil",
-      "logo": "https://media.api-sports.io/football/leagues/76.png",
       "season": 2026,
       "coverage": {
         "fixtures": {
