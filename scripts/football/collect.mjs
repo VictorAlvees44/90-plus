@@ -25,7 +25,7 @@ async function readSnapshot(path) { return readFile(resolve(dataDir, path), 'utf
 async function cacheTeamLogo(team) {
   if (!team.logo?.startsWith('https://')) return
   const relativePath = `data/media/teams/${team.id}.png`
-  const target = resolve(dataDir, relativePath)
+  const target = resolve(dataDir, 'media', 'teams', `${team.id}.png`)
   const cached = await access(target).then(() => true).catch(() => false)
   if (cached) {
     team.logo = relativePath
