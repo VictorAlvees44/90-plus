@@ -13,6 +13,7 @@ const token = process.env.API_FOOTBALL_KEY
 const collectProfiles = process.env.COLLECT_PROFILES === '1' || process.argv.includes('--profiles')
 
 function log(event, details = {}) { console.log(JSON.stringify({ at: new Date().toISOString(), event, ...details })) }
+function addDays(date, days) { const copy = new Date(`${date}T12:00:00Z`); copy.setUTCDate(copy.getUTCDate() + days); return copy.toISOString().slice(0, 10) }
 async function preserveOnFailure(path, payload) {
   const absolute = resolve(dataDir, path)
   await mkdir(dirname(absolute), { recursive: true })
@@ -63,12 +64,12 @@ async function main() {
     })).sort((a, b) => a.priority - b.priority)
     await preserveOnFailure('leagues/enabled.json', { updatedAt: new Date().toISOString(), leagues: selectedLeagues })
 
-    // The API requires a team or league with from/to. Its global last/next
-    // filters keep the same three-call window without exhausting the free plan.
+    // Free accounts require an additional filter with from/to and do not allow
+    // the global last filter. Three explicit dates preserve the 16-call budget.
     const [recentRaw, todayRaw, upcomingRaw] = await Promise.all([
-      api('/fixtures?last=20'),
+      api(`/fixtures?date=${addDays(today, -1)}`),
       api(`/fixtures?date=${today}`),
-      api('/fixtures?next=20')
+      api(`/fixtures?date=${addDays(today, 1)}`)
     ])
     const selectedIds = new Set(selectedLeagues.map(league => league.id))
     const selected = raw => raw.filter(item => selectedIds.has(item.league.id)).map(normalizeFixture)
