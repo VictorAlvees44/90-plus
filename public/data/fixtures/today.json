@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-02T13:16:09.964Z",
+  "updatedAt": "2026-09-02T13:17:45.887Z",
   "fixtures": [
     {
       "id": 1629059,
       "startsAt": "2026-09-02T13:00:00+00:00",
       "status": "live",
-      "elapsed": 15,
+      "elapsed": 17,
       "league": {
         "id": 137,
         "name": "Coppa Italia",
