@@ -64,11 +64,12 @@ async function main() {
     })).sort((a, b) => a.priority - b.priority)
     await preserveOnFailure('leagues/enabled.json', { updatedAt: new Date().toISOString(), leagues: selectedLeagues })
 
-    // Date ranges replace dozens of per-league calls and preserve the free-plan quota.
+    // The API requires a team or league with from/to. Its global last/next
+    // filters keep the same three-call window without exhausting the free plan.
     const [recentRaw, todayRaw, upcomingRaw] = await Promise.all([
-      api(`/fixtures?from=${addDays(today, -7)}&to=${addDays(today, -1)}`),
+      api('/fixtures?last=20'),
       api(`/fixtures?date=${today}`),
-      api(`/fixtures?from=${addDays(today, 1)}&to=${addDays(today, 30)}`)
+      api('/fixtures?next=20')
     ])
     const selectedIds = new Set(selectedLeagues.map(league => league.id))
     const selected = raw => raw.filter(item => selectedIds.has(item.league.id)).map(normalizeFixture)
@@ -142,7 +143,7 @@ async function main() {
         let trophiesResponse
         try { playerResponse = await api(`/players?id=${candidate.player.id}&season=${candidate.league?.season ?? new Date().getFullYear()}`) } catch (error) { log('player_statistics_skipped', { player: candidate.player.id, message: error instanceof Error ? error.message : 'Erro desconhecido.' }) }
         try { transfersResponse = await api(`/transfers?player=${candidate.player.id}`) } catch (error) { log('transfers_skipped', { player: candidate.player.id, message: error instanceof Error ? error.message : 'Erro desconhecido.' }) }
-        try { trophiesResponse = await api(`/players/trophies?player=${candidate.player.id}`) } catch (error) { log('trophies_skipped', { player: candidate.player.id, message: error instanceof Error ? error.message : 'Erro desconhecido.' }) }
+        try { trophiesResponse = await api(`/trophies?player=${candidate.player.id}`) } catch (error) { log('trophies_skipped', { player: candidate.player.id, message: error instanceof Error ? error.message : 'Erro desconhecido.' }) }
         const previous = await readSnapshot(`players/${candidate.player.id}.json`)
         const profile = normalizePlayerProfile({ ...candidate.player, team: candidate.team }, playerResponse, transfersResponse, trophiesResponse, timestamp)
         await preserveOnFailure(`players/${candidate.player.id}.json`, { ...previous, ...profile })
