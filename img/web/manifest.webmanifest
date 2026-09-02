@@ -1,0 +1,26 @@
+{
+  "name": "90+",
+  "short_name": "90+",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08100D",
+  "theme_color": "#12372A",
+  "icons": [
+    {
+      "src": "/icons/pwa-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/pwa-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/pwa-icon-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export function EmptyData({ title = 'Nenhum dado disponível', text }: { title?: string; text?: string }) { return <section className="empty-state compact"><h1>{title}</h1>{text && <p>{text}</p>}</section> }

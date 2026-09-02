@@ -1,0 +1,28 @@
+name: Update club and player profiles
+on:
+  schedule:
+    - cron: '35 02 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: football-profiles
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 24, cache: npm }
+      - run: npm ci
+      - run: npm run collect:profiles
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+      - name: Commit updated profiles
+        run: |
+          git config user.name "90+ data bot"
+          git config user.email "actions@github.com"
+          git add public/data
+          git diff --cached --quiet || git commit -m "chore(data): update club and player profiles"
+          git push

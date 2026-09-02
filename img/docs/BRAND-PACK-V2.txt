@@ -1,0 +1,27 @@
+90+ BRAND PACK v2
+CORRECTED BASE ASSETS
+
+The source assets in this package are the seven files supplied in the latest correction.
+All derivative assets are based on the corrected PWA 512x512 icon, favicon 64x64,
+dark background, splash, maskable icon and Apple icon.
+
+Canonical palette visible in the supplied visual identity:
+- Main field green: #12372A
+- Dark stripe green: #0F2E22
+- Sage line: #4A7A62
+- Cream: #F4EDE4
+- Orange accent: #E8A33D
+
+Directories:
+source/       exact files supplied in the correction
+icons/        application and PWA derivatives
+favicon/      browser favicons
+logos/        header lockup derived from the corrected icon
+backgrounds/  supplied dark background and splash
+social/       1200x630 social preview derived from corrected assets
+monochrome/   transparent monochrome derivatives
+web/          manifest and HTML head snippet
+docs/         this specification
+
+IMPORTANT:
+The source/ directory is the visual reference. Do not replace it with older assets.
