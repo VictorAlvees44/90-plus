@@ -42,7 +42,10 @@ async function api(path) {
   if (response.status === 429) throw new Error('A API-Football informou limite de requisições (429).')
   if (!response.ok) throw new Error(`API-Football respondeu HTTP ${response.status} em ${path}.`)
   const body = await response.json()
-  if (body.errors && Object.keys(body.errors).length > 0) throw new Error(`API-Football retornou erro em ${path}.`)
+  if (body.errors && Object.keys(body.errors).length > 0) {
+    const details = Object.entries(body.errors).map(([field, message]) => `${field}: ${Array.isArray(message) ? message.join(', ') : message}`).join('; ')
+    throw new Error(`API-Football retornou erro em ${path}: ${details}`)
+  }
   log('request_ok', { endpoint: path, results: body.results, quotaUsed: quota.used })
   return body.response ?? []
 }
