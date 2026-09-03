@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "updatedAt": "2026-09-03T14:34:13.709Z",
   "fixtures": [
     {
       "id": 1576161,
@@ -408,7 +408,8 @@
         "id": 1193,
         "name": "Cuiaba",
         "logo": "data/media/teams/1193.png"
-      }
+      },
+      "venue": "Estadio Heriberto Hülse"
     },
     {
       "id": 1490436,
@@ -451,7 +452,8 @@
         "id": 142,
         "name": "Vila Nova",
         "logo": "data/media/teams/142.png"
-      }
+      },
+      "venue": "Estadio Joaquim Portugal"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "updatedAt": "2026-09-03T14:34:13.709Z",
   "fixtures": [
     {
       "id": 1629059,
@@ -25,7 +25,8 @@
       "score": {
         "home": 1,
         "away": 1
-      }
+      },
+      "venue": "Mapei Stadium"
     },
     {
       "id": 1628895,
@@ -52,7 +53,7 @@
         "home": 2,
         "away": 1
       },
-      "venue": "Bluenergy Stadium - Stadio Friuli"
+      "venue": "Bluenergy Stadium"
     },
     {
       "id": 1550705,
@@ -78,7 +79,8 @@
       "score": {
         "home": 1,
         "away": 4
-      }
+      },
+      "venue": "Bremer Brücke"
     },
     {
       "id": 1563128,
@@ -132,7 +134,7 @@
         "home": 2,
         "away": 1
       },
-      "venue": "Loftus Road"
+      "venue": "Loftus Road Stadium"
     },
     {
       "id": 1563130,
@@ -347,7 +349,8 @@
       "score": {
         "home": 2,
         "away": 0
-      }
+      },
+      "venue": "Estádio do Maracanã"
     },
     {
       "id": 1629057,
@@ -456,7 +459,8 @@
         "id": 2618,
         "name": "Botafogo SP",
         "logo": "data/media/teams/2618.png"
-      }
+      },
+      "venue": "Estadio dos Aflitos"
     },
     {
       "id": 1576161,
@@ -865,7 +869,8 @@
         "id": 1193,
         "name": "Cuiaba",
         "logo": "data/media/teams/1193.png"
-      }
+      },
+      "venue": "Estadio Heriberto Hülse"
     },
     {
       "id": 1490436,
@@ -908,7 +913,8 @@
         "id": 142,
         "name": "Vila Nova",
         "logo": "data/media/teams/142.png"
-      }
+      },
+      "venue": "Estadio Joaquim Portugal"
     }
   ]
 }

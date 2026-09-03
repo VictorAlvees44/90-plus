@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "updatedAt": "2026-09-03T14:34:13.709Z",
   "fixtures": [
     {
       "id": 1629057,
@@ -108,7 +108,8 @@
         "id": 2618,
         "name": "Botafogo SP",
         "logo": "data/media/teams/2618.png"
-      }
+      },
+      "venue": "Estadio dos Aflitos"
     }
   ]
 }
