@@ -20,6 +20,38 @@ export function normalizeFixture(item) {
   }
 }
 
+const footballDataStatuses = {
+  SCHEDULED: 'scheduled', TIMED: 'scheduled', IN_PLAY: 'live', PAUSED: 'halftime',
+  FINISHED: 'finished', POSTPONED: 'postponed', CANCELLED: 'cancelled',
+  SUSPENDED: 'suspended'
+}
+
+export function normalizeFootballDataStatus(status) { return footballDataStatuses[status] ?? 'unknown' }
+
+// football-data.org has a deliberately smaller schema than API-Football.  Keep
+// this mapper here so every published fixture follows the app's single format.
+export function normalizeFootballDataFixture(item) {
+  return {
+    // Negative IDs make fallback records unambiguous and avoid collisions with
+    // API-Football IDs in the local fixture index.
+    id: -Math.abs(item.id),
+    startsAt: item.utcDate,
+    status: normalizeFootballDataStatus(item.status),
+    league: {
+      id: item.competition?.id,
+      name: item.competition?.name ?? 'Competição',
+      ...(item.competition?.emblem ? { logo: item.competition.emblem } : {}),
+      ...(item.area?.name ? { country: item.area.name } : {})
+    },
+    home: { id: item.homeTeam?.id, name: item.homeTeam?.name ?? 'Mandante', ...(item.homeTeam?.crest ? { logo: item.homeTeam.crest } : {}) },
+    away: { id: item.awayTeam?.id, name: item.awayTeam?.name ?? 'Visitante', ...(item.awayTeam?.crest ? { logo: item.awayTeam.crest } : {}) },
+    ...(item.score?.fullTime?.home !== null && item.score?.fullTime?.home !== undefined && item.score?.fullTime?.away !== null && item.score?.fullTime?.away !== undefined
+      ? { score: { home: item.score.fullTime.home, away: item.score.fullTime.away } }
+      : {}),
+    ...(item.venue ? { venue: item.venue } : {})
+  }
+}
+
 function normalizePerson(person) {
   return person?.name ? { ...(person.id ? { id: person.id } : {}), name: person.name } : undefined
 }

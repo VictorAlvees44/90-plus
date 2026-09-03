@@ -11,9 +11,11 @@ export interface Fixture {
   away: Team
   score?: { home: number; away: number }
   venue?: string
+  broadcast?: string[]
+  sourceUrl?: string
 }
 export interface FixturesSnapshot { updatedAt: string | null; fixtures: Fixture[] }
-export interface DataMeta { dataVersion: string; updatedAt: string | null; lastSuccessAt: string | null; lastFailureAt: string | null; quota?: { used?: number; limit?: number; failures?: string[] } }
+export interface DataMeta { dataVersion: string; updatedAt: string | null; lastSuccessAt: string | null; lastFailureAt: string | null; source?: 'api-football' | 'football-data.org'; quota?: { used?: number; limit?: number; failures?: string[] } }
 export interface LeagueSummary { id: number; name: string; country: string; logo?: string; coverage?: { standings?: boolean }; priority: number }
 export interface StandingRow { rank: number; team: Team; played: number; win: number; draw: number; lose: number; goalsFor: number; goalsAgainst: number; goalDiff: number; points: number; form?: string }
 export interface LeagueStanding { league: LeagueSummary; group?: string; rows: StandingRow[] }

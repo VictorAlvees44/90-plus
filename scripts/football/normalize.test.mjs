@@ -1,11 +1,17 @@
 import { describe, expect, it } from 'vitest'
-import { normalizeMatchDetail, normalizePlayerProfile, normalizeStatus, normalizeTeamProfile } from './normalize.mjs'
+import { normalizeFootballDataFixture, normalizeMatchDetail, normalizePlayerProfile, normalizeStatus, normalizeTeamProfile } from './normalize.mjs'
 
 describe('normalização API-Football', () => {
   it('mapeia os status de finalização', () => {
     expect(normalizeStatus('FT')).toBe('finished')
     expect(normalizeStatus('PEN')).toBe('after_penalties')
     expect(normalizeStatus('CANC')).toBe('cancelled')
+  })
+
+  it('normaliza a resposta de contingência do football-data.org', () => {
+    const fixture = normalizeFootballDataFixture({ id: 42, utcDate: '2026-09-03T19:30:00Z', status: 'TIMED', area: { name: 'Brazil' }, competition: { id: 2013, name: 'Campeonato Brasileiro Série A', emblem: 'https://example.test/league.png' }, homeTeam: { id: 1, name: 'Casa', crest: 'https://example.test/home.png' }, awayTeam: { id: 2, name: 'Fora', crest: 'https://example.test/away.png' }, score: { fullTime: { home: null, away: null } } })
+    expect(fixture).toEqual(expect.objectContaining({ id: -42, status: 'scheduled', league: expect.objectContaining({ country: 'Brazil' }), home: expect.objectContaining({ name: 'Casa' }) }))
+    expect(fixture.score).toBeUndefined()
   })
 
   it('remove campos de detalhes que a API não forneceu', () => {

@@ -2,6 +2,7 @@ import { access, mkdir, readFile, rename, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { competitionTargetFor, isEligibleLeague } from './competitions.mjs'
 import { dateInSaoPaulo, normalizeFixture, normalizePlayerProfile, normalizeTeamProfile } from './normalize.mjs'
+import { fetchFootballDataFixtures } from './football-data.mjs'
 
 const root = resolve(import.meta.dirname, '../..')
 const dataDir = resolve(root, 'public/data')
@@ -10,6 +11,7 @@ const quota = { used: 0, limit: 100, failures: [] }
 const now = new Date()
 const today = dateInSaoPaulo(now)
 const token = process.env.API_FOOTBALL_KEY
+const fallbackToken = process.env.FOOTBALL_DATA_KEY
 const collectProfiles = process.env.COLLECT_PROFILES === '1' || process.argv.includes('--profiles')
 
 function log(event, details = {}) { console.log(JSON.stringify({ at: new Date().toISOString(), event, ...details })) }
@@ -71,10 +73,64 @@ async function api(path) {
   return body.response ?? []
 }
 
+function validEditorialFixture(fixture) {
+  return Number.isInteger(fixture?.id) && fixture.id < 0 && typeof fixture.startsAt === 'string' && typeof fixture.status === 'string'
+    && Number.isInteger(fixture.league?.id) && typeof fixture.league?.name === 'string'
+    && Number.isInteger(fixture.home?.id) && typeof fixture.home?.name === 'string'
+    && Number.isInteger(fixture.away?.id) && typeof fixture.away?.name === 'string'
+}
+
+async function editorialFixtures() {
+  const snapshot = await readSnapshot('editorial/fixtures.json')
+  const fixtures = Array.isArray(snapshot?.fixtures) ? snapshot.fixtures.filter(validEditorialFixture) : []
+  const rejected = Array.isArray(snapshot?.fixtures) ? snapshot.fixtures.length - fixtures.length : 0
+  if (rejected) log('editorial_fixtures_skipped', { rejected })
+  return fixtures
+}
+
+function withEditorialFixtures(fixtures, editorial, day) {
+  const additions = editorial.filter(fixture => dateInSaoPaulo(fixture.startsAt) === day)
+  return [...new Map([...fixtures, ...additions].map(fixture => [fixture.id, fixture])).values()]
+}
+
+async function collectFootballDataFallback(primaryError) {
+  const timestamp = new Date().toISOString()
+  log('fallback_started', { provider: 'football-data.org', reason: primaryError instanceof Error ? primaryError.message : 'Falha na fonte principal.' })
+  // One three-day request per competition keeps the fallback at five requests,
+  // below the free tier's per-minute ceiling.
+  const fallback = await fetchFootballDataFixtures({
+    token: fallbackToken,
+    dateFrom: addDays(today, -1),
+    dateTo: addDays(today, 1),
+    onRequest: (competition, results) => log('fallback_request_ok', { competition: competition.name, results })
+  })
+  const editorial = await editorialFixtures()
+  const recent = withEditorialFixtures(fallback.fixtures.filter(fixture => dateInSaoPaulo(fixture.startsAt) === addDays(today, -1)), editorial, addDays(today, -1))
+  const todayFixtures = withEditorialFixtures(fallback.fixtures.filter(fixture => dateInSaoPaulo(fixture.startsAt) === today), editorial, today)
+  const upcoming = withEditorialFixtures(fallback.fixtures.filter(fixture => dateInSaoPaulo(fixture.startsAt) === addDays(today, 1)), editorial, addDays(today, 1))
+  const fixtureIndex = [...recent, ...todayFixtures, ...upcoming]
+  await cacheFixtureLogos(fixtureIndex)
+  await preserveOnFailure('leagues/enabled.json', { updatedAt: timestamp, leagues: fallback.leagues })
+  await preserveOnFailure('fixtures/recent.json', { updatedAt: timestamp, fixtures: recent })
+  await preserveOnFailure('fixtures/today.json', { updatedAt: timestamp, fixtures: todayFixtures })
+  await preserveOnFailure('fixtures/upcoming.json', { updatedAt: timestamp, fixtures: upcoming })
+  await preserveOnFailure('fixtures/index.json', { updatedAt: timestamp, fixtures: fixtureIndex })
+  const searchItems = [
+    ...fallback.leagues.map(league => ({ type: 'league', id: league.id, label: league.name, subtitle: league.country })),
+    ...[...new Map(fixtureIndex.flatMap(fixture => [fixture.home, fixture.away]).map(team => [team.id, team])).values()].map(team => ({ type: 'team', id: team.id, label: team.name, subtitle: 'Clube ou seleção', ...(team.logo ? { image: team.logo } : {}) }))
+  ]
+  await preserveOnFailure('search.json', { updatedAt: timestamp, items: searchItems })
+  // Tables, player profiles and match events remain from the most recent
+  // primary snapshot: football-data.org's free fallback only supplies fixtures.
+  await preserveOnFailure('meta.json', { dataVersion: timestamp, updatedAt: timestamp, lastSuccessAt: timestamp, lastFailureAt: null, source: 'football-data.org', quota: { ...quota, fallbackUsed: 5, primaryFailure: primaryError instanceof Error ? primaryError.message : 'Falha desconhecida.' } })
+  log('fallback_finished', { provider: 'football-data.org', leagues: fallback.leagues.length, fixtures: fixtureIndex.length })
+}
+
 async function main() {
-  if (!token) throw new Error('API_FOOTBALL_KEY não configurada. A chave deve existir apenas em variável de ambiente ou GitHub Secret.')
+  if (!token && !fallbackToken) throw new Error('Nenhuma chave configurada. Defina API_FOOTBALL_KEY e, para contingência, FOOTBALL_DATA_KEY como GitHub Secrets.')
   log('collection_started', { today, quotaLimit: quota.limit })
   try {
+    if (!token) throw new Error('API_FOOTBALL_KEY não configurada; iniciando contingência.')
     // /leagues carries season-level coverage. We save only validated targets.
     const leagues = await api('/leagues?current=true')
     const selectedLeagues = leagues.filter(isEligibleLeague).map(item => ({
@@ -103,9 +159,10 @@ async function main() {
     const selectedIds = new Set(selectedLeagues.map(league => league.id))
     const selected = raw => raw.filter(item => selectedIds.has(item.league.id)).map(normalizeFixture)
     const timestamp = new Date().toISOString()
-    const recent = selected(recentRaw)
-    const todayFixtures = selected(todayRaw)
-    const upcoming = selected(upcomingRaw)
+    const editorial = await editorialFixtures()
+    const recent = withEditorialFixtures(selected(recentRaw), editorial, addDays(today, -1))
+    const todayFixtures = withEditorialFixtures(selected(todayRaw), editorial, today)
+    const upcoming = withEditorialFixtures(selected(upcomingRaw), editorial, addDays(today, 1))
     const fixtureIndex = [...recent, ...todayFixtures, ...upcoming]
     await cacheFixtureLogos(fixtureIndex)
     await preserveOnFailure('fixtures/recent.json', { updatedAt: timestamp, fixtures: recent })
@@ -199,15 +256,28 @@ async function main() {
       ...[...new Map([...details.flatMap(detail => (detail.lineups ?? []).flatMap(lineup => [...lineup.starters, ...lineup.substitutes])), ...profiles.flatMap(profile => profile.squad ?? [])].filter(player => player.id).map(player => [player.id, player])).values()].map(player => ({ type: 'player', id: player.id, label: player.name, subtitle: 'Jogador', ...(player.photo ? { image: player.photo } : {}) }))
     ]
     await preserveOnFailure('search.json', { updatedAt: timestamp, items: searchItems })
-    await preserveOnFailure('meta.json', { dataVersion: timestamp, updatedAt: timestamp, lastSuccessAt: timestamp, lastFailureAt: null, quota: { ...quota } })
+    await preserveOnFailure('meta.json', { dataVersion: timestamp, updatedAt: timestamp, lastSuccessAt: timestamp, lastFailureAt: null, source: 'api-football', quota: { ...quota } })
     log('collection_finished', { quotaUsed: quota.used, quotaRemainingEstimate: quota.limit - quota.used, leagues: selectedLeagues.length })
   } catch (error) {
-    const message = error instanceof Error ? error.message : 'Erro desconhecido no coletor.'
+    let terminalError = error
+    if (fallbackToken) {
+      try {
+        await collectFootballDataFallback(error)
+        return
+      } catch (fallbackError) {
+        const primaryMessage = error instanceof Error ? error.message : 'Erro desconhecido na fonte principal.'
+        const fallbackMessage = fallbackError instanceof Error ? fallbackError.message : 'Erro desconhecido na contingência.'
+        quota.failures.push(primaryMessage, fallbackMessage)
+        log('fallback_failed', { primaryMessage, fallbackMessage })
+        terminalError = fallbackError
+      }
+    }
+    const message = terminalError instanceof Error ? terminalError.message : 'Erro desconhecido no coletor.'
     quota.failures.push(message)
     const previous = await readFile(resolve(dataDir, 'meta.json'), 'utf8').then(JSON.parse).catch(() => ({}))
     await preserveOnFailure('meta.json', { ...previous, lastFailureAt: new Date().toISOString(), quota: { ...quota } })
     log('collection_failed', { message, quotaUsed: quota.used })
-    throw error
+    throw terminalError
   }
 }
 main()
