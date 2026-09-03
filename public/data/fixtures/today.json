@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-09-03T14:34:13.709Z",
+  "updatedAt": "2026-09-03T18:35:32.599Z",
   "fixtures": [
     {
       "id": 1629057,
       "startsAt": "2026-09-03T16:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 137,
         "name": "Coppa Italia",
@@ -20,6 +21,10 @@
         "id": 1693,
         "name": "Mantova",
         "logo": "data/media/teams/1693.png"
+      },
+      "score": {
+        "home": 5,
+        "away": 2
       },
       "venue": "Stadio Renzo Barbera"
     },
