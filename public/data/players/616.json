@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 616,
+    "name": "A. Murić",
+    "age": 27,
+    "number": 49,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/616.png"
+  },
+  "team": {
+    "id": 488,
+    "name": "Sassuolo",
+    "logo": "https://media.api-sports.io/football/teams/488.png",
+    "country": "Italy",
+    "founded": 1922,
+    "national": false
+  }
+}

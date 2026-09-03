@@ -1,31 +1,52 @@
 {
-  "updatedAt": "2026-09-02T22:37:21.900Z",
+  "updatedAt": "2026-09-03T07:21:16.450Z",
   "fixtures": [
     {
-      "id": 1629057,
-      "startsAt": "2026-09-03T16:00:00+00:00",
+      "id": 1576161,
+      "startsAt": "2026-09-04T16:30:00+00:00",
       "status": "scheduled",
       "league": {
-        "id": 137,
-        "name": "Coppa Italia",
-        "logo": "https://media.api-sports.io/football/leagues/137.png",
-        "country": "Italy"
+        "id": 79,
+        "name": "2. Bundesliga",
+        "logo": "https://media.api-sports.io/football/leagues/79.png",
+        "country": "Germany"
       },
       "home": {
-        "id": 522,
-        "name": "Palermo",
-        "logo": "data/media/teams/522.png"
+        "id": 188,
+        "name": "Arminia Bielefeld",
+        "logo": "data/media/teams/188.png"
       },
       "away": {
-        "id": 1693,
-        "name": "Mantova",
-        "logo": "data/media/teams/1693.png"
-      },
-      "venue": "Stadio Renzo Barbera"
+        "id": 186,
+        "name": "FC St. Pauli",
+        "logo": "data/media/teams/186.png"
+      }
     },
     {
-      "id": 1552754,
-      "startsAt": "2026-09-03T18:45:00+00:00",
+      "id": 1576163,
+      "startsAt": "2026-09-04T16:30:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 79,
+        "name": "2. Bundesliga",
+        "logo": "https://media.api-sports.io/football/leagues/79.png",
+        "country": "Germany"
+      },
+      "home": {
+        "id": 166,
+        "name": "Hannover 96",
+        "logo": "data/media/teams/166.png"
+      },
+      "away": {
+        "id": 785,
+        "name": "Karlsruher SC",
+        "logo": "data/media/teams/785.png"
+      },
+      "venue": "Heinz-von-Heiden-Arena"
+    },
+    {
+      "id": 1552750,
+      "startsAt": "2026-09-04T17:00:00+00:00",
       "status": "scheduled",
       "league": {
         "id": 61,
@@ -34,20 +55,235 @@
         "country": "France"
       },
       "home": {
-        "id": 96,
-        "name": "Toulouse",
-        "logo": "data/media/teams/96.png"
+        "id": 80,
+        "name": "Lyon",
+        "logo": "data/media/teams/80.png"
       },
       "away": {
-        "id": 79,
-        "name": "Lille",
-        "logo": "data/media/teams/79.png"
+        "id": 108,
+        "name": "Auxerre",
+        "logo": "data/media/teams/108.png"
       },
-      "venue": "Stadium de Toulouse"
+      "venue": "Parc Olympique Lyonnais"
     },
     {
-      "id": 1570392,
-      "startsAt": "2026-09-03T19:00:00+00:00",
+      "id": 1583977,
+      "startsAt": "2026-09-04T17:00:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 80,
+        "name": "3. Liga",
+        "logo": "https://media.api-sports.io/football/leagues/80.png",
+        "country": "Germany"
+      },
+      "home": {
+        "id": 184,
+        "name": "FC Ingolstadt 04",
+        "logo": "data/media/teams/184.png"
+      },
+      "away": {
+        "id": 4259,
+        "name": "Alemannia Aachen",
+        "logo": "data/media/teams/4259.png"
+      },
+      "venue": "Audi Sportpark"
+    },
+    {
+      "id": 1575149,
+      "startsAt": "2026-09-04T18:30:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 78,
+        "name": "Bundesliga",
+        "logo": "https://media.api-sports.io/football/leagues/78.png",
+        "country": "Germany"
+      },
+      "home": {
+        "id": 172,
+        "name": "VfB Stuttgart",
+        "logo": "data/media/teams/172.png"
+      },
+      "away": {
+        "id": 192,
+        "name": "1. FC Köln",
+        "logo": "data/media/teams/192.png"
+      },
+      "venue": "MHPArena"
+    },
+    {
+      "id": 1550112,
+      "startsAt": "2026-09-04T18:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 135,
+        "name": "Serie A",
+        "logo": "https://media.api-sports.io/football/leagues/135.png",
+        "country": "Italy"
+      },
+      "home": {
+        "id": 495,
+        "name": "Genoa",
+        "logo": "data/media/teams/495.png"
+      },
+      "away": {
+        "id": 895,
+        "name": "Como",
+        "logo": "data/media/teams/895.png"
+      },
+      "venue": "Stadio Luigi Ferraris"
+    },
+    {
+      "id": 1585197,
+      "startsAt": "2026-09-04T18:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 43,
+        "name": "National League",
+        "logo": "https://media.api-sports.io/football/leagues/43.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 4700,
+        "name": "Altrincham",
+        "logo": "data/media/teams/4700.png"
+      },
+      "away": {
+        "id": 1822,
+        "name": "Eastleigh",
+        "logo": "data/media/teams/1822.png"
+      },
+      "venue": "Moss Lane"
+    },
+    {
+      "id": 1636504,
+      "startsAt": "2026-09-04T18:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 45,
+        "name": "FA Cup",
+        "logo": "https://media.api-sports.io/football/leagues/45.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 7207,
+        "name": "Aveley",
+        "logo": "data/media/teams/7207.png"
+      },
+      "away": {
+        "id": 7708,
+        "name": "Cheshunt",
+        "logo": "data/media/teams/7708.png"
+      }
+    },
+    {
+      "id": 1636505,
+      "startsAt": "2026-09-04T18:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 45,
+        "name": "FA Cup",
+        "logo": "https://media.api-sports.io/football/leagues/45.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 8785,
+        "name": "Flackwell Heath",
+        "logo": "data/media/teams/8785.png"
+      },
+      "away": {
+        "id": 7645,
+        "name": "Hanwell Town",
+        "logo": "data/media/teams/7645.png"
+      }
+    },
+    {
+      "id": 1636506,
+      "startsAt": "2026-09-04T18:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 45,
+        "name": "FA Cup",
+        "logo": "https://media.api-sports.io/football/leagues/45.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 7662,
+        "name": "Ossett United",
+        "logo": "data/media/teams/7662.png"
+      },
+      "away": {
+        "id": 7247,
+        "name": "Pontefract Collieries",
+        "logo": "data/media/teams/7247.png"
+      }
+    },
+    {
+      "id": 1636507,
+      "startsAt": "2026-09-04T18:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 45,
+        "name": "FA Cup",
+        "logo": "https://media.api-sports.io/football/leagues/45.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 8903,
+        "name": "Quorn",
+        "logo": "data/media/teams/8903.png"
+      },
+      "away": {
+        "id": 8929,
+        "name": "Shepshed Dynamo",
+        "logo": "data/media/teams/8929.png"
+      }
+    },
+    {
+      "id": 1636508,
+      "startsAt": "2026-09-04T18:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 45,
+        "name": "FA Cup",
+        "logo": "https://media.api-sports.io/football/leagues/45.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 7676,
+        "name": "Three Bridges",
+        "logo": "data/media/teams/7676.png"
+      },
+      "away": {
+        "id": 7725,
+        "name": "Kingstonian",
+        "logo": "data/media/teams/7725.png"
+      }
+    },
+    {
+      "id": 1557393,
+      "startsAt": "2026-09-04T19:00:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 39,
+        "name": "Premier League",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "country": "England"
+      },
+      "home": {
+        "id": 57,
+        "name": "Ipswich",
+        "logo": "data/media/teams/57.png"
+      },
+      "away": {
+        "id": 40,
+        "name": "Liverpool",
+        "logo": "data/media/teams/40.png"
+      },
+      "venue": "Portman Road"
+    },
+    {
+      "id": 1570365,
+      "startsAt": "2026-09-04T19:00:00+00:00",
       "status": "scheduled",
       "league": {
         "id": 140,
@@ -56,42 +292,106 @@
         "country": "Spain"
       },
       "home": {
-        "id": 548,
-        "name": "Real Sociedad",
-        "logo": "data/media/teams/548.png"
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "data/media/teams/543.png"
       },
       "away": {
-        "id": 538,
-        "name": "Celta Vigo",
-        "logo": "data/media/teams/538.png"
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "data/media/teams/541.png"
       },
-      "venue": "Anoeta"
+      "venue": "Estadio de La Cartuja"
     },
     {
-      "id": 1628956,
-      "startsAt": "2026-09-03T19:00:00+00:00",
+      "id": 1552753,
+      "startsAt": "2026-09-04T19:05:00+00:00",
       "status": "scheduled",
       "league": {
-        "id": 137,
-        "name": "Coppa Italia",
-        "logo": "https://media.api-sports.io/football/leagues/137.png",
-        "country": "Italy"
+        "id": 61,
+        "name": "Ligue 1",
+        "logo": "https://media.api-sports.io/football/leagues/61.png",
+        "country": "France"
       },
       "home": {
-        "id": 490,
-        "name": "Cagliari",
-        "logo": "data/media/teams/490.png"
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "data/media/teams/85.png"
       },
       "away": {
-        "id": 504,
-        "name": "Hellas Verona",
-        "logo": "data/media/teams/504.png"
+        "id": 91,
+        "name": "Monaco",
+        "logo": "data/media/teams/91.png"
       },
-      "venue": "Unipol Domus"
+      "venue": "Parc des Princes"
     },
     {
-      "id": 1520857,
-      "startsAt": "2026-09-03T23:00:00+00:00",
+      "id": 1493111,
+      "startsAt": "2026-09-04T19:45:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "country": "Argentina"
+      },
+      "home": {
+        "id": 2424,
+        "name": "Estudiantes de Rio Cuarto",
+        "logo": "data/media/teams/2424.png"
+      },
+      "away": {
+        "id": 474,
+        "name": "Sarmiento Junin",
+        "logo": "data/media/teams/474.png"
+      }
+    },
+    {
+      "id": 1493109,
+      "startsAt": "2026-09-04T22:00:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "country": "Argentina"
+      },
+      "home": {
+        "id": 440,
+        "name": "Belgrano Cordoba",
+        "logo": "data/media/teams/440.png"
+      },
+      "away": {
+        "id": 445,
+        "name": "Huracan",
+        "logo": "data/media/teams/445.png"
+      },
+      "venue": "Estadio Julio Cesar Villagra"
+    },
+    {
+      "id": 1493115,
+      "startsAt": "2026-09-04T22:00:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "country": "Argentina"
+      },
+      "home": {
+        "id": 1064,
+        "name": "Platense",
+        "logo": "data/media/teams/1064.png"
+      },
+      "away": {
+        "id": 476,
+        "name": "Deportivo Riestra",
+        "logo": "data/media/teams/476.png"
+      }
+    },
+    {
+      "id": 1520853,
+      "startsAt": "2026-09-04T22:30:00+00:00",
       "status": "scheduled",
       "league": {
         "id": 72,
@@ -100,14 +400,57 @@
         "country": "Brazil"
       },
       "home": {
-        "id": 755,
-        "name": "Nautico Recife",
-        "logo": "data/media/teams/755.png"
+        "id": 140,
+        "name": "Criciuma",
+        "logo": "data/media/teams/140.png"
       },
       "away": {
-        "id": 2618,
-        "name": "Botafogo SP",
-        "logo": "data/media/teams/2618.png"
+        "id": 1193,
+        "name": "Cuiaba",
+        "logo": "data/media/teams/1193.png"
+      }
+    },
+    {
+      "id": 1490436,
+      "startsAt": "2026-09-04T23:30:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 253,
+        "name": "Major League Soccer",
+        "logo": "https://media.api-sports.io/football/leagues/253.png",
+        "country": "USA"
+      },
+      "home": {
+        "id": 1604,
+        "name": "New York City FC",
+        "logo": "data/media/teams/1604.png"
+      },
+      "away": {
+        "id": 9569,
+        "name": "Nashville SC",
+        "logo": "data/media/teams/9569.png"
+      },
+      "venue": "Yankee Stadium"
+    },
+    {
+      "id": 1520850,
+      "startsAt": "2026-09-04T23:30:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 72,
+        "name": "Serie B",
+        "logo": "https://media.api-sports.io/football/leagues/72.png",
+        "country": "Brazil"
+      },
+      "home": {
+        "id": 13975,
+        "name": "Athletic Club",
+        "logo": "data/media/teams/13975.png"
+      },
+      "away": {
+        "id": 142,
+        "name": "Vila Nova",
+        "logo": "data/media/teams/142.png"
       }
     }
   ]

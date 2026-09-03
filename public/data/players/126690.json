@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 126690,
+    "name": "K. Bowie",
+    "age": 23,
+    "number": 9,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/126690.png"
+  },
+  "team": {
+    "id": 488,
+    "name": "Sassuolo",
+    "logo": "https://media.api-sports.io/football/teams/488.png",
+    "country": "Italy",
+    "founded": 1922,
+    "national": false
+  }
+}

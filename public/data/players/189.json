@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 189,
+    "name": "D. Padelli",
+    "age": 40,
+    "number": 93,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/189.png"
+  },
+  "team": {
+    "id": 494,
+    "name": "Udinese",
+    "logo": "https://media.api-sports.io/football/teams/494.png",
+    "country": "Italy",
+    "founded": 1896,
+    "national": false
+  }
+}

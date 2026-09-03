@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 7591,
+    "name": "S. Lovrić",
+    "age": 27,
+    "number": 4,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/7591.png"
+  },
+  "team": {
+    "id": 494,
+    "name": "Udinese",
+    "logo": "https://media.api-sports.io/football/teams/494.png",
+    "country": "Italy",
+    "founded": 1896,
+    "national": false
+  }
+}

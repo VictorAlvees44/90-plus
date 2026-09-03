@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 30882,
+    "name": "M. Pisseri",
+    "age": 34,
+    "number": 12,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/30882.png"
+  },
+  "team": {
+    "id": 512,
+    "name": "Frosinone",
+    "logo": "https://media.api-sports.io/football/teams/512.png",
+    "country": "Italy",
+    "founded": 1928,
+    "national": false
+  }
+}

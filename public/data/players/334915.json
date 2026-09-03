@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 334915,
+    "name": "F. Ghedjemis",
+    "age": 23,
+    "number": 7,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/334915.png"
+  },
+  "team": {
+    "id": 512,
+    "name": "Frosinone",
+    "logo": "https://media.api-sports.io/football/teams/512.png",
+    "country": "Italy",
+    "founded": 1928,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 191417,
+    "name": "A. Oyono",
+    "age": 24,
+    "number": 20,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/191417.png"
+  },
+  "team": {
+    "id": 512,
+    "name": "Frosinone",
+    "logo": "https://media.api-sports.io/football/teams/512.png",
+    "country": "Italy",
+    "founded": 1928,
+    "national": false
+  }
+}

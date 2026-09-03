@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 30849,
+    "name": "N. Pierini",
+    "age": 27,
+    "number": 77,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/30849.png"
+  },
+  "team": {
+    "id": 488,
+    "name": "Sassuolo",
+    "logo": "https://media.api-sports.io/football/teams/488.png",
+    "country": "Italy",
+    "founded": 1922,
+    "national": false
+  }
+}

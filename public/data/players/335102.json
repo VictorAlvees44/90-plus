@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 335102,
+    "name": "L. Hasa",
+    "age": 21,
+    "number": 70,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/335102.png"
+  },
+  "team": {
+    "id": 512,
+    "name": "Frosinone",
+    "logo": "https://media.api-sports.io/football/teams/512.png",
+    "country": "Italy",
+    "founded": 1928,
+    "national": false
+  }
+}

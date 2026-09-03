@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T22:37:21.900Z",
+  "updatedAt": "2026-09-03T07:21:16.450Z",
   "items": [
     {
       "type": "league",
@@ -304,482 +304,6 @@
     },
     {
       "type": "team",
-      "id": 478,
-      "label": "Instituto Cordoba",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/478.png"
-    },
-    {
-      "type": "team",
-      "id": 460,
-      "label": "San Lorenzo",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/460.png"
-    },
-    {
-      "type": "team",
-      "id": 452,
-      "label": "Tigre",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/452.png"
-    },
-    {
-      "type": "team",
-      "id": 2432,
-      "label": "Barracas Central",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/2432.png"
-    },
-    {
-      "type": "team",
-      "id": 523,
-      "label": "Parma",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/523.png"
-    },
-    {
-      "type": "team",
-      "id": 520,
-      "label": "Cremonese",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/520.png"
-    },
-    {
-      "type": "team",
-      "id": 16078,
-      "label": "HEBC",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/16078.png"
-    },
-    {
-      "type": "team",
-      "id": 165,
-      "label": "Borussia Dortmund",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/165.png"
-    },
-    {
-      "type": "team",
-      "id": 1379,
-      "label": "Lincoln",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1379.png"
-    },
-    {
-      "type": "team",
-      "id": 67,
-      "label": "Blackburn",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/67.png"
-    },
-    {
-      "type": "team",
-      "id": 1355,
-      "label": "Portsmouth",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1355.png"
-    },
-    {
-      "type": "team",
-      "id": 69,
-      "label": "Derby",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/69.png"
-    },
-    {
-      "type": "team",
-      "id": 59,
-      "label": "Preston",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/59.png"
-    },
-    {
-      "type": "team",
-      "id": 56,
-      "label": "Bristol City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/56.png"
-    },
-    {
-      "type": "team",
-      "id": 62,
-      "label": "Sheffield Utd",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/62.png"
-    },
-    {
-      "type": "team",
-      "id": 68,
-      "label": "Bolton",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/68.png"
-    },
-    {
-      "type": "team",
-      "id": 76,
-      "label": "Swansea",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/76.png"
-    },
-    {
-      "type": "team",
-      "id": 38,
-      "label": "Watford",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/38.png"
-    },
-    {
-      "type": "team",
-      "id": 48,
-      "label": "West Ham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/48.png"
-    },
-    {
-      "type": "team",
-      "id": 39,
-      "label": "Wolves",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/39.png"
-    },
-    {
-      "type": "team",
-      "id": 1360,
-      "label": "Accrington ST",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1360.png"
-    },
-    {
-      "type": "team",
-      "id": 1365,
-      "label": "Grimsby",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1365.png"
-    },
-    {
-      "type": "team",
-      "id": 1334,
-      "label": "Bristol Rovers",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1334.png"
-    },
-    {
-      "type": "team",
-      "id": 1361,
-      "label": "Colchester",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1361.png"
-    },
-    {
-      "type": "team",
-      "id": 1372,
-      "label": "Cheltenham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1372.png"
-    },
-    {
-      "type": "team",
-      "id": 1828,
-      "label": "York",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1828.png"
-    },
-    {
-      "type": "team",
-      "id": 1345,
-      "label": "Chesterfield",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1345.png"
-    },
-    {
-      "type": "team",
-      "id": 1347,
-      "label": "Gillingham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1347.png"
-    },
-    {
-      "type": "team",
-      "id": 1363,
-      "label": "Crewe",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1363.png"
-    },
-    {
-      "type": "team",
-      "id": 1342,
-      "label": "Walsall",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1342.png"
-    },
-    {
-      "type": "team",
-      "id": 1364,
-      "label": "Exeter City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1364.png"
-    },
-    {
-      "type": "team",
-      "id": 1369,
-      "label": "Barnet",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1369.png"
-    },
-    {
-      "type": "team",
-      "id": 1336,
-      "label": "Fleetwood Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1336.png"
-    },
-    {
-      "type": "team",
-      "id": 1349,
-      "label": "Oldham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1349.png"
-    },
-    {
-      "type": "team",
-      "id": 1337,
-      "label": "Northampton",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1337.png"
-    },
-    {
-      "type": "team",
-      "id": 1362,
-      "label": "Crawley Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1362.png"
-    },
-    {
-      "type": "team",
-      "id": 1339,
-      "label": "Rochdale",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1339.png"
-    },
-    {
-      "type": "team",
-      "id": 1352,
-      "label": "Shrewsbury",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1352.png"
-    },
-    {
-      "type": "team",
-      "id": 1844,
-      "label": "Salford City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1844.png"
-    },
-    {
-      "type": "team",
-      "id": 1367,
-      "label": "Newport County",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1367.png"
-    },
-    {
-      "type": "team",
-      "id": 1353,
-      "label": "Swindon Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1353.png"
-    },
-    {
-      "type": "team",
-      "id": 1351,
-      "label": "Port Vale",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1351.png"
-    },
-    {
-      "type": "team",
-      "id": 1381,
-      "label": "Tranmere",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1381.png"
-    },
-    {
-      "type": "team",
-      "id": 73,
-      "label": "Rotherham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/73.png"
-    },
-    {
-      "type": "team",
-      "id": 1343,
-      "label": "Bradford",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1343.png"
-    },
-    {
-      "type": "team",
-      "id": 1370,
-      "label": "Cambridge United",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1370.png"
-    },
-    {
-      "type": "team",
-      "id": 1832,
-      "label": "Bromley",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1832.png"
-    },
-    {
-      "type": "team",
-      "id": 1373,
-      "label": "Leyton Orient",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1373.png"
-    },
-    {
-      "type": "team",
-      "id": 1354,
-      "label": "Doncaster",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1354.png"
-    },
-    {
-      "type": "team",
-      "id": 1376,
-      "label": "Notts County",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1376.png"
-    },
-    {
-      "type": "team",
-      "id": 37,
-      "label": "Huddersfield",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/37.png"
-    },
-    {
-      "type": "team",
-      "id": 1338,
-      "label": "Oxford United",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1338.png"
-    },
-    {
-      "type": "team",
-      "id": 46,
-      "label": "Leicester",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/46.png"
-    },
-    {
-      "type": "team",
-      "id": 1357,
-      "label": "Plymouth",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1357.png"
-    },
-    {
-      "type": "team",
-      "id": 1350,
-      "label": "Peterborough",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1350.png"
-    },
-    {
-      "type": "team",
-      "id": 1368,
-      "label": "Stevenage",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1368.png"
-    },
-    {
-      "type": "team",
-      "id": 1358,
-      "label": "Wycombe",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1358.png"
-    },
-    {
-      "type": "team",
-      "id": 74,
-      "label": "Sheffield Wednesday",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/74.png"
-    },
-    {
-      "type": "team",
-      "id": 1841,
-      "label": "FC Halifax Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1841.png"
-    },
-    {
-      "type": "team",
-      "id": 1366,
-      "label": "Hartlepool",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1366.png"
-    },
-    {
-      "type": "team",
-      "id": 54,
-      "label": "Birmingham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/54.png"
-    },
-    {
-      "type": "team",
-      "id": 41,
-      "label": "Southampton",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/41.png"
-    },
-    {
-      "type": "team",
-      "id": 75,
-      "label": "Stoke City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/75.png"
-    },
-    {
-      "type": "team",
-      "id": 71,
-      "label": "Norwich",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/71.png"
-    },
-    {
-      "type": "team",
-      "id": 503,
-      "label": "Torino",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/503.png"
-    },
-    {
-      "type": "team",
-      "id": 1579,
-      "label": "Monza",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1579.png"
-    },
-    {
-      "type": "team",
-      "id": 148,
-      "label": "Londrina",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/148.png"
-    },
-    {
-      "type": "team",
-      "id": 152,
-      "label": "Juventude",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/152.png"
-    },
-    {
-      "type": "team",
       "id": 488,
       "label": "Sassuolo",
       "subtitle": "Clube ou seleção",
@@ -1029,6 +553,979 @@
       "label": "Botafogo SP",
       "subtitle": "Clube ou seleção",
       "image": "data/media/teams/2618.png"
+    },
+    {
+      "type": "team",
+      "id": 188,
+      "label": "Arminia Bielefeld",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/188.png"
+    },
+    {
+      "type": "team",
+      "id": 186,
+      "label": "FC St. Pauli",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/186.png"
+    },
+    {
+      "type": "team",
+      "id": 166,
+      "label": "Hannover 96",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/166.png"
+    },
+    {
+      "type": "team",
+      "id": 785,
+      "label": "Karlsruher SC",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/785.png"
+    },
+    {
+      "type": "team",
+      "id": 80,
+      "label": "Lyon",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/80.png"
+    },
+    {
+      "type": "team",
+      "id": 108,
+      "label": "Auxerre",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/108.png"
+    },
+    {
+      "type": "team",
+      "id": 184,
+      "label": "FC Ingolstadt 04",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/184.png"
+    },
+    {
+      "type": "team",
+      "id": 4259,
+      "label": "Alemannia Aachen",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/4259.png"
+    },
+    {
+      "type": "team",
+      "id": 172,
+      "label": "VfB Stuttgart",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/172.png"
+    },
+    {
+      "type": "team",
+      "id": 192,
+      "label": "1. FC Köln",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/192.png"
+    },
+    {
+      "type": "team",
+      "id": 495,
+      "label": "Genoa",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/495.png"
+    },
+    {
+      "type": "team",
+      "id": 895,
+      "label": "Como",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/895.png"
+    },
+    {
+      "type": "team",
+      "id": 4700,
+      "label": "Altrincham",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/4700.png"
+    },
+    {
+      "type": "team",
+      "id": 1822,
+      "label": "Eastleigh",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1822.png"
+    },
+    {
+      "type": "team",
+      "id": 7207,
+      "label": "Aveley",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7207.png"
+    },
+    {
+      "type": "team",
+      "id": 7708,
+      "label": "Cheshunt",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7708.png"
+    },
+    {
+      "type": "team",
+      "id": 8785,
+      "label": "Flackwell Heath",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8785.png"
+    },
+    {
+      "type": "team",
+      "id": 7645,
+      "label": "Hanwell Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7645.png"
+    },
+    {
+      "type": "team",
+      "id": 7662,
+      "label": "Ossett United",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7662.png"
+    },
+    {
+      "type": "team",
+      "id": 7247,
+      "label": "Pontefract Collieries",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7247.png"
+    },
+    {
+      "type": "team",
+      "id": 8903,
+      "label": "Quorn",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8903.png"
+    },
+    {
+      "type": "team",
+      "id": 8929,
+      "label": "Shepshed Dynamo",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8929.png"
+    },
+    {
+      "type": "team",
+      "id": 7676,
+      "label": "Three Bridges",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7676.png"
+    },
+    {
+      "type": "team",
+      "id": 7725,
+      "label": "Kingstonian",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7725.png"
+    },
+    {
+      "type": "team",
+      "id": 57,
+      "label": "Ipswich",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/57.png"
+    },
+    {
+      "type": "team",
+      "id": 40,
+      "label": "Liverpool",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/40.png"
+    },
+    {
+      "type": "team",
+      "id": 543,
+      "label": "Real Betis",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/543.png"
+    },
+    {
+      "type": "team",
+      "id": 541,
+      "label": "Real Madrid",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/541.png"
+    },
+    {
+      "type": "team",
+      "id": 85,
+      "label": "Paris Saint Germain",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/85.png"
+    },
+    {
+      "type": "team",
+      "id": 91,
+      "label": "Monaco",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/91.png"
+    },
+    {
+      "type": "team",
+      "id": 2424,
+      "label": "Estudiantes de Rio Cuarto",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/2424.png"
+    },
+    {
+      "type": "team",
+      "id": 474,
+      "label": "Sarmiento Junin",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/474.png"
+    },
+    {
+      "type": "team",
+      "id": 440,
+      "label": "Belgrano Cordoba",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/440.png"
+    },
+    {
+      "type": "team",
+      "id": 445,
+      "label": "Huracan",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/445.png"
+    },
+    {
+      "type": "team",
+      "id": 1064,
+      "label": "Platense",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1064.png"
+    },
+    {
+      "type": "team",
+      "id": 476,
+      "label": "Deportivo Riestra",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/476.png"
+    },
+    {
+      "type": "team",
+      "id": 140,
+      "label": "Criciuma",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/140.png"
+    },
+    {
+      "type": "team",
+      "id": 1193,
+      "label": "Cuiaba",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1193.png"
+    },
+    {
+      "type": "team",
+      "id": 1604,
+      "label": "New York City FC",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1604.png"
+    },
+    {
+      "type": "team",
+      "id": 9569,
+      "label": "Nashville SC",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/9569.png"
+    },
+    {
+      "type": "team",
+      "id": 13975,
+      "label": "Athletic Club",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/13975.png"
+    },
+    {
+      "type": "team",
+      "id": 142,
+      "label": "Vila Nova",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/142.png"
+    },
+    {
+      "type": "player",
+      "id": 616,
+      "label": "A. Murić",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/616.png"
+    },
+    {
+      "type": "player",
+      "id": 613213,
+      "label": "L. Nyarko",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/613213.png"
+    },
+    {
+      "type": "player",
+      "id": 30518,
+      "label": "G. Satalino",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/30518.png"
+    },
+    {
+      "type": "player",
+      "id": 30519,
+      "label": "S. Turati",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/30519.png"
+    },
+    {
+      "type": "player",
+      "id": 382448,
+      "label": "S. Cinquegrano",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/382448.png"
+    },
+    {
+      "type": "player",
+      "id": 557036,
+      "label": "A. Di Bitonto",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/557036.png"
+    },
+    {
+      "type": "player",
+      "id": 135526,
+      "label": "J. Doig",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/135526.png"
+    },
+    {
+      "type": "player",
+      "id": 37651,
+      "label": "J. Idzes",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/37651.png"
+    },
+    {
+      "type": "player",
+      "id": 290546,
+      "label": "F. Leysen",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/290546.png"
+    },
+    {
+      "type": "player",
+      "id": 613352,
+      "label": "T. Macchioni",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/613352.png"
+    },
+    {
+      "type": "player",
+      "id": 342653,
+      "label": "F. Missori",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/342653.png"
+    },
+    {
+      "type": "player",
+      "id": 265722,
+      "label": "Rafael Obrador",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/265722.png"
+    },
+    {
+      "type": "player",
+      "id": 127802,
+      "label": "C. Odenthal",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/127802.png"
+    },
+    {
+      "type": "player",
+      "id": 129119,
+      "label": "I. Van der Brempt",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/129119.png"
+    },
+    {
+      "type": "player",
+      "id": 626711,
+      "label": "G. Vezzosi",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/626711.png"
+    },
+    {
+      "type": "player",
+      "id": 40582,
+      "label": "S. Walukiewicz",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/40582.png"
+    },
+    {
+      "type": "player",
+      "id": 339872,
+      "label": "Vasilije Adžić",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/339872.png"
+    },
+    {
+      "type": "player",
+      "id": 663096,
+      "label": "N. Baffoh",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/663096.png"
+    },
+    {
+      "type": "player",
+      "id": 455245,
+      "label": "D. Bakola",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/455245.png"
+    },
+    {
+      "type": "player",
+      "id": 584501,
+      "label": "C. Frangella",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/584501.png"
+    },
+    {
+      "type": "player",
+      "id": 68407,
+      "label": "A. Ghion",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/68407.png"
+    },
+    {
+      "type": "player",
+      "id": 281291,
+      "label": "E. Iannoni",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/281291.png"
+    },
+    {
+      "type": "player",
+      "id": 328046,
+      "label": "I. Koné",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/328046.png"
+    },
+    {
+      "type": "player",
+      "id": 2215,
+      "label": "A. Laurienté",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/2215.png"
+    },
+    {
+      "type": "player",
+      "id": 343562,
+      "label": "L. Lipani",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/343562.png"
+    },
+    {
+      "type": "player",
+      "id": 902,
+      "label": "N. Matić",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/902.png"
+    },
+    {
+      "type": "player",
+      "id": 39143,
+      "label": "K. Thorstvedt",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/39143.png"
+    },
+    {
+      "type": "player",
+      "id": 342035,
+      "label": "C. Volpato",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/342035.png"
+    },
+    {
+      "type": "player",
+      "id": 30537,
+      "label": "D. Berardi",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/30537.png"
+    },
+    {
+      "type": "player",
+      "id": 126690,
+      "label": "K. Bowie",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/126690.png"
+    },
+    {
+      "type": "player",
+      "id": 347265,
+      "label": "B. Domínguez",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/347265.png"
+    },
+    {
+      "type": "player",
+      "id": 215,
+      "label": "S. Esposito",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/215.png"
+    },
+    {
+      "type": "player",
+      "id": 598348,
+      "label": "G. Kulla",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/598348.png"
+    },
+    {
+      "type": "player",
+      "id": 30849,
+      "label": "N. Pierini",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/30849.png"
+    },
+    {
+      "type": "player",
+      "id": 322859,
+      "label": "S. Desplanches",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/322859.png"
+    },
+    {
+      "type": "player",
+      "id": 351324,
+      "label": "E. Lolic",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/351324.png"
+    },
+    {
+      "type": "player",
+      "id": 327774,
+      "label": "L. Palmisani",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/327774.png"
+    },
+    {
+      "type": "player",
+      "id": 30882,
+      "label": "M. Pisseri",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/30882.png"
+    },
+    {
+      "type": "player",
+      "id": 25366,
+      "label": "K. Akpoguma",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/25366.png"
+    },
+    {
+      "type": "player",
+      "id": 312208,
+      "label": "W. Amey",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/312208.png"
+    },
+    {
+      "type": "player",
+      "id": 379504,
+      "label": "G. Bracaglia",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/379504.png"
+    },
+    {
+      "type": "player",
+      "id": 353613,
+      "label": "G. Calvani",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/353613.png"
+    },
+    {
+      "type": "player",
+      "id": 162570,
+      "label": "G. Cittadini",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/162570.png"
+    },
+    {
+      "type": "player",
+      "id": 203777,
+      "label": "A. El Azzouzi",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/203777.png"
+    },
+    {
+      "type": "player",
+      "id": 381812,
+      "label": "Omar Fayed",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/381812.png"
+    },
+    {
+      "type": "player",
+      "id": 180586,
+      "label": "I. Monterisi",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/180586.png"
+    },
+    {
+      "type": "player",
+      "id": 191417,
+      "label": "A. Oyono",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/191417.png"
+    },
+    {
+      "type": "player",
+      "id": 179399,
+      "label": "E. Tchato",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/179399.png"
+    },
+    {
+      "type": "player",
+      "id": 349,
+      "label": "A. Terzić",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/349.png"
+    },
+    {
+      "type": "player",
+      "id": 32011,
+      "label": "G. Calò",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/32011.png"
+    },
+    {
+      "type": "player",
+      "id": 422153,
+      "label": "Matteo Cichella",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/422153.png"
+    },
+    {
+      "type": "player",
+      "id": 31982,
+      "label": "F. Gelli",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/31982.png"
+    },
+    {
+      "type": "player",
+      "id": 719,
+      "label": "F. Grillitsch",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/719.png"
+    },
+    {
+      "type": "player",
+      "id": 335102,
+      "label": "L. Hasa",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/335102.png"
+    },
+    {
+      "type": "player",
+      "id": 204088,
+      "label": "I. Koutsoupias",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/204088.png"
+    },
+    {
+      "type": "player",
+      "id": 281096,
+      "label": "P. Masini",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/281096.png"
+    },
+    {
+      "type": "player",
+      "id": 7562,
+      "label": "R. Schmid",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/7562.png"
+    },
+    {
+      "type": "player",
+      "id": 417025,
+      "label": "K. Barcella",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/417025.png"
+    },
+    {
+      "type": "player",
+      "id": 126892,
+      "label": "D. Bîrligea",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/126892.png"
+    },
+    {
+      "type": "player",
+      "id": 61211,
+      "label": "T. Bobček",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/61211.png"
+    },
+    {
+      "type": "player",
+      "id": 348533,
+      "label": "S. Fini",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/348533.png"
+    },
+    {
+      "type": "player",
+      "id": 334915,
+      "label": "F. Ghedjemis",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/334915.png"
+    },
+    {
+      "type": "player",
+      "id": 30513,
+      "label": "B. Kone",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/30513.png"
+    },
+    {
+      "type": "player",
+      "id": 311251,
+      "label": "G. Kvernadze",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/311251.png"
+    },
+    {
+      "type": "player",
+      "id": 314254,
+      "label": "A. Raimondo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/314254.png"
+    },
+    {
+      "type": "player",
+      "id": 31219,
+      "label": "A. Zerbin",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/31219.png"
+    },
+    {
+      "type": "player",
+      "id": 126896,
+      "label": "B. Mrozek",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/126896.png"
+    },
+    {
+      "type": "player",
+      "id": 143648,
+      "label": "M. Okoye",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/143648.png"
+    },
+    {
+      "type": "player",
+      "id": 189,
+      "label": "D. Padelli",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/189.png"
+    },
+    {
+      "type": "player",
+      "id": 312999,
+      "label": "E. Piana",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/312999.png"
+    },
+    {
+      "type": "player",
+      "id": 619923,
+      "label": "R. Pirih",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/619923.png"
+    },
+    {
+      "type": "player",
+      "id": 320335,
+      "label": "J. Abankwah",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/320335.png"
+    },
+    {
+      "type": "player",
+      "id": 315249,
+      "label": "N. Bertola",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/315249.png"
+    },
+    {
+      "type": "player",
+      "id": 20656,
+      "label": "E. Ebosse",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/20656.png"
+    },
+    {
+      "type": "player",
+      "id": 318053,
+      "label": "S. Goglichidze",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/318053.png"
+    },
+    {
+      "type": "player",
+      "id": 18797,
+      "label": "C. Kabasele",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/18797.png"
+    },
+    {
+      "type": "player",
+      "id": 22007,
+      "label": "H. Kamara",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/22007.png"
+    },
+    {
+      "type": "player",
+      "id": 422156,
+      "label": "M. Palma",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/422156.png"
+    },
+    {
+      "type": "player",
+      "id": 656,
+      "label": "O. Solet",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/656.png"
+    },
+    {
+      "type": "player",
+      "id": 8586,
+      "label": "M. Vojvoda",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/8586.png"
+    },
+    {
+      "type": "player",
+      "id": 162907,
+      "label": "A. Zanoli",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/162907.png"
+    },
+    {
+      "type": "player",
+      "id": 411171,
+      "label": "J. Arizala",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/411171.png"
+    },
+    {
+      "type": "player",
+      "id": 8481,
+      "label": "G. Chakvetadze",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/8481.png"
+    },
+    {
+      "type": "player",
+      "id": 541,
+      "label": "J. Ekkelenkamp",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/541.png"
+    },
+    {
+      "type": "player",
+      "id": 332308,
+      "label": "Unai Gómez",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/332308.png"
+    },
+    {
+      "type": "player",
+      "id": 48047,
+      "label": "J. Karlström",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/48047.png"
+    },
+    {
+      "type": "player",
+      "id": 7591,
+      "label": "S. Lovrić",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/7591.png"
+    },
+    {
+      "type": "player",
+      "id": 343558,
+      "label": "L. Miller",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/343558.png"
+    },
+    {
+      "type": "player",
+      "id": 507646,
+      "label": "Branimir Mlačić",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/507646.png"
+    },
+    {
+      "type": "player",
+      "id": 383257,
+      "label": "D. Pejičić",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/383257.png"
+    },
+    {
+      "type": "player",
+      "id": 1939,
+      "label": "J. Piotrowski",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/1939.png"
+    },
+    {
+      "type": "player",
+      "id": 786,
+      "label": "N. Zaniolo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/786.png"
+    },
+    {
+      "type": "player",
+      "id": 182560,
+      "label": "Oier Zarraga",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/182560.png"
+    },
+    {
+      "type": "player",
+      "id": 1134,
+      "label": "V. Bayo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/1134.png"
+    },
+    {
+      "type": "player",
+      "id": 19185,
+      "label": "K. Davis",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/19185.png"
+    },
+    {
+      "type": "player",
+      "id": 434410,
+      "label": "I. Gueye",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/434410.png"
+    },
+    {
+      "type": "player",
+      "id": 493365,
+      "label": "G. Vinciati",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/493365.png"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 613352,
+    "name": "T. Macchioni",
+    "age": 19,
+    "number": 31,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/613352.png"
+  },
+  "team": {
+    "id": 488,
+    "name": "Sassuolo",
+    "logo": "https://media.api-sports.io/football/teams/488.png",
+    "country": "Italy",
+    "founded": 1922,
+    "national": false
+  }
+}

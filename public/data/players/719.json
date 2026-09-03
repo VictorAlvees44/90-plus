@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 719,
+    "name": "F. Grillitsch",
+    "age": 31,
+    "number": 27,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/719.png"
+  },
+  "team": {
+    "id": 512,
+    "name": "Frosinone",
+    "logo": "https://media.api-sports.io/football/teams/512.png",
+    "country": "Italy",
+    "founded": 1928,
+    "national": false
+  }
+}

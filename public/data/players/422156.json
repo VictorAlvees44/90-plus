@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 422156,
+    "name": "M. Palma",
+    "age": 17,
+    "number": 16,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/422156.png"
+  },
+  "team": {
+    "id": 494,
+    "name": "Udinese",
+    "logo": "https://media.api-sports.io/football/teams/494.png",
+    "country": "Italy",
+    "founded": 1896,
+    "national": false
+  }
+}

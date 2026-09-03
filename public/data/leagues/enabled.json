@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T22:37:21.899Z",
+  "updatedAt": "2026-09-03T07:21:16.448Z",
   "leagues": [
     {
       "id": 71,
@@ -741,7 +741,7 @@
         "top_cards": true,
         "injuries": false,
         "predictions": true,
-        "odds": true
+        "odds": false
       },
       "priority": 3
     },

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 126896,
+    "name": "B. Mrozek",
+    "age": 25,
+    "number": 41,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/126896.png"
+  },
+  "team": {
+    "id": 494,
+    "name": "Udinese",
+    "logo": "https://media.api-sports.io/football/teams/494.png",
+    "country": "Italy",
+    "founded": 1896,
+    "national": false
+  }
+}

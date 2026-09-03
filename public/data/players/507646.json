@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 507646,
+    "name": "Branimir Mlačić",
+    "age": 19,
+    "number": 22,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/507646.png"
+  },
+  "team": {
+    "id": 494,
+    "name": "Udinese",
+    "logo": "https://media.api-sports.io/football/teams/494.png",
+    "country": "Italy",
+    "founded": 1896,
+    "national": false
+  }
+}

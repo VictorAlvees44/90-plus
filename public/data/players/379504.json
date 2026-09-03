@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-03T07:21:16.450Z",
+  "player": {
+    "id": 379504,
+    "name": "G. Bracaglia",
+    "age": 22,
+    "number": 79,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/379504.png"
+  },
+  "team": {
+    "id": 512,
+    "name": "Frosinone",
+    "logo": "https://media.api-sports.io/football/teams/512.png",
+    "country": "Italy",
+    "founded": 1928,
+    "national": false
+  }
+}
