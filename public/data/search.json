@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T18:35:32.599Z",
+  "updatedAt": "2026-09-08T18:54:45.618Z",
   "items": [
     {
       "type": "league",
@@ -304,227 +304,17 @@
     },
     {
       "type": "team",
-      "id": 488,
-      "label": "Sassuolo",
+      "id": 436,
+      "label": "Racing Club",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/488.png"
+      "image": "data/media/teams/436.png"
     },
     {
       "type": "team",
-      "id": 512,
-      "label": "Frosinone",
+      "id": 455,
+      "label": "Atletico Tucuman",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/512.png"
-    },
-    {
-      "type": "team",
-      "id": 494,
-      "label": "Udinese",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/494.png"
-    },
-    {
-      "type": "team",
-      "id": 517,
-      "label": "Venezia",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/517.png"
-    },
-    {
-      "type": "team",
-      "id": 1324,
-      "label": "VfL Osnabrück",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1324.png"
-    },
-    {
-      "type": "team",
-      "id": 157,
-      "label": "Bayern München",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/157.png"
-    },
-    {
-      "type": "team",
-      "id": 58,
-      "label": "Millwall",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/58.png"
-    },
-    {
-      "type": "team",
-      "id": 1837,
-      "label": "Wrexham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1837.png"
-    },
-    {
-      "type": "team",
-      "id": 72,
-      "label": "QPR",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/72.png"
-    },
-    {
-      "type": "team",
-      "id": 43,
-      "label": "Cardiff",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/43.png"
-    },
-    {
-      "type": "team",
-      "id": 60,
-      "label": "West Brom",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/60.png"
-    },
-    {
-      "type": "team",
-      "id": 1335,
-      "label": "Charlton",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1335.png"
-    },
-    {
-      "type": "team",
-      "id": 747,
-      "label": "Barnsley",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/747.png"
-    },
-    {
-      "type": "team",
-      "id": 1356,
-      "label": "Blackpool",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1356.png"
-    },
-    {
-      "type": "team",
-      "id": 748,
-      "label": "Burton Albion",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/748.png"
-    },
-    {
-      "type": "team",
-      "id": 1333,
-      "label": "AFC Wimbledon",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1333.png"
-    },
-    {
-      "type": "team",
-      "id": 1359,
-      "label": "Luton",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1359.png"
-    },
-    {
-      "type": "team",
-      "id": 4686,
-      "label": "Stockport County",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/4686.png"
-    },
-    {
-      "type": "team",
-      "id": 61,
-      "label": "Wigan",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/61.png"
-    },
-    {
-      "type": "team",
-      "id": 1348,
-      "label": "Milton Keynes Dons",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1348.png"
-    },
-    {
-      "type": "team",
-      "id": 44,
-      "label": "Burnley",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/44.png"
-    },
-    {
-      "type": "team",
-      "id": 70,
-      "label": "Middlesbrough",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/70.png"
-    },
-    {
-      "type": "team",
-      "id": 53,
-      "label": "Reading",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/53.png"
-    },
-    {
-      "type": "team",
-      "id": 1374,
-      "label": "Mansfield Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1374.png"
-    },
-    {
-      "type": "team",
-      "id": 127,
-      "label": "Flamengo",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/127.png"
-    },
-    {
-      "type": "team",
-      "id": 7848,
-      "label": "Mirassol",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7848.png"
-    },
-    {
-      "type": "team",
-      "id": 522,
-      "label": "Palermo",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/522.png"
-    },
-    {
-      "type": "team",
-      "id": 1693,
-      "label": "Mantova",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1693.png"
-    },
-    {
-      "type": "team",
-      "id": 96,
-      "label": "Toulouse",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/96.png"
-    },
-    {
-      "type": "team",
-      "id": 79,
-      "label": "Lille",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/79.png"
-    },
-    {
-      "type": "team",
-      "id": 548,
-      "label": "Real Sociedad",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/548.png"
-    },
-    {
-      "type": "team",
-      "id": 538,
-      "label": "Celta Vigo",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/538.png"
+      "image": "data/media/teams/455.png"
     },
     {
       "type": "team",
@@ -535,206 +325,773 @@
     },
     {
       "type": "team",
-      "id": 504,
-      "label": "Hellas Verona",
+      "id": 867,
+      "label": "Lecce",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/504.png"
+      "image": "data/media/teams/867.png"
     },
     {
       "type": "team",
-      "id": 755,
-      "label": "Nautico Recife",
+      "id": 546,
+      "label": "Getafe",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/755.png"
+      "image": "data/media/teams/546.png"
     },
     {
       "type": "team",
-      "id": 2618,
-      "label": "Botafogo SP",
+      "id": 538,
+      "label": "Celta Vigo",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/2618.png"
+      "image": "data/media/teams/538.png"
     },
     {
       "type": "team",
-      "id": 188,
-      "label": "Arminia Bielefeld",
+      "id": 522,
+      "label": "Palermo",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/188.png"
+      "image": "data/media/teams/522.png"
     },
     {
       "type": "team",
-      "id": 186,
-      "label": "FC St. Pauli",
+      "id": 498,
+      "label": "Sampdoria",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/186.png"
+      "image": "data/media/teams/498.png"
     },
     {
       "type": "team",
-      "id": 166,
-      "label": "Hannover 96",
+      "id": 494,
+      "label": "Udinese",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/166.png"
+      "image": "data/media/teams/494.png"
     },
     {
       "type": "team",
-      "id": 785,
-      "label": "Karlsruher SC",
+      "id": 487,
+      "label": "Lazio",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/785.png"
+      "image": "data/media/teams/487.png"
     },
     {
       "type": "team",
-      "id": 80,
-      "label": "Lyon",
+      "id": 7707,
+      "label": "Carshalton Athletic",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/80.png"
+      "image": "data/media/teams/7707.png"
     },
     {
       "type": "team",
-      "id": 108,
-      "label": "Auxerre",
+      "id": 7627,
+      "label": "Chertsey Town",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/108.png"
+      "image": "data/media/teams/7627.png"
     },
     {
       "type": "team",
-      "id": 184,
-      "label": "FC Ingolstadt 04",
+      "id": 7741,
+      "label": "Redditch United",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/184.png"
+      "image": "data/media/teams/7741.png"
     },
     {
       "type": "team",
-      "id": 4259,
-      "label": "Alemannia Aachen",
+      "id": 8870,
+      "label": "Malvern Town",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/4259.png"
+      "image": "data/media/teams/8870.png"
     },
     {
       "type": "team",
-      "id": 172,
-      "label": "VfB Stuttgart",
+      "id": 7751,
+      "label": "Swindon Supermarine",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/172.png"
+      "image": "data/media/teams/7751.png"
     },
     {
       "type": "team",
-      "id": 192,
-      "label": "1. FC Köln",
+      "id": 9004,
+      "label": "Winslow United",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/192.png"
+      "image": "data/media/teams/9004.png"
     },
     {
       "type": "team",
-      "id": 495,
-      "label": "Genoa",
+      "id": 1832,
+      "label": "Bromley",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/495.png"
+      "image": "data/media/teams/1832.png"
     },
     {
       "type": "team",
-      "id": 895,
-      "label": "Como",
+      "id": 1333,
+      "label": "AFC Wimbledon",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/895.png"
+      "image": "data/media/teams/1333.png"
     },
     {
       "type": "team",
-      "id": 4700,
-      "label": "Altrincham",
+      "id": 797,
+      "label": "Elche",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/4700.png"
+      "image": "data/media/teams/797.png"
     },
     {
       "type": "team",
-      "id": 1822,
-      "label": "Eastleigh",
+      "id": 548,
+      "label": "Real Sociedad",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1822.png"
+      "image": "data/media/teams/548.png"
     },
     {
       "type": "team",
-      "id": 7207,
-      "label": "Aveley",
+      "id": 149,
+      "label": "Paysandu",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7207.png"
+      "image": "data/media/teams/149.png"
     },
     {
       "type": "team",
-      "id": 7708,
-      "label": "Cheshunt",
+      "id": 1211,
+      "label": "Brusque",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7708.png"
+      "image": "data/media/teams/1211.png"
     },
     {
       "type": "team",
-      "id": 8785,
-      "label": "Flackwell Heath",
+      "id": 2432,
+      "label": "Barracas Central",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8785.png"
+      "image": "data/media/teams/2432.png"
     },
     {
       "type": "team",
-      "id": 7645,
-      "label": "Hanwell Town",
+      "id": 458,
+      "label": "Argentinos JRS",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7645.png"
+      "image": "data/media/teams/458.png"
     },
     {
       "type": "team",
-      "id": 7662,
-      "label": "Ossett United",
+      "id": 136,
+      "label": "Vitoria",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7662.png"
+      "image": "data/media/teams/136.png"
     },
     {
       "type": "team",
-      "id": 7247,
-      "label": "Pontefract Collieries",
+      "id": 130,
+      "label": "Gremio",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7247.png"
+      "image": "data/media/teams/130.png"
     },
     {
       "type": "team",
-      "id": 8903,
-      "label": "Quorn",
+      "id": 441,
+      "label": "Union Santa Fe",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8903.png"
+      "image": "data/media/teams/441.png"
     },
     {
       "type": "team",
-      "id": 8929,
-      "label": "Shepshed Dynamo",
+      "id": 478,
+      "label": "Instituto Cordoba",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8929.png"
+      "image": "data/media/teams/478.png"
     },
     {
       "type": "team",
-      "id": 7676,
-      "label": "Three Bridges",
+      "id": 575,
+      "label": "AEK Athens FC",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7676.png"
+      "image": "data/media/teams/575.png"
     },
     {
       "type": "team",
-      "id": 7725,
-      "label": "Kingstonian",
+      "id": 1026,
+      "label": "Lask Linz",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7725.png"
+      "image": "data/media/teams/1026.png"
     },
     {
       "type": "team",
-      "id": 57,
-      "label": "Ipswich",
+      "id": 569,
+      "label": "Club Brugge KV",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/57.png"
+      "image": "data/media/teams/569.png"
     },
     {
       "type": "team",
-      "id": 40,
-      "label": "Liverpool",
+      "id": 66,
+      "label": "Aston Villa",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/40.png"
+      "image": "data/media/teams/66.png"
+    },
+    {
+      "type": "team",
+      "id": 8893,
+      "label": "Pagham",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8893.png"
+    },
+    {
+      "type": "team",
+      "id": 8685,
+      "label": "Ascot United",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8685.png"
+    },
+    {
+      "type": "team",
+      "id": 67,
+      "label": "Blackburn",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/67.png"
+    },
+    {
+      "type": "team",
+      "id": 62,
+      "label": "Sheffield Utd",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/62.png"
+    },
+    {
+      "type": "team",
+      "id": 43,
+      "label": "Cardiff",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/43.png"
+    },
+    {
+      "type": "team",
+      "id": 75,
+      "label": "Stoke City",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/75.png"
+    },
+    {
+      "type": "team",
+      "id": 41,
+      "label": "Southampton",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/41.png"
+    },
+    {
+      "type": "team",
+      "id": 76,
+      "label": "Swansea",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/76.png"
+    },
+    {
+      "type": "team",
+      "id": 38,
+      "label": "Watford",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/38.png"
+    },
+    {
+      "type": "team",
+      "id": 59,
+      "label": "Preston",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/59.png"
+    },
+    {
+      "type": "team",
+      "id": 1837,
+      "label": "Wrexham",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1837.png"
+    },
+    {
+      "type": "team",
+      "id": 44,
+      "label": "Burnley",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/44.png"
+    },
+    {
+      "type": "team",
+      "id": 1338,
+      "label": "Oxford United",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1338.png"
+    },
+    {
+      "type": "team",
+      "id": 53,
+      "label": "Reading",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/53.png"
+    },
+    {
+      "type": "team",
+      "id": 35,
+      "label": "Bournemouth",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/35.png"
+    },
+    {
+      "type": "team",
+      "id": 1379,
+      "label": "Lincoln",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1379.png"
+    },
+    {
+      "type": "team",
+      "id": 52,
+      "label": "Crystal Palace",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/52.png"
+    },
+    {
+      "type": "team",
+      "id": 70,
+      "label": "Middlesbrough",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/70.png"
+    },
+    {
+      "type": "team",
+      "id": 1373,
+      "label": "Leyton Orient",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1373.png"
+    },
+    {
+      "type": "team",
+      "id": 1343,
+      "label": "Bradford",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1343.png"
+    },
+    {
+      "type": "team",
+      "id": 746,
+      "label": "Sunderland",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/746.png"
+    },
+    {
+      "type": "team",
+      "id": 64,
+      "label": "Hull City",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/64.png"
+    },
+    {
+      "type": "team",
+      "id": 8672,
+      "label": "AFC Stoneham",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8672.png"
+    },
+    {
+      "type": "team",
+      "id": 7615,
+      "label": "Basingstoke Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7615.png"
+    },
+    {
+      "type": "team",
+      "id": 8699,
+      "label": "Barton Town Old Boys",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8699.png"
+    },
+    {
+      "type": "team",
+      "id": 16992,
+      "label": "North Ferriby",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/16992.png"
+    },
+    {
+      "type": "team",
+      "id": 8711,
+      "label": "Boldmere St. Michaels",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8711.png"
+    },
+    {
+      "type": "team",
+      "id": 24335,
+      "label": "Bourne Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/24335.png"
+    },
+    {
+      "type": "team",
+      "id": 7216,
+      "label": "Brentwood Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7216.png"
+    },
+    {
+      "type": "team",
+      "id": 8658,
+      "label": "Concord Rangers",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8658.png"
+    },
+    {
+      "type": "team",
+      "id": 19549,
+      "label": "Buckhurst Hill",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/19549.png"
+    },
+    {
+      "type": "team",
+      "id": 7267,
+      "label": "Yaxley",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7267.png"
+    },
+    {
+      "type": "team",
+      "id": 7711,
+      "label": "Cray Wanderers",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7711.png"
+    },
+    {
+      "type": "team",
+      "id": 7728,
+      "label": "Lewes",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7728.png"
+    },
+    {
+      "type": "team",
+      "id": 4690,
+      "label": "Dartford",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/4690.png"
+    },
+    {
+      "type": "team",
+      "id": 7261,
+      "label": "Westfield (Surrey)",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7261.png"
+    },
+    {
+      "type": "team",
+      "id": 8781,
+      "label": "Fakenham Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8781.png"
+    },
+    {
+      "type": "team",
+      "id": 7678,
+      "label": "Ware",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7678.png"
+    },
+    {
+      "type": "team",
+      "id": 7642,
+      "label": "Felixstowe & Walton Utd",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7642.png"
+    },
+    {
+      "type": "team",
+      "id": 7759,
+      "label": "Wingate & Finchley",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7759.png"
+    },
+    {
+      "type": "team",
+      "id": 1824,
+      "label": "Guiseley AFC",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1824.png"
+    },
+    {
+      "type": "team",
+      "id": 8953,
+      "label": "Stockton Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8953.png"
+    },
+    {
+      "type": "team",
+      "id": 14411,
+      "label": "Hashtag United",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/14411.png"
+    },
+    {
+      "type": "team",
+      "id": 4708,
+      "label": "St Albans City",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/4708.png"
+    },
+    {
+      "type": "team",
+      "id": 1843,
+      "label": "Havant & Wville",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1843.png"
+    },
+    {
+      "type": "team",
+      "id": 8147,
+      "label": "Chippenham Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8147.png"
+    },
+    {
+      "type": "team",
+      "id": 4682,
+      "label": "Hitchin Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/4682.png"
+    },
+    {
+      "type": "team",
+      "id": 7700,
+      "label": "Biggleswade Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7700.png"
+    },
+    {
+      "type": "team",
+      "id": 16987,
+      "label": "Jersey Bulls",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/16987.png"
+    },
+    {
+      "type": "team",
+      "id": 7217,
+      "label": "Burgess Hill Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7217.png"
+    },
+    {
+      "type": "team",
+      "id": 8654,
+      "label": "Kettering Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8654.png"
+    },
+    {
+      "type": "team",
+      "id": 8989,
+      "label": "Wellingborough Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8989.png"
+    },
+    {
+      "type": "team",
+      "id": 7727,
+      "label": "Leiston",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7727.png"
+    },
+    {
+      "type": "team",
+      "id": 7228,
+      "label": "Grays Athletic",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7228.png"
+    },
+    {
+      "type": "team",
+      "id": 7655,
+      "label": "Mangotsfield United",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7655.png"
+    },
+    {
+      "type": "team",
+      "id": 8653,
+      "label": "Gloucester City",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8653.png"
+    },
+    {
+      "type": "team",
+      "id": 7735,
+      "label": "Needham Market",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7735.png"
+    },
+    {
+      "type": "team",
+      "id": 8950,
+      "label": "Stanway Rovers",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8950.png"
+    },
+    {
+      "type": "team",
+      "id": 17072,
+      "label": "Newmarket",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/17072.png"
+    },
+    {
+      "type": "team",
+      "id": 7623,
+      "label": "Canvey Island",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7623.png"
+    },
+    {
+      "type": "team",
+      "id": 24346,
+      "label": "Portishead Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/24346.png"
+    },
+    {
+      "type": "team",
+      "id": 7758,
+      "label": "Wimborne Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7758.png"
+    },
+    {
+      "type": "team",
+      "id": 16993,
+      "label": "Prestwich Heys",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/16993.png"
+    },
+    {
+      "type": "team",
+      "id": 24347,
+      "label": "South Liverpool",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/24347.png"
+    },
+    {
+      "type": "team",
+      "id": 7674,
+      "label": "Tadcaster Albion",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7674.png"
+    },
+    {
+      "type": "team",
+      "id": 7726,
+      "label": "Lancaster City",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7726.png"
+    },
+    {
+      "type": "team",
+      "id": 7756,
+      "label": "Warrington Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7756.png"
+    },
+    {
+      "type": "team",
+      "id": 8932,
+      "label": "Shildon AFC",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8932.png"
+    },
+    {
+      "type": "team",
+      "id": 8664,
+      "label": "Welling United",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8664.png"
+    },
+    {
+      "type": "team",
+      "id": 7641,
+      "label": "Faversham Town",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7641.png"
+    },
+    {
+      "type": "team",
+      "id": 9010,
+      "label": "Worcester City",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/9010.png"
+    },
+    {
+      "type": "team",
+      "id": 18201,
+      "label": "Knowle",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/18201.png"
+    },
+    {
+      "type": "team",
+      "id": 68,
+      "label": "Bolton",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/68.png"
+    },
+    {
+      "type": "team",
+      "id": 48,
+      "label": "West Ham",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/48.png"
+    },
+    {
+      "type": "team",
+      "id": 58,
+      "label": "Millwall",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/58.png"
+    },
+    {
+      "type": "team",
+      "id": 34,
+      "label": "Newcastle",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/34.png"
+    },
+    {
+      "type": "team",
+      "id": 165,
+      "label": "Borussia Dortmund",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/165.png"
+    },
+    {
+      "type": "team",
+      "id": 533,
+      "label": "Villarreal",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/533.png"
+    },
+    {
+      "type": "team",
+      "id": 212,
+      "label": "FC Porto",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/212.png"
+    },
+    {
+      "type": "team",
+      "id": 50,
+      "label": "Manchester City",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/50.png"
+    },
+    {
+      "type": "team",
+      "id": 79,
+      "label": "Lille",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/79.png"
     },
     {
       "type": "team",
@@ -752,45 +1109,17 @@
     },
     {
       "type": "team",
-      "id": 85,
-      "label": "Paris Saint Germain",
+      "id": 505,
+      "label": "Inter",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/85.png"
+      "image": "data/media/teams/505.png"
     },
     {
       "type": "team",
-      "id": 91,
-      "label": "Monaco",
+      "id": 124,
+      "label": "Fluminense",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/91.png"
-    },
-    {
-      "type": "team",
-      "id": 2424,
-      "label": "Estudiantes de Rio Cuarto",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/2424.png"
-    },
-    {
-      "type": "team",
-      "id": 474,
-      "label": "Sarmiento Junin",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/474.png"
-    },
-    {
-      "type": "team",
-      "id": 440,
-      "label": "Belgrano Cordoba",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/440.png"
-    },
-    {
-      "type": "team",
-      "id": 445,
-      "label": "Huracan",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/445.png"
+      "image": "data/media/teams/124.png"
     },
     {
       "type": "team",
@@ -801,17 +1130,17 @@
     },
     {
       "type": "team",
-      "id": 476,
-      "label": "Deportivo Riestra",
+      "id": 1139,
+      "label": "Santa Fe",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/476.png"
+      "image": "data/media/teams/1139.png"
     },
     {
       "type": "team",
-      "id": 140,
-      "label": "Criciuma",
+      "id": 133,
+      "label": "Vasco DA Gama",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/140.png"
+      "image": "data/media/teams/133.png"
     },
     {
       "type": "team",
@@ -822,10 +1151,297 @@
     },
     {
       "type": "team",
-      "id": 1604,
-      "label": "New York City FC",
+      "id": 13975,
+      "label": "Athletic Club",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1604.png"
+      "image": "data/media/teams/13975.png"
+    },
+    {
+      "type": "team",
+      "id": 140,
+      "label": "Criciuma",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/140.png"
+    },
+    {
+      "type": "team",
+      "id": 152,
+      "label": "Juventude",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/152.png"
+    },
+    {
+      "type": "team",
+      "id": 451,
+      "label": "Boca Juniors",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/451.png"
+    },
+    {
+      "type": "team",
+      "id": 126,
+      "label": "Sao Paulo",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/126.png"
+    },
+    {
+      "type": "team",
+      "id": 529,
+      "label": "Barcelona",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/529.png"
+    },
+    {
+      "type": "team",
+      "id": 209,
+      "label": "Feyenoord",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/209.png"
+    },
+    {
+      "type": "team",
+      "id": 172,
+      "label": "VfB Stuttgart",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/172.png"
+    },
+    {
+      "type": "team",
+      "id": 759,
+      "label": "Viking",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/759.png"
+    },
+    {
+      "type": "team",
+      "id": 69,
+      "label": "Derby",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/69.png"
+    },
+    {
+      "type": "team",
+      "id": 60,
+      "label": "West Brom",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/60.png"
+    },
+    {
+      "type": "team",
+      "id": 71,
+      "label": "Norwich",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/71.png"
+    },
+    {
+      "type": "team",
+      "id": 54,
+      "label": "Birmingham",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/54.png"
+    },
+    {
+      "type": "team",
+      "id": 8778,
+      "label": "Exmouth",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8778.png"
+    },
+    {
+      "type": "team",
+      "id": 7696,
+      "label": "Banbury United",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7696.png"
+    },
+    {
+      "type": "team",
+      "id": 7262,
+      "label": "Whyteleafe",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7262.png"
+    },
+    {
+      "type": "team",
+      "id": 8760,
+      "label": "Crowborough Athletic",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8760.png"
+    },
+    {
+      "type": "team",
+      "id": 8708,
+      "label": "Bishop Auckland",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/8708.png"
+    },
+    {
+      "type": "team",
+      "id": 11936,
+      "label": "AFC Emley",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/11936.png"
+    },
+    {
+      "type": "team",
+      "id": 1335,
+      "label": "Charlton",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1335.png"
+    },
+    {
+      "type": "team",
+      "id": 72,
+      "label": "QPR",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/72.png"
+    },
+    {
+      "type": "team",
+      "id": 40,
+      "label": "Liverpool",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/40.png"
+    },
+    {
+      "type": "team",
+      "id": 530,
+      "label": "Atletico Madrid",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/530.png"
+    },
+    {
+      "type": "team",
+      "id": 492,
+      "label": "Napoli",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/492.png"
+    },
+    {
+      "type": "team",
+      "id": 42,
+      "label": "Arsenal",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/42.png"
+    },
+    {
+      "type": "team",
+      "id": 85,
+      "label": "Paris Saint Germain",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/85.png"
+    },
+    {
+      "type": "team",
+      "id": 656,
+      "label": "Slovan Bratislava",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/656.png"
+    },
+    {
+      "type": "team",
+      "id": 228,
+      "label": "Sporting CP",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/228.png"
+    },
+    {
+      "type": "team",
+      "id": 645,
+      "label": "Galatasaray",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/645.png"
+    },
+    {
+      "type": "team",
+      "id": 49,
+      "label": "Chelsea",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/49.png"
+    },
+    {
+      "type": "team",
+      "id": 63,
+      "label": "Leeds",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/63.png"
+    },
+    {
+      "type": "team",
+      "id": 121,
+      "label": "Palmeiras",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/121.png"
+    },
+    {
+      "type": "team",
+      "id": 1158,
+      "label": "LDU de Quito",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1158.png"
+    },
+    {
+      "type": "team",
+      "id": 128,
+      "label": "Santos",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/128.png"
+    },
+    {
+      "type": "team",
+      "id": 1062,
+      "label": "Atletico-MG",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1062.png"
+    },
+    {
+      "type": "team",
+      "id": 2618,
+      "label": "Botafogo SP",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/2618.png"
+    },
+    {
+      "type": "team",
+      "id": 7834,
+      "label": "Novorizontino",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/7834.png"
+    },
+    {
+      "type": "team",
+      "id": 154,
+      "label": "Fortaleza EC",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/154.png"
+    },
+    {
+      "type": "team",
+      "id": 145,
+      "label": "Avai",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/145.png"
+    },
+    {
+      "type": "team",
+      "id": 1608,
+      "label": "Atlanta United FC",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1608.png"
+    },
+    {
+      "type": "team",
+      "id": 1598,
+      "label": "Orlando City SC",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1598.png"
+    },
+    {
+      "type": "team",
+      "id": 1601,
+      "label": "Toronto FC",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1601.png"
     },
     {
       "type": "team",
@@ -836,17 +1452,73 @@
     },
     {
       "type": "team",
-      "id": 13975,
-      "label": "Athletic Club",
+      "id": 1615,
+      "label": "DC United",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/13975.png"
+      "image": "data/media/teams/1615.png"
     },
     {
       "type": "team",
-      "id": 142,
-      "label": "Vila Nova",
+      "id": 1613,
+      "label": "Columbus Crew",
       "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/142.png"
+      "image": "data/media/teams/1613.png"
+    },
+    {
+      "type": "team",
+      "id": 1614,
+      "label": "CF Montreal",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1614.png"
+    },
+    {
+      "type": "team",
+      "id": 18310,
+      "label": "Charlotte",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/18310.png"
+    },
+    {
+      "type": "team",
+      "id": 125,
+      "label": "America Mineiro",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/125.png"
+    },
+    {
+      "type": "team",
+      "id": 755,
+      "label": "Nautico Recife",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/755.png"
+    },
+    {
+      "type": "team",
+      "id": 1223,
+      "label": "Operario-PR",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1223.png"
+    },
+    {
+      "type": "team",
+      "id": 146,
+      "label": "CRB",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/146.png"
+    },
+    {
+      "type": "team",
+      "id": 1599,
+      "label": "Philadelphia Union",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1599.png"
+    },
+    {
+      "type": "team",
+      "id": 2242,
+      "label": "FC Cincinnati",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/2242.png"
     }
   ]
 }

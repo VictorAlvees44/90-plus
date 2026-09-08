@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T18:35:32.596Z",
+  "updatedAt": "2026-09-08T18:54:45.616Z",
   "leagues": [
     {
       "id": 71,
@@ -381,7 +381,7 @@
         "top_cards": true,
         "injuries": false,
         "predictions": true,
-        "odds": true
+        "odds": false
       },
       "priority": 2
     },
@@ -394,7 +394,7 @@
       "coverage": {
         "fixtures": {
           "events": false,
-          "lineups": false,
+          "lineups": true,
           "statistics_fixtures": false,
           "statistics_players": false
         },
@@ -405,7 +405,7 @@
         "top_cards": false,
         "injuries": false,
         "predictions": true,
-        "odds": false
+        "odds": true
       },
       "priority": 2
     },
@@ -741,7 +741,7 @@
         "top_cards": true,
         "injuries": false,
         "predictions": true,
-        "odds": false
+        "odds": true
       },
       "priority": 3
     },
@@ -837,7 +837,7 @@
         "top_cards": true,
         "injuries": false,
         "predictions": true,
-        "odds": true
+        "odds": false
       },
       "priority": 3
     },
@@ -861,7 +861,7 @@
         "top_cards": true,
         "injuries": false,
         "predictions": true,
-        "odds": true
+        "odds": false
       },
       "priority": 3
     },
