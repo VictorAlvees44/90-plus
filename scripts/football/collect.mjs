@@ -3,6 +3,7 @@ import { dirname, resolve } from 'node:path'
 import { competitionTargetFor, isEligibleLeague } from './competitions.mjs'
 import { dateInSaoPaulo, normalizeFixture, normalizePlayerProfile, normalizeTeamProfile } from './normalize.mjs'
 import { fetchFootballDataFixtures } from './football-data.mjs'
+import { createRequestLimiter } from './request-limiter.mjs'
 
 const root = resolve(import.meta.dirname, '../..')
 const dataDir = resolve(root, 'public/data')
@@ -13,6 +14,10 @@ const today = dateInSaoPaulo(now)
 const token = process.env.API_FOOTBALL_KEY
 const fallbackToken = process.env.FOOTBALL_DATA_KEY
 const collectProfiles = process.env.COLLECT_PROFILES === '1' || process.argv.includes('--profiles')
+const allowStaleOnFailure = ['1', 'true'].includes(process.env.ALLOW_STALE_ON_FAILURE)
+// The provider's Free plan allows 10 requests/minute. Leave a safety margin
+// for retries and any dashboard request by keeping this worker at eight.
+const waitForApiSlot = createRequestLimiter({ minimumIntervalMs: 7_500 })
 
 function log(event, details = {}) { console.log(JSON.stringify({ at: new Date().toISOString(), event, ...details })) }
 function addDays(date, days) { const copy = new Date(`${date}T12:00:00Z`); copy.setUTCDate(copy.getUTCDate() + days); return copy.toISOString().slice(0, 10) }
@@ -60,6 +65,7 @@ function supportsMatchDetails(league) {
 }
 async function api(path) {
   if (quota.used >= quota.limit - 5) throw new Error('Quota de segurança atingida; dados atuais foram preservados.')
+  await waitForApiSlot()
   quota.used += 1
   const response = await fetch(`${apiRoot}${path}`, { headers: { 'x-apisports-key': token } })
   if (response.status === 429) throw new Error('A API-Football informou limite de requisições (429).')
@@ -71,6 +77,10 @@ async function api(path) {
   }
   log('request_ok', { endpoint: path, results: body.results, quotaUsed: quota.used })
   return body.response ?? []
+}
+
+function isExpectedAvailabilityFailure(message) {
+  return /account is suspended|API-Football respondeu HTTP|API-Football retornou erro|limite de requisições|Quota de segurança|football-data\.org respondeu HTTP|football-data\.org informou limite|Nenhuma chave configurada|API_FOOTBALL_KEY não configurada|FOOTBALL_DATA_KEY não configurada/i.test(message)
 }
 
 function validEditorialFixture(fixture) {
@@ -127,9 +137,9 @@ async function collectFootballDataFallback(primaryError) {
 }
 
 async function main() {
-  if (!token && !fallbackToken) throw new Error('Nenhuma chave configurada. Defina API_FOOTBALL_KEY e, para contingência, FOOTBALL_DATA_KEY como GitHub Secrets.')
   log('collection_started', { today, quotaLimit: quota.limit })
   try {
+    if (!token && !fallbackToken) throw new Error('Nenhuma chave configurada. Defina API_FOOTBALL_KEY e, para contingência, FOOTBALL_DATA_KEY como GitHub Secrets.')
     if (!token) throw new Error('API_FOOTBALL_KEY não configurada; iniciando contingência.')
     // /leagues carries season-level coverage. We save only validated targets.
     const leagues = await api('/leagues?current=true')
@@ -142,11 +152,9 @@ async function main() {
 
     // Free accounts require an additional filter with from/to and do not allow
     // the global last filter. Three explicit dates preserve the 16-call budget.
-    const [recentRaw, todayRaw, upcomingRaw] = await Promise.all([
-      api(`/fixtures?date=${addDays(today, -1)}`),
-      api(`/fixtures?date=${today}`),
-      api(`/fixtures?date=${addDays(today, 1)}`)
-    ])
+    const recentRaw = await api(`/fixtures?date=${addDays(today, -1)}`)
+    const todayRaw = await api(`/fixtures?date=${today}`)
+    const upcomingRaw = await api(`/fixtures?date=${addDays(today, 1)}`)
     // A cup can have fixtures today without being returned by /leagues?current.
     // Discover those allowed national competitions from the fixture response too.
     for (const raw of [...recentRaw, ...todayRaw, ...upcomingRaw]) {
@@ -274,6 +282,10 @@ async function main() {
     }
     const message = terminalError instanceof Error ? terminalError.message : 'Erro desconhecido no coletor.'
     quota.failures.push(message)
+    if (allowStaleOnFailure && isExpectedAvailabilityFailure(message)) {
+      log('collection_degraded', { message, quotaUsed: quota.used, preserved: true })
+      return
+    }
     const previous = await readFile(resolve(dataDir, 'meta.json'), 'utf8').then(JSON.parse).catch(() => ({}))
     await preserveOnFailure('meta.json', { ...previous, lastFailureAt: new Date().toISOString(), quota: { ...quota } })
     log('collection_failed', { message, quotaUsed: quota.used })

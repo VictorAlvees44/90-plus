@@ -22,6 +22,7 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+          ALLOW_STALE_ON_FAILURE: ${{ github.event_name == 'schedule' }}
       - name: Commit new snapshots
         run: |
           git config user.name "90+ data bot"
