@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 31499,
+    "name": "G. Borrelli",
+    "age": 25,
+    "number": 29,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/31499.png"
+  },
+  "team": {
+    "id": 490,
+    "name": "Cagliari",
+    "logo": "https://media.api-sports.io/football/teams/490.png",
+    "country": "Italy",
+    "founded": 1920,
+    "national": false
+  }
+}

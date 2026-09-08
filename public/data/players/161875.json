@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 161875,
+    "name": "Hugo González",
+    "age": 22,
+    "number": 16,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/161875.png"
+  },
+  "team": {
+    "id": 538,
+    "name": "Celta Vigo",
+    "logo": "https://media.api-sports.io/football/teams/538.png",
+    "country": "Spain",
+    "founded": 1923,
+    "national": false
+  }
+}

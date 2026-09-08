@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 366420,
+    "name": "E. Torres",
+    "age": 24,
+    "number": 22,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/366420.png"
+  },
+  "team": {
+    "id": 436,
+    "name": "Racing Club",
+    "logo": "https://media.api-sports.io/football/teams/436.png",
+    "country": "Argentina",
+    "founded": 1903,
+    "national": false
+  }
+}

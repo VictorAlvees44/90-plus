@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 134926,
+    "name": "D. Maldini",
+    "age": 24,
+    "number": 70,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/134926.png"
+  },
+  "team": {
+    "id": 490,
+    "name": "Cagliari",
+    "logo": "https://media.api-sports.io/football/teams/490.png",
+    "country": "Italy",
+    "founded": 1920,
+    "national": false
+  }
+}

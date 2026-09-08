@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 345107,
+    "name": "A. Ahmed Fatah",
+    "age": 21,
+    "number": 7,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/345107.png"
+  },
+  "team": {
+    "id": 867,
+    "name": "Lecce",
+    "logo": "https://media.api-sports.io/football/teams/867.png",
+    "country": "Italy",
+    "founded": 1908,
+    "national": false
+  }
+}

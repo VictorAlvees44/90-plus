@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 1489,
+    "name": "N. Gudelj",
+    "age": 34,
+    "number": 8,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/1489.png"
+  },
+  "team": {
+    "id": 546,
+    "name": "Getafe",
+    "logo": "https://media.api-sports.io/football/teams/546.png",
+    "country": "Spain",
+    "founded": 1983,
+    "national": false
+  }
+}

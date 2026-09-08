@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 626706,
+    "name": "A. Russo",
+    "age": 19,
+    "number": 41,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/626706.png"
+  },
+  "team": {
+    "id": 490,
+    "name": "Cagliari",
+    "logo": "https://media.api-sports.io/football/teams/490.png",
+    "country": "Italy",
+    "founded": 1920,
+    "national": false
+  }
+}

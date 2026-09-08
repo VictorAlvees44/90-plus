@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 41964,
+    "name": "Zé Pedro",
+    "age": 29,
+    "number": 2,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/41964.png"
+  },
+  "team": {
+    "id": 490,
+    "name": "Cagliari",
+    "logo": "https://media.api-sports.io/football/teams/490.png",
+    "country": "Italy",
+    "founded": 1920,
+    "national": false
+  }
+}

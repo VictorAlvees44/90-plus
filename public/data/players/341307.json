@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 341307,
+    "name": "Ivan Stoyanov Sulev",
+    "age": 19,
+    "number": 32,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/341307.png"
+  },
+  "team": {
+    "id": 490,
+    "name": "Cagliari",
+    "logo": "https://media.api-sports.io/football/teams/490.png",
+    "country": "Italy",
+    "founded": 1920,
+    "national": false
+  }
+}

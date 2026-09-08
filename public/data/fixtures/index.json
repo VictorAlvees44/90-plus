@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T18:54:45.618Z",
+  "updatedAt": "2026-09-08T18:56:41.113Z",
   "fixtures": [
     {
       "id": 1493116,
@@ -454,7 +454,7 @@
       "id": 1563143,
       "startsAt": "2026-09-08T18:45:00+00:00",
       "status": "live",
-      "elapsed": 10,
+      "elapsed": 12,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -481,7 +481,7 @@
       "id": 1563146,
       "startsAt": "2026-09-08T18:45:00+00:00",
       "status": "live",
-      "elapsed": 10,
+      "elapsed": 12,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -508,7 +508,7 @@
       "id": 1563148,
       "startsAt": "2026-09-08T18:45:00+00:00",
       "status": "live",
-      "elapsed": 10,
+      "elapsed": 12,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -534,7 +534,7 @@
       "id": 1563149,
       "startsAt": "2026-09-08T18:45:00+00:00",
       "status": "live",
-      "elapsed": 10,
+      "elapsed": 12,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -561,7 +561,7 @@
       "id": 1563154,
       "startsAt": "2026-09-08T18:45:00+00:00",
       "status": "live",
-      "elapsed": 8,
+      "elapsed": 10,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -610,7 +610,7 @@
       "id": 1635556,
       "startsAt": "2026-09-08T18:45:00+00:00",
       "status": "live",
-      "elapsed": 9,
+      "elapsed": 11,
       "league": {
         "id": 48,
         "name": "League Cup",
@@ -637,7 +637,7 @@
       "id": 1635558,
       "startsAt": "2026-09-08T18:45:00+00:00",
       "status": "live",
-      "elapsed": 10,
+      "elapsed": 12,
       "league": {
         "id": 48,
         "name": "League Cup",
@@ -664,7 +664,7 @@
       "id": 1635562,
       "startsAt": "2026-09-08T18:45:00+00:00",
       "status": "live",
-      "elapsed": 10,
+      "elapsed": 12,
       "league": {
         "id": 48,
         "name": "League Cup",
@@ -691,7 +691,7 @@
       "id": 1635569,
       "startsAt": "2026-09-08T18:45:00+00:00",
       "status": "live",
-      "elapsed": 9,
+      "elapsed": 11,
       "league": {
         "id": 48,
         "name": "League Cup",

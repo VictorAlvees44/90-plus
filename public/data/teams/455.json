@@ -1,0 +1,267 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "team": {
+    "id": 455,
+    "name": "Atletico Tucuman",
+    "logo": "https://media.api-sports.io/football/teams/455.png",
+    "country": "Argentina",
+    "founded": 1902,
+    "national": false
+  },
+  "venue": {
+    "name": "Estadio Monumental Presidente José Fierro",
+    "city": "San Miguel de Tucumán, Provincia de Tucumán",
+    "capacity": 35200,
+    "image": "https://media.api-sports.io/football/venues/42.png"
+  },
+  "squad": [
+    {
+      "id": 6421,
+      "name": "T. Durso",
+      "age": 26,
+      "number": 25,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/6421.png"
+    },
+    {
+      "id": 6256,
+      "name": "L. Ingolotti",
+      "age": 25,
+      "number": 1,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/6256.png"
+    },
+    {
+      "id": 6201,
+      "name": "L. Di Plácido",
+      "age": 31,
+      "number": 24,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/6201.png"
+    },
+    {
+      "id": 6600,
+      "name": "G. Ferrari",
+      "age": 28,
+      "number": 6,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/6600.png"
+    },
+    {
+      "id": 460761,
+      "name": "C. Ferreira",
+      "age": 22,
+      "number": 26,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/460761.png"
+    },
+    {
+      "id": 302947,
+      "name": "I. Galván",
+      "age": 23,
+      "number": 21,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/302947.png"
+    },
+    {
+      "id": 648493,
+      "name": "R. Gonzalez",
+      "age": 21,
+      "number": 33,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/648493.png"
+    },
+    {
+      "id": 5291,
+      "name": "J. Infante",
+      "age": 29,
+      "number": 32,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/5291.png"
+    },
+    {
+      "id": 519278,
+      "name": "Ramiro Paunero",
+      "age": 20,
+      "number": 2,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/519278.png"
+    },
+    {
+      "id": 6540,
+      "name": "J. Rodríguez",
+      "age": 31,
+      "number": 17,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/6540.png"
+    },
+    {
+      "id": 5631,
+      "name": "G. Suso",
+      "age": 34,
+      "number": 20,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/5631.png"
+    },
+    {
+      "id": 510346,
+      "name": "Luciano Vallejo",
+      "age": 21,
+      "number": 36,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/510346.png"
+    },
+    {
+      "id": 129968,
+      "name": "M. Villa",
+      "age": 28,
+      "number": 3,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/129968.png"
+    },
+    {
+      "id": 6473,
+      "name": "G. Compagnucci",
+      "age": 34,
+      "number": 28,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/6473.png"
+    },
+    {
+      "id": 11605,
+      "name": "J. Fernández",
+      "age": 30,
+      "number": 5,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/11605.png"
+    },
+    {
+      "id": 475936,
+      "name": "L. Godoy",
+      "age": 22,
+      "number": 31,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/475936.png"
+    },
+    {
+      "id": 560300,
+      "name": "R. Granillo",
+      "age": 20,
+      "number": 27,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/560300.png"
+    },
+    {
+      "id": 6715,
+      "name": "E. Ham",
+      "age": 31,
+      "number": 8,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/6715.png"
+    },
+    {
+      "id": 670006,
+      "name": "Tomas Jung",
+      "age": 21,
+      "number": 4,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/670006.png"
+    },
+    {
+      "id": 354944,
+      "name": "K. Ortíz",
+      "age": 25,
+      "number": 45,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/354944.png"
+    },
+    {
+      "id": 5452,
+      "name": "R. Tesuri",
+      "age": 29,
+      "number": 11,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/5452.png"
+    },
+    {
+      "id": 560415,
+      "name": "L. Vega",
+      "age": 21,
+      "number": 19,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/560415.png"
+    },
+    {
+      "id": 538351,
+      "name": "G. Abeldano",
+      "age": 20,
+      "number": 35,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/538351.png"
+    },
+    {
+      "id": 403323,
+      "name": "M. Brondo",
+      "age": 23,
+      "number": 30,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/403323.png"
+    },
+    {
+      "id": 35715,
+      "name": "A. Canelo",
+      "age": 33,
+      "number": 14,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/35715.png"
+    },
+    {
+      "id": 6038,
+      "name": "L. Díaz",
+      "age": 33,
+      "number": 9,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/6038.png"
+    },
+    {
+      "id": 354656,
+      "name": "F. Nicola",
+      "age": 23,
+      "number": 10,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/354656.png"
+    },
+    {
+      "id": 199926,
+      "name": "N. Laméndola",
+      "age": 27,
+      "number": 23,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/199926.png"
+    },
+    {
+      "id": 6094,
+      "name": "M. Benítez",
+      "age": 31,
+      "number": 7,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/6094.png"
+    },
+    {
+      "id": 362754,
+      "name": "F. Pimienta",
+      "age": 22,
+      "number": 22,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/362754.png"
+    },
+    {
+      "id": 129907,
+      "name": "R. Ruíz Rodríguez",
+      "age": 25,
+      "number": 18,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/129907.png"
+    }
+  ]
+}

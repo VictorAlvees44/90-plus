@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 23253,
+    "name": "G. Jean",
+    "age": 25,
+    "number": 18,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/23253.png"
+  },
+  "team": {
+    "id": 867,
+    "name": "Lecce",
+    "logo": "https://media.api-sports.io/football/teams/867.png",
+    "country": "Italy",
+    "founded": 1908,
+    "national": false
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "team": {
+    "id": 436,
+    "name": "Racing Club",
+    "logo": "https://media.api-sports.io/football/teams/436.png",
+    "country": "Argentina",
+    "founded": 1903,
+    "national": false
+  },
+  "venue": {
+    "name": "Estadio Presidente Juan Domingo Perón",
+    "city": "Avellaneda, Provincia de Buenos Aires",
+    "capacity": 51500,
+    "image": "https://media.api-sports.io/football/venues/99.png"
+  },
+  "squad": [
+    {
+      "id": 6364,
+      "name": "F. Cambeses",
+      "age": 28,
+      "number": 25,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/6364.png"
+    },
+    {
+      "id": 363338,
+      "name": "F. Gómez",
+      "age": 21,
+      "number": 1,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/363338.png"
+    },
+    {
+      "id": 5624,
+      "name": "M. Tagliamonte",
+      "age": 27,
+      "number": 30,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/5624.png"
+    },
+    {
+      "id": 126743,
+      "name": "J. Barinaga",
+      "age": 25,
+      "number": 14,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/126743.png"
+    },
+    {
+      "id": 295508,
+      "name": "E. Cannavo",
+      "age": 23,
+      "number": 4,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/295508.png"
+    },
+    {
+      "id": 125177,
+      "name": "N. Colombo",
+      "age": 26,
+      "number": 23,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/125177.png"
+    },
+    {
+      "id": 289466,
+      "name": "M. Di Cesare",
+      "age": 23,
+      "number": 3,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/289466.png"
+    },
+    {
+      "id": 414424,
+      "name": "G. Escudero",
+      "age": 18,
+      "number": 43,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/414424.png"
+    },
+    {
+      "id": 515930,
+      "name": "B. González",
+      "age": 18,
+      "number": 31,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/515930.png"
+    },
+    {
+      "id": 606649,
+      "name": "M. Martinez",
+      "age": 17,
+      "number": 38,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/606649.png"
+    },
+    {
+      "id": 46759,
+      "name": "A. Espino",
+      "age": 33,
+      "number": 18,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/46759.png"
+    },
+    {
+      "id": 129901,
+      "name": "M. Pérez",
+      "age": 26,
+      "number": 2,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/129901.png"
+    },
+    {
+      "id": 890,
+      "name": "M. Rojo",
+      "age": 36,
+      "number": 6,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/890.png"
+    },
+    {
+      "id": 363340,
+      "name": "T. Rubio",
+      "age": 21,
+      "number": 34,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/363340.png"
+    },
+    {
+      "id": 465127,
+      "name": "G. Volpe",
+      "age": 21,
+      "number": 42,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/465127.png"
+    },
+    {
+      "id": 668289,
+      "name": "Santino Aguirre",
+      "age": 19,
+      "number": 37,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/668289.png"
+    },
+    {
+      "id": 169928,
+      "name": "A. Fernández",
+      "age": 24,
+      "number": 24,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/169928.png"
+    },
+    {
+      "id": 472128,
+      "name": "A. Forneris",
+      "age": 20,
+      "number": 8,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/472128.png"
+    },
+    {
+      "id": 1211,
+      "name": "M. Kranevitter",
+      "age": 32,
+      "number": 5,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/1211.png"
+    },
+    {
+      "id": 6211,
+      "name": "G. Lodico",
+      "age": 27,
+      "number": 20,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/6211.png"
+    },
+    {
+      "id": 6719,
+      "name": "M. Miljevic",
+      "age": 24,
+      "number": 10,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/6719.png"
+    },
+    {
+      "id": 5887,
+      "name": "D. Ortegoza",
+      "age": 28,
+      "number": 16,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/5887.png"
+    },
+    {
+      "id": 645058,
+      "name": "E. Perez",
+      "age": 17,
+      "number": 39,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/645058.png"
+    },
+    {
+      "id": 310181,
+      "name": "I. Rodríguez",
+      "age": 23,
+      "number": 19,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/310181.png"
+    },
+    {
+      "id": 599944,
+      "name": "F. Schaare",
+      "age": 20,
+      "number": 59,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/599944.png"
+    },
+    {
+      "id": 472570,
+      "name": "A. Tello",
+      "age": 17,
+      "number": 46,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/472570.png"
+    },
+    {
+      "id": 560403,
+      "name": "A. Yegros",
+      "age": 19,
+      "number": 44,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/560403.png"
+    },
+    {
+      "id": 2477,
+      "name": "M. Zaracho",
+      "age": 27,
+      "number": 11,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/2477.png"
+    },
+    {
+      "id": 70749,
+      "name": "A. Martínez",
+      "age": 33,
+      "number": 9,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/70749.png"
+    },
+    {
+      "id": 673833,
+      "name": "A. Campo",
+      "age": 19,
+      "number": 35,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/673833.png"
+    },
+    {
+      "id": 51241,
+      "name": "T. Conechny",
+      "age": 27,
+      "number": 17,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/51241.png"
+    },
+    {
+      "id": 64172,
+      "name": "L. Díaz",
+      "age": 27,
+      "number": 32,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/64172.png"
+    },
+    {
+      "id": 465124,
+      "name": "F. Fraga",
+      "age": 19,
+      "number": 40,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/465124.png"
+    },
+    {
+      "id": 673834,
+      "name": "E. Perez",
+      "age": 18,
+      "number": 45,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/673834.png"
+    },
+    {
+      "id": 408342,
+      "name": "L. Pérez",
+      "age": 21,
+      "number": 33,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/408342.png"
+    },
+    {
+      "id": 170127,
+      "name": "S. Solari",
+      "age": 27,
+      "number": 32,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/170127.png"
+    },
+    {
+      "id": 366420,
+      "name": "E. Torres",
+      "age": 24,
+      "number": 22,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/366420.png"
+    },
+    {
+      "id": 6528,
+      "name": "D. Vergara",
+      "age": 29,
+      "number": 7,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/6528.png"
+    }
+  ]
+}

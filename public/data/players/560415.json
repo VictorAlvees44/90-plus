@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 560415,
+    "name": "L. Vega",
+    "age": 21,
+    "number": 19,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/560415.png"
+  },
+  "team": {
+    "id": 455,
+    "name": "Atletico Tucuman",
+    "logo": "https://media.api-sports.io/football/teams/455.png",
+    "country": "Argentina",
+    "founded": 1902,
+    "national": false
+  }
+}

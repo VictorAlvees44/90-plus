@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 484474,
+    "name": "J. Valou",
+    "age": 20,
+    "number": 26,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/484474.png"
+  },
+  "team": {
+    "id": 546,
+    "name": "Getafe",
+    "logo": "https://media.api-sports.io/football/teams/546.png",
+    "country": "Spain",
+    "founded": 1983,
+    "national": false
+  }
+}

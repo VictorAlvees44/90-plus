@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 362754,
+    "name": "F. Pimienta",
+    "age": 22,
+    "number": 22,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/362754.png"
+  },
+  "team": {
+    "id": 455,
+    "name": "Atletico Tucuman",
+    "logo": "https://media.api-sports.io/football/teams/455.png",
+    "country": "Argentina",
+    "founded": 1902,
+    "national": false
+  }
+}

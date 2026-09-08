@@ -1,0 +1,121 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 6528,
+    "name": "D. Vergara",
+    "age": 29,
+    "number": 7,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/6528.png"
+  },
+  "team": {
+    "id": 436,
+    "name": "Racing Club",
+    "logo": "https://media.api-sports.io/football/teams/436.png",
+    "country": "Argentina",
+    "founded": 1903,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2024-07-08",
+      "from": "Monterrey",
+      "to": "America de Cali",
+      "type": "N/A"
+    },
+    {
+      "date": "2023-06-22",
+      "from": "Monterrey",
+      "to": "Santos Laguna",
+      "type": "Free"
+    },
+    {
+      "date": "2021-07-01",
+      "from": "America de Cali",
+      "to": "Monterrey",
+      "type": "N/A"
+    },
+    {
+      "date": "2019-07-16",
+      "from": "Rosario Central",
+      "to": "America de Cali",
+      "type": "€ 1.8M"
+    },
+    {
+      "date": "2019-01-25",
+      "from": "Envigado",
+      "to": "Rosario Central",
+      "type": "€ 620K"
+    },
+    {
+      "date": "2025-07-07",
+      "from": "América de Cali",
+      "to": "Racing Club",
+      "type": "Transfer"
+    },
+    {
+      "date": "2025-07-07",
+      "from": "America de Cali",
+      "to": "Racing Club",
+      "type": "Transfer"
+    },
+    {
+      "date": "2025-07-05",
+      "from": "America de Cali",
+      "to": "Racing Club",
+      "type": "Transfer"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Copa Colombia",
+      "season": "2024",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Concacaf Champions Cup",
+      "season": "2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Primera A",
+      "season": "2020",
+      "place": "Winner"
+    },
+    {
+      "league": "Superliga",
+      "season": "2020",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Primera A",
+      "season": "2019",
+      "place": "Winner"
+    },
+    {
+      "league": "Super Copa",
+      "season": "2019",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Primera A",
+      "place": "Winner"
+    },
+    {
+      "league": "Super Copa",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Superliga",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa Colombia",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Concacaf Champions Cup",
+      "place": "Winner"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 6719,
+    "name": "M. Miljevic",
+    "age": 24,
+    "number": 10,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/6719.png"
+  },
+  "team": {
+    "id": 436,
+    "name": "Racing Club",
+    "logo": "https://media.api-sports.io/football/teams/436.png",
+    "country": "Argentina",
+    "founded": 1903,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2024-02-06",
+      "from": "CF Montreal",
+      "to": "Newells Old Boys",
+      "type": "Free"
+    },
+    {
+      "date": "2021-08-20",
+      "from": "Argentinos JRS",
+      "to": "CF Montreal",
+      "type": "Free"
+    },
+    {
+      "date": "2025-01-15",
+      "from": "Newells Old Boys",
+      "to": "Huracan",
+      "type": "Transfer"
+    },
+    {
+      "date": "2025-01-10",
+      "from": "Newells Old Boys",
+      "to": "Huracan",
+      "type": "Free agent"
+    },
+    {
+      "date": "2026-01-13",
+      "from": "Huracan",
+      "to": "Racing Club",
+      "type": "Transfer"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Liga Profesional Argentina",
+      "season": "2025",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Canadian Championship",
+      "season": "2023",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Canadian Championship",
+      "season": "2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Canadian Championship",
+      "place": "Winner"
+    },
+    {
+      "league": "Canadian Championship",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "place": "2nd Place"
+    }
+  ]
+}

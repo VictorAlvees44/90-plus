@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 648493,
+    "name": "R. Gonzalez",
+    "age": 21,
+    "number": 33,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/648493.png"
+  },
+  "team": {
+    "id": 455,
+    "name": "Atletico Tucuman",
+    "logo": "https://media.api-sports.io/football/teams/455.png",
+    "country": "Argentina",
+    "founded": 1902,
+    "national": false
+  }
+}

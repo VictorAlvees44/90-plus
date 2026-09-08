@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 6715,
+    "name": "E. Ham",
+    "age": 31,
+    "number": 8,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/6715.png"
+  },
+  "team": {
+    "id": 455,
+    "name": "Atletico Tucuman",
+    "logo": "https://media.api-sports.io/football/teams/455.png",
+    "country": "Argentina",
+    "founded": 1902,
+    "national": false
+  }
+}

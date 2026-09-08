@@ -1,0 +1,18 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 636372,
+    "name": "A. Zovko",
+    "age": 17,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/636372.png"
+  },
+  "team": {
+    "id": 867,
+    "name": "Lecce",
+    "logo": "https://media.api-sports.io/football/teams/867.png",
+    "country": "Italy",
+    "founded": 1908,
+    "national": false
+  }
+}

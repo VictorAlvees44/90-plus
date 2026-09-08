@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 2477,
+    "name": "M. Zaracho",
+    "age": 27,
+    "number": 11,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/2477.png"
+  },
+  "team": {
+    "id": 436,
+    "name": "Racing Club",
+    "logo": "https://media.api-sports.io/football/teams/436.png",
+    "country": "Argentina",
+    "founded": 1903,
+    "national": false
+  }
+}

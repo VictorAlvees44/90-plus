@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 8643,
+    "name": "K. N’Dri",
+    "age": 25,
+    "number": 11,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/8643.png"
+  },
+  "team": {
+    "id": 867,
+    "name": "Lecce",
+    "logo": "https://media.api-sports.io/football/teams/867.png",
+    "country": "Italy",
+    "founded": 1908,
+    "national": false
+  }
+}

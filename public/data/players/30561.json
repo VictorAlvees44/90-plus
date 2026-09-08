@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 30561,
+    "name": "A. Deiola",
+    "age": 30,
+    "number": 14,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/30561.png"
+  },
+  "team": {
+    "id": 490,
+    "name": "Cagliari",
+    "logo": "https://media.api-sports.io/football/teams/490.png",
+    "country": "Italy",
+    "founded": 1920,
+    "national": false
+  }
+}

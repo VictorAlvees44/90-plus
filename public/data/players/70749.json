@@ -1,0 +1,125 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 70749,
+    "name": "A. Martínez",
+    "age": 33,
+    "number": 9,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/70749.png"
+  },
+  "team": {
+    "id": 436,
+    "name": "Racing Club",
+    "logo": "https://media.api-sports.io/football/teams/436.png",
+    "country": "Argentina",
+    "founded": 1903,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2024-01-01",
+      "from": "Instituto Cordoba",
+      "to": "Racing Club",
+      "type": "Free"
+    },
+    {
+      "date": "2022-12-27",
+      "from": "Coritiba",
+      "to": "Instituto Cordoba",
+      "type": "Free"
+    },
+    {
+      "date": "2022-04-05",
+      "from": "Libertad Asuncion",
+      "to": "Coritiba",
+      "type": "Loan"
+    },
+    {
+      "date": "2022-01-01",
+      "from": "Cerro Porteno",
+      "to": "Libertad Asuncion",
+      "type": "N/A"
+    },
+    {
+      "date": "2021-07-05",
+      "from": "Libertad Asuncion",
+      "to": "Cerro Porteno",
+      "type": "Loan"
+    },
+    {
+      "date": "2019-01-07",
+      "from": "SOL DE America",
+      "to": "Libertad Asuncion",
+      "type": "N/A"
+    },
+    {
+      "date": "2018-07-02",
+      "from": "Atlanta",
+      "to": "SOL DE America",
+      "type": "Free"
+    },
+    {
+      "date": "2017-08-09",
+      "from": "Defensores Unidos",
+      "to": "Atlanta",
+      "type": "Free"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "CONMEBOL Recopa",
+      "season": "2025",
+      "place": "Winner"
+    },
+    {
+      "league": "CONMEBOL Sudamericana",
+      "season": "2024",
+      "place": "Winner"
+    },
+    {
+      "league": "Division Profesional",
+      "season": "2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Supercopa",
+      "season": "2021",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Division Profesional",
+      "season": "2019",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa Paraguay",
+      "season": "2019",
+      "place": "Winner"
+    },
+    {
+      "league": "Division Profesional",
+      "place": "Winner"
+    },
+    {
+      "league": "Division Profesional",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa Paraguay",
+      "place": "Winner"
+    },
+    {
+      "league": "Supercopa",
+      "place": "2nd Place"
+    },
+    {
+      "league": "CONMEBOL Sudamericana",
+      "place": "Winner"
+    },
+    {
+      "league": "CONMEBOL Recopa",
+      "place": "Winner"
+    }
+  ]
+}

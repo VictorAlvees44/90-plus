@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-08T18:56:41.113Z",
+  "player": {
+    "id": 384135,
+    "name": "Javi Rodríguez",
+    "age": 22,
+    "number": 20,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/384135.png"
+  },
+  "team": {
+    "id": 538,
+    "name": "Celta Vigo",
+    "logo": "https://media.api-sports.io/football/teams/538.png",
+    "country": "Spain",
+    "founded": 1923,
+    "national": false
+  }
+}
