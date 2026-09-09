@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 348168,
+    "name": "A. Smakaj",
+    "age": 22,
+    "number": 5,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/348168.png"
+  },
+  "team": {
+    "id": 1026,
+    "name": "Lask Linz",
+    "logo": "https://media.api-sports.io/football/teams/1026.png",
+    "country": "Austria",
+    "founded": 1908,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 400054,
+    "name": "M. Freckleton",
+    "age": 22,
+    "number": 3,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/400054.png"
+  },
+  "team": {
+    "id": 1026,
+    "name": "Lask Linz",
+    "logo": "https://media.api-sports.io/football/teams/1026.png",
+    "country": "Austria",
+    "founded": 1908,
+    "national": false
+  }
+}

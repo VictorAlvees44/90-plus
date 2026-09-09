@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 1923,
+    "name": "N. Jackers",
+    "age": 28,
+    "number": 29,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/1923.png"
+  },
+  "team": {
+    "id": 569,
+    "name": "Club Brugge KV",
+    "logo": "https://media.api-sports.io/football/teams/569.png",
+    "country": "Belgium",
+    "founded": 1891,
+    "national": false
+  }
+}

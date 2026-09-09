@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 18846,
+    "name": "A. Wan-Bissaka",
+    "age": 28,
+    "number": 29,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/18846.png"
+  },
+  "team": {
+    "id": 66,
+    "name": "Aston Villa",
+    "logo": "https://media.api-sports.io/football/teams/66.png",
+    "country": "England",
+    "founded": 1874,
+    "national": false
+  }
+}

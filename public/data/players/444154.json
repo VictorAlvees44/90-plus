@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 444154,
+    "name": "W. Verlinden",
+    "age": 18,
+    "number": 93,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/444154.png"
+  },
+  "team": {
+    "id": 569,
+    "name": "Club Brugge KV",
+    "logo": "https://media.api-sports.io/football/teams/569.png",
+    "country": "Belgium",
+    "founded": 1891,
+    "national": false
+  }
+}

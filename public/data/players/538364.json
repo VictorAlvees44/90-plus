@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 538364,
+    "name": "S. Grella",
+    "age": 20,
+    "number": 46,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/538364.png"
+  },
+  "team": {
+    "id": 441,
+    "name": "Union Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/441.png",
+    "country": "Argentina",
+    "founded": 1907,
+    "national": false
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 6128,
+    "name": "F. Fragapane",
+    "age": 32,
+    "number": 7,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/6128.png"
+  },
+  "team": {
+    "id": 441,
+    "name": "Union Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/441.png",
+    "country": "Argentina",
+    "founded": 1907,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2021-05-20",
+      "from": "Talleres Cordoba",
+      "to": "Minnesota United FC",
+      "type": "€ 2.5M"
+    },
+    {
+      "date": "2020-11-01",
+      "from": "Fortaleza EC",
+      "to": "Talleres Cordoba",
+      "type": "N/A"
+    },
+    {
+      "date": "2020-08-06",
+      "from": "Talleres Cordoba",
+      "to": "Fortaleza EC",
+      "type": "Loan"
+    },
+    {
+      "date": "2019-07-03",
+      "from": "Union Santa Fe",
+      "to": "Talleres Cordoba",
+      "type": "Free"
+    },
+    {
+      "date": "2017-08-25",
+      "from": "Arsenal Sarandi",
+      "to": "Union Santa Fe",
+      "type": "Free"
+    },
+    {
+      "date": "2016-07-12",
+      "from": "Boca Juniors",
+      "to": "Arsenal Sarandi",
+      "type": "Free"
+    },
+    {
+      "date": "2015-08-07",
+      "from": "Boca Juniors",
+      "to": "Celta Vigo",
+      "type": "Loan"
+    },
+    {
+      "date": "2014-07-10",
+      "from": "Boca Juniors",
+      "to": "Elche",
+      "type": "Loan"
+    },
+    {
+      "date": "2025-01-15",
+      "from": "Minnesota United",
+      "to": "Union Santa Fe",
+      "type": "Free Transfer"
+    },
+    {
+      "date": "2025-01-15",
+      "from": "Minnesota United FC",
+      "to": "Union Santa Fe",
+      "type": "Free Transfer"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Cearense 1",
+      "season": "2020",
+      "place": "Winner"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "season": "2014",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Super Copa",
+      "season": "2012",
+      "place": "2nd Place"
+    },
+    {
+      "league": "CONMEBOL Libertadores",
+      "season": "2012",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa Argentina",
+      "season": "2011/2012",
+      "place": "Winner"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "season": "2011/2012",
+      "place": "Winner"
+    },
+    {
+      "league": "Pan American Games",
+      "season": "2011",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa Argentina",
+      "place": "Winner"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "place": "Winner"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Super Copa",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Cearense 1",
+      "place": "Winner"
+    },
+    {
+      "league": "Pan American Games",
+      "place": "2nd Place"
+    },
+    {
+      "league": "CONMEBOL Libertadores",
+      "place": "2nd Place"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 560319,
+    "name": "B. Olmedo",
+    "age": 19,
+    "number": 80,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/560319.png"
+  },
+  "team": {
+    "id": 478,
+    "name": "Instituto Cordoba",
+    "logo": "https://media.api-sports.io/football/teams/478.png",
+    "country": "Argentina",
+    "founded": 1918,
+    "national": false
+  }
+}

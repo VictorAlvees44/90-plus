@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 417,
+    "name": "A. Schöpf",
+    "age": 31,
+    "number": 18,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/417.png"
+  },
+  "team": {
+    "id": 1026,
+    "name": "Lask Linz",
+    "logo": "https://media.api-sports.io/football/teams/1026.png",
+    "country": "Austria",
+    "founded": 1908,
+    "national": false
+  }
+}

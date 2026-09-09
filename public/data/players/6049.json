@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 6049,
+    "name": "H. De La Fuente",
+    "age": 29,
+    "number": 2,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/6049.png"
+  },
+  "team": {
+    "id": 478,
+    "name": "Instituto Cordoba",
+    "logo": "https://media.api-sports.io/football/teams/478.png",
+    "country": "Argentina",
+    "founded": 1918,
+    "national": false
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 294787,
+    "name": "A. Luna",
+    "age": 21,
+    "number": 10,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/294787.png"
+  },
+  "team": {
+    "id": 478,
+    "name": "Instituto Cordoba",
+    "logo": "https://media.api-sports.io/football/teams/478.png",
+    "country": "Argentina",
+    "founded": 1918,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "1926-01-01",
+      "from": "Instituto Cordoba",
+      "to": "Atletico DE Rafaela",
+      "type": "N/A"
+    },
+    {
+      "date": "2025-01-01",
+      "from": "Independiente",
+      "to": "Atletico DE Rafaela",
+      "type": "N/A"
+    },
+    {
+      "date": "2023-12-30",
+      "from": "Atletico DE Rafaela",
+      "to": "Independiente",
+      "type": "Loan"
+    },
+    {
+      "date": "2020-12-06",
+      "from": "Atletico DE Rafaela",
+      "to": "Atletico DE Rafaela",
+      "type": "N/A"
+    },
+    {
+      "date": "2025-01-10",
+      "from": "Atlético Rafaela",
+      "to": "Instituto Cordoba",
+      "type": "Loan"
+    },
+    {
+      "date": "2025-01-10",
+      "from": "Atletico DE Rafaela",
+      "to": "Instituto Cordoba",
+      "type": "Loan"
+    },
+    {
+      "date": "2025-12-30",
+      "from": "Instituto Cordoba",
+      "to": "Atletico DE Rafaela",
+      "type": "Return from loan"
+    },
+    {
+      "date": "2026-01-13",
+      "from": "Atletico DE Rafaela",
+      "to": "Instituto Cordoba",
+      "type": "Transfer"
+    }
+  ]
+}

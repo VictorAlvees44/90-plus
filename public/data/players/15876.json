@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 15876,
+    "name": "K. Jørgensen",
+    "age": 26,
+    "number": 20,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/15876.png"
+  },
+  "team": {
+    "id": 1026,
+    "name": "Lask Linz",
+    "logo": "https://media.api-sports.io/football/teams/1026.png",
+    "country": "Austria",
+    "founded": 1908,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 647821,
+    "name": "G. Ordonez",
+    "age": 18,
+    "number": 70,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/647821.png"
+  },
+  "team": {
+    "id": 478,
+    "name": "Instituto Cordoba",
+    "logo": "https://media.api-sports.io/football/teams/478.png",
+    "country": "Argentina",
+    "founded": 1918,
+    "national": false
+  }
+}

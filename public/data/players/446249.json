@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 446249,
+    "name": "I. Mbaye",
+    "age": 17,
+    "number": 19,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/446249.png"
+  },
+  "team": {
+    "id": 66,
+    "name": "Aston Villa",
+    "logo": "https://media.api-sports.io/football/teams/66.png",
+    "country": "England",
+    "founded": 1874,
+    "national": false
+  }
+}

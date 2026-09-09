@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 5921,
+    "name": "A. Solari",
+    "age": 33,
+    "number": 23,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/5921.png"
+  },
+  "team": {
+    "id": 441,
+    "name": "Union Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/441.png",
+    "country": "Argentina",
+    "founded": 1907,
+    "national": false
+  }
+}

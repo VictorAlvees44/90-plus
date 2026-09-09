@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 282126,
+    "name": "Carlos Forbs",
+    "age": 21,
+    "number": 9,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/282126.png"
+  },
+  "team": {
+    "id": 569,
+    "name": "Club Brugge KV",
+    "logo": "https://media.api-sports.io/football/teams/569.png",
+    "country": "Belgium",
+    "founded": 1891,
+    "national": false
+  }
+}

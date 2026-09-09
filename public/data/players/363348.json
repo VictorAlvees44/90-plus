@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 363348,
+    "name": "L. Meuli",
+    "age": 24,
+    "number": 40,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/363348.png"
+  },
+  "team": {
+    "id": 441,
+    "name": "Union Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/441.png",
+    "country": "Argentina",
+    "founded": 1907,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 119683,
+    "name": "G. Cerato",
+    "age": 27,
+    "number": 44,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/119683.png"
+  },
+  "team": {
+    "id": 478,
+    "name": "Instituto Cordoba",
+    "logo": "https://media.api-sports.io/football/teams/478.png",
+    "country": "Argentina",
+    "founded": 1918,
+    "national": false
+  }
+}

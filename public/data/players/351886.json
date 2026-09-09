@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 351886,
+    "name": "H. Sahabo",
+    "age": 20,
+    "number": 80,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/351886.png"
+  },
+  "team": {
+    "id": 575,
+    "name": "AEK Athens FC",
+    "logo": "https://media.api-sports.io/football/teams/575.png",
+    "country": "Greece",
+    "founded": 1924,
+    "national": false
+  }
+}

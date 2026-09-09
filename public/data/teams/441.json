@@ -1,0 +1,275 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "team": {
+    "id": 441,
+    "name": "Union Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/441.png",
+    "country": "Argentina",
+    "founded": 1907,
+    "national": false
+  },
+  "venue": {
+    "name": "Estadio 15 de Abril",
+    "city": "Ciudad de Santa Fe, Provincia de Santa Fe",
+    "capacity": 27000,
+    "image": "https://media.api-sports.io/football/venues/1933.png"
+  },
+  "squad": [
+    {
+      "id": 59258,
+      "name": "M. Mansilla",
+      "age": 29,
+      "number": 21,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/59258.png"
+    },
+    {
+      "id": 363348,
+      "name": "L. Meuli",
+      "age": 24,
+      "number": 40,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/363348.png"
+    },
+    {
+      "id": 664563,
+      "name": "M. Aimar",
+      "age": 20,
+      "number": 36,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/664563.png"
+    },
+    {
+      "id": 560263,
+      "name": "L. Ayala",
+      "age": 19,
+      "number": 18,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/560263.png"
+    },
+    {
+      "id": 645359,
+      "name": "T. Fagioli",
+      "age": 20,
+      "number": 44,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/645359.png"
+    },
+    {
+      "id": 660323,
+      "name": "N. Garcia",
+      "age": 19,
+      "number": 32,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/660323.png"
+    },
+    {
+      "id": 560375,
+      "name": "I. Isla",
+      "age": 20,
+      "number": 33,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/560375.png"
+    },
+    {
+      "id": 376599,
+      "name": "J. Ludueña",
+      "age": 22,
+      "number": 26,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/376599.png"
+    },
+    {
+      "id": 51522,
+      "name": "J. Pintado",
+      "age": 28,
+      "number": 15,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/51522.png"
+    },
+    {
+      "id": 6110,
+      "name": "B. Pittón",
+      "age": 32,
+      "number": 12,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/6110.png"
+    },
+    {
+      "id": 283338,
+      "name": "M. Rocha",
+      "age": 25,
+      "number": 4,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/283338.png"
+    },
+    {
+      "id": 381266,
+      "name": "M. Rodríguez",
+      "age": 22,
+      "number": 2,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/381266.png"
+    },
+    {
+      "id": 414535,
+      "name": "L. Vargas",
+      "age": 20,
+      "number": 35,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/414535.png"
+    },
+    {
+      "id": 58684,
+      "name": "B. Cuello",
+      "age": 28,
+      "number": 22,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/58684.png"
+    },
+    {
+      "id": 503765,
+      "name": "E. Giaccone",
+      "age": 20,
+      "number": 8,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/503765.png"
+    },
+    {
+      "id": 538364,
+      "name": "S. Grella",
+      "age": 20,
+      "number": 46,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/538364.png"
+    },
+    {
+      "id": 51409,
+      "name": "M. Luna Diale",
+      "age": 26,
+      "number": 11,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/51409.png"
+    },
+    {
+      "id": 35921,
+      "name": "V. Malcorra",
+      "age": 38,
+      "number": 10,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/35921.png"
+    },
+    {
+      "id": 6152,
+      "name": "L. Menossi",
+      "age": 33,
+      "number": 5,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/6152.png"
+    },
+    {
+      "id": 411293,
+      "name": "J. Mosqueira",
+      "age": 21,
+      "number": 17,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/411293.png"
+    },
+    {
+      "id": 167652,
+      "name": "J. Palacios",
+      "age": 26,
+      "number": 20,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/167652.png"
+    },
+    {
+      "id": 560448,
+      "name": "M. Peresutti",
+      "age": 19,
+      "number": 34,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/560448.png"
+    },
+    {
+      "id": 5921,
+      "name": "A. Solari",
+      "age": 33,
+      "number": 23,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/5921.png"
+    },
+    {
+      "id": 415032,
+      "name": "S. Vera",
+      "age": 19,
+      "number": 29,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/415032.png"
+    },
+    {
+      "id": 555909,
+      "name": "M. Aguirre",
+      "age": 18,
+      "number": 31,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/555909.png"
+    },
+    {
+      "id": 560323,
+      "name": "L. Cacciabue",
+      "age": 19,
+      "number": 16,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/560323.png"
+    },
+    {
+      "id": 560310,
+      "name": "V. J. Cerrudo",
+      "age": 20,
+      "number": 38,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/560310.png"
+    },
+    {
+      "id": 27613,
+      "name": "M. Estigarribia",
+      "age": 30,
+      "number": 19,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/27613.png"
+    },
+    {
+      "id": 6128,
+      "name": "F. Fragapane",
+      "age": 32,
+      "number": 7,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/6128.png"
+    },
+    {
+      "id": 5687,
+      "name": "E. Ramírez",
+      "age": 29,
+      "number": 43,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/5687.png"
+    },
+    {
+      "id": 560447,
+      "name": "R. Solbes",
+      "age": 20,
+      "number": 45,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/560447.png"
+    },
+    {
+      "id": 5312,
+      "name": "C. Tarragona",
+      "age": 34,
+      "number": 25,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/5312.png"
+    }
+  ]
+}

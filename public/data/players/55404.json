@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 55404,
+    "name": "K. Kairinen",
+    "age": 27,
+    "number": 6,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/55404.png"
+  },
+  "team": {
+    "id": 575,
+    "name": "AEK Athens FC",
+    "logo": "https://media.api-sports.io/football/teams/575.png",
+    "country": "Greece",
+    "founded": 1924,
+    "national": false
+  }
+}

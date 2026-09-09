@@ -1,0 +1,101 @@
+{
+  "updatedAt": "2026-09-09T07:32:59.893Z",
+  "player": {
+    "id": 35921,
+    "name": "V. Malcorra",
+    "age": 38,
+    "number": 10,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/35921.png"
+  },
+  "team": {
+    "id": 441,
+    "name": "Union Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/441.png",
+    "country": "Argentina",
+    "founded": 1907,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2022-06-26",
+      "from": "Lanus",
+      "to": "Rosario Central",
+      "type": "Free"
+    },
+    {
+      "date": "2021-07-05",
+      "from": "Atlas",
+      "to": "Lanus",
+      "type": "Free"
+    },
+    {
+      "date": "2020-06-27",
+      "from": "U.N.A.M. - Pumas",
+      "to": "Atlas",
+      "type": "N/A"
+    },
+    {
+      "date": "2018-07-01",
+      "from": "Club Tijuana",
+      "to": "U.N.A.M. - Pumas",
+      "type": "N/A"
+    },
+    {
+      "date": "2016-07-01",
+      "from": "Union Santa Fe",
+      "to": "Club Tijuana",
+      "type": "Free"
+    },
+    {
+      "date": "2014-07-31",
+      "from": "Aldosivi",
+      "to": "Union Santa Fe",
+      "type": "N/A"
+    },
+    {
+      "date": "2011-07-01",
+      "from": "Huracán de Comodoro",
+      "to": "Aldosivi",
+      "type": "Free"
+    },
+    {
+      "date": "2026-07-20",
+      "from": "Independiente",
+      "to": "Union Santa Fe",
+      "type": "Free agent"
+    },
+    {
+      "date": "2026-01-06",
+      "from": "Rosario Central",
+      "to": "Independiente",
+      "type": "Free agent"
+    },
+    {
+      "date": "2026-07-19",
+      "from": "Independiente",
+      "to": "Union Santa Fe",
+      "type": "Free agent"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Copa Santa Fe",
+      "season": "2023",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Trofeo de Campeones",
+      "season": "2023",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa Santa Fe",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Trofeo de Campeones",
+      "place": "2nd Place"
+    }
+  ]
+}
