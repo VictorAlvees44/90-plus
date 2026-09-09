@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T14:36:02.942Z",
+  "updatedAt": "2026-09-09T18:33:05.887Z",
   "fixtures": [
     {
       "id": 1493120,
@@ -80,7 +80,7 @@
         "home": 2,
         "away": 3
       },
-      "venue": "Jan Breydel Stadion"
+      "venue": "Jan Breydel Stadium"
     },
     {
       "id": 1638611,
@@ -1122,7 +1122,8 @@
       "score": {
         "home": 0,
         "away": 2
-      }
+      },
+      "venue": "Estádio do Dragão"
     },
     {
       "id": 1635683,
@@ -1149,7 +1150,7 @@
         "home": 2,
         "away": 3
       },
-      "venue": "Stade Pierre-Mauroy"
+      "venue": "Decathlon Arena - Stade Pierre Mauroy"
     },
     {
       "id": 1635714,
@@ -1175,7 +1176,8 @@
       "score": {
         "home": 2,
         "away": 1
-      }
+      },
+      "venue": "Bernabéu"
     },
     {
       "id": 1630777,
@@ -1313,7 +1315,8 @@
     {
       "id": 1635628,
       "startsAt": "2026-09-09T16:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 88,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1330,12 +1333,17 @@
         "name": "Feyenoord",
         "logo": "data/media/teams/209.png"
       },
+      "score": {
+        "home": 5,
+        "away": 1
+      },
       "venue": "Camp Nou"
     },
     {
       "id": 1635741,
       "startsAt": "2026-09-09T16:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 89,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1351,6 +1359,10 @@
         "id": 759,
         "name": "Viking",
         "logo": "data/media/teams/759.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
       },
       "venue": "MHPArena"
     },
