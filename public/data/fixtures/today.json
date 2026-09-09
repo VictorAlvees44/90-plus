@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T18:33:05.887Z",
+  "updatedAt": "2026-09-09T22:32:36.931Z",
   "fixtures": [
     {
       "id": 1520863,
@@ -58,8 +58,8 @@
     {
       "id": 1635628,
       "startsAt": "2026-09-09T16:45:00+00:00",
-      "status": "live",
-      "elapsed": 88,
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -85,8 +85,8 @@
     {
       "id": 1635741,
       "startsAt": "2026-09-09T16:45:00+00:00",
-      "status": "live",
-      "elapsed": 89,
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -112,7 +112,8 @@
     {
       "id": 1563152,
       "startsAt": "2026-09-09T18:45:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -129,12 +130,17 @@
         "name": "West Brom",
         "logo": "data/media/teams/60.png"
       },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
       "venue": "Pride Park"
     },
     {
       "id": 1563153,
       "startsAt": "2026-09-09T18:45:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -151,12 +157,17 @@
         "name": "Birmingham",
         "logo": "data/media/teams/54.png"
       },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
       "venue": "Carrow Road"
     },
     {
       "id": 1638438,
       "startsAt": "2026-09-09T18:45:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 45,
         "name": "FA Cup",
@@ -172,12 +183,17 @@
         "id": 7696,
         "name": "Banbury United",
         "logo": "data/media/teams/7696.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
       }
     },
     {
       "id": 1638456,
       "startsAt": "2026-09-09T18:45:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 45,
         "name": "FA Cup",
@@ -193,12 +209,17 @@
         "id": 8760,
         "name": "Crowborough Athletic",
         "logo": "data/media/teams/8760.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 3
       }
     },
     {
       "id": 1638612,
       "startsAt": "2026-09-09T18:45:00+00:00",
-      "status": "scheduled",
+      "status": "after_extra_time",
+      "elapsed": 120,
       "league": {
         "id": 45,
         "name": "FA Cup",
@@ -214,12 +235,17 @@
         "id": 11936,
         "name": "AFC Emley",
         "logo": "data/media/teams/11936.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
       }
     },
     {
       "id": 1563151,
       "startsAt": "2026-09-09T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -236,12 +262,17 @@
         "name": "QPR",
         "logo": "data/media/teams/72.png"
       },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
       "venue": "The Valley"
     },
     {
       "id": 1635686,
       "startsAt": "2026-09-09T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -258,12 +289,17 @@
         "name": "Atletico Madrid",
         "logo": "data/media/teams/530.png"
       },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
       "venue": "Anfield"
     },
     {
       "id": 1635698,
       "startsAt": "2026-09-09T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -280,12 +316,17 @@
         "name": "Arsenal",
         "logo": "data/media/teams/42.png"
       },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
       "venue": "Stadio Diego Armando Maradona"
     },
     {
       "id": 1635705,
       "startsAt": "2026-09-09T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -302,12 +343,17 @@
         "name": "Slovan Bratislava",
         "logo": "data/media/teams/656.png"
       },
+      "score": {
+        "home": 6,
+        "away": 1
+      },
       "venue": "Parc des Princes"
     },
     {
       "id": 1635736,
       "startsAt": "2026-09-09T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -323,12 +369,17 @@
         "id": 645,
         "name": "Galatasaray",
         "logo": "data/media/teams/645.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
       }
     },
     {
       "id": 1636205,
       "startsAt": "2026-09-09T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 48,
         "name": "League Cup",
@@ -345,12 +396,17 @@
         "name": "Leeds",
         "logo": "data/media/teams/63.png"
       },
+      "score": {
+        "home": 6,
+        "away": 3
+      },
       "venue": "Stamford Bridge"
     },
     {
       "id": 1631507,
       "startsAt": "2026-09-09T22:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 32,
       "league": {
         "id": 13,
         "name": "CONMEBOL Libertadores",
@@ -367,12 +423,17 @@
         "name": "LDU de Quito",
         "logo": "data/media/teams/1158.png"
       },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
       "venue": "Estadio Rodrigo Paz Delgado"
     },
     {
       "id": 1631510,
       "startsAt": "2026-09-09T22:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 32,
       "league": {
         "id": 11,
         "name": "CONMEBOL Sudamericana",
@@ -389,12 +450,17 @@
         "name": "Atletico-MG",
         "logo": "data/media/teams/1062.png"
       },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
       "venue": "MRV Arena"
     },
     {
       "id": 1520862,
       "startsAt": "2026-09-09T22:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 2,
       "league": {
         "id": 72,
         "name": "Serie B",
@@ -411,12 +477,17 @@
         "name": "Novorizontino",
         "logo": "data/media/teams/7834.png"
       },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
       "venue": "Estadio Santa Cruz"
     },
     {
       "id": 1520865,
       "startsAt": "2026-09-09T22:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 2,
       "league": {
         "id": 72,
         "name": "Serie B",
@@ -432,6 +503,10 @@
         "id": 145,
         "name": "Avai",
         "logo": "data/media/teams/145.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
       }
     },
     {
