@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 35551,
+    "name": "A. Bareiro",
+    "age": 29,
+    "number": 28,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/35551.png"
+  },
+  "team": {
+    "id": 451,
+    "name": "Boca Juniors",
+    "logo": "https://media.api-sports.io/football/teams/451.png",
+    "country": "Argentina",
+    "founded": 1905,
+    "national": false
+  }
+}

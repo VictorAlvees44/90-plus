@@ -1,0 +1,189 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 80624,
+    "name": "Fellipe Mateus",
+    "age": 34,
+    "number": 7,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/80624.png"
+  },
+  "team": {
+    "id": 140,
+    "name": "Criciuma",
+    "logo": "https://media.api-sports.io/football/teams/140.png",
+    "country": "Brazil",
+    "founded": 1947,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2021-05-20",
+      "from": "Ferroviária",
+      "to": "Criciuma",
+      "type": "Free"
+    },
+    {
+      "date": "2019-12-01",
+      "from": "Figueirense",
+      "to": "Ferroviária",
+      "type": "N/A"
+    },
+    {
+      "date": "2019-04-08",
+      "from": "Ferroviária",
+      "to": "Figueirense",
+      "type": "Loan"
+    },
+    {
+      "date": "2018-09-15",
+      "from": "São Bernardo",
+      "to": "Ferroviária",
+      "type": "N/A"
+    },
+    {
+      "date": "2018-08-18",
+      "from": "Juventude",
+      "to": "São Bernardo",
+      "type": "N/A"
+    },
+    {
+      "date": "2017-12-26",
+      "from": "São Bernardo",
+      "to": "Juventude",
+      "type": "Loan"
+    },
+    {
+      "date": "2017-05-01",
+      "from": "São Bernardo",
+      "to": "BOA",
+      "type": "Loan"
+    },
+    {
+      "date": "2016-12-01",
+      "from": "BOA",
+      "to": "São Bernardo",
+      "type": "N/A"
+    },
+    {
+      "date": "2016-05-19",
+      "from": "São Bernardo",
+      "to": "BOA",
+      "type": "Loan"
+    },
+    {
+      "date": "2015-07-01",
+      "from": "Uniao Barbarense",
+      "to": "São Bernardo",
+      "type": "N/A"
+    },
+    {
+      "date": "2015-01-01",
+      "from": "São Bernardo",
+      "to": "Uniao Barbarense",
+      "type": "N/A"
+    },
+    {
+      "date": "2013-04-01",
+      "from": "Ferroviária",
+      "to": "São Bernardo",
+      "type": "N/A"
+    },
+    {
+      "date": "2013-01-01",
+      "from": "Cuiaba",
+      "to": "Ferroviária",
+      "type": "N/A"
+    },
+    {
+      "date": "2012-09-01",
+      "from": "São Bernardo",
+      "to": "Cuiaba",
+      "type": "Loan"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Recopa Catarinense",
+      "season": "2026",
+      "place": "Winner"
+    },
+    {
+      "league": "Catarinense 1",
+      "season": "2024",
+      "place": "Winner"
+    },
+    {
+      "league": "Recopa Catarinense",
+      "season": "2024",
+      "place": "Winner"
+    },
+    {
+      "league": "Catarinense 1",
+      "season": "2023",
+      "place": "Winner"
+    },
+    {
+      "league": "Catarinense 2",
+      "season": "2022",
+      "place": "Winner"
+    },
+    {
+      "league": "Copa Paulista",
+      "season": "2018",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Mineiro 2",
+      "season": "2017",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Serie C",
+      "season": "2016",
+      "place": "Winner"
+    },
+    {
+      "league": "Copa Paulista",
+      "season": "2013",
+      "place": "Winner"
+    },
+    {
+      "league": "Paulista A2",
+      "season": "2012",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Paulista A2",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa Paulista",
+      "place": "Winner"
+    },
+    {
+      "league": "Copa Paulista",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Serie C",
+      "place": "Winner"
+    },
+    {
+      "league": "Mineiro 2",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Catarinense 2",
+      "place": "Winner"
+    },
+    {
+      "league": "Catarinense 1",
+      "place": "Winner"
+    },
+    {
+      "league": "Recopa Catarinense",
+      "place": "Winner"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 34704,
+    "name": "Waguininho",
+    "age": 35,
+    "number": 13,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/34704.png"
+  },
+  "team": {
+    "id": 140,
+    "name": "Criciuma",
+    "logo": "https://media.api-sports.io/football/teams/140.png",
+    "country": "Brazil",
+    "founded": 1947,
+    "national": false
+  }
+}

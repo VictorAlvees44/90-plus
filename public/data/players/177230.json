@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 177230,
+    "name": "L. Brey",
+    "age": 23,
+    "number": 12,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/177230.png"
+  },
+  "team": {
+    "id": 451,
+    "name": "Boca Juniors",
+    "logo": "https://media.api-sports.io/football/teams/451.png",
+    "country": "Argentina",
+    "founded": 1905,
+    "national": false
+  }
+}

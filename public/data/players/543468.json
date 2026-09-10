@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 543468,
+    "name": "Eder Aller",
+    "age": 18,
+    "number": 31,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/543468.png"
+  },
+  "team": {
+    "id": 529,
+    "name": "Barcelona",
+    "logo": "https://media.api-sports.io/football/teams/529.png",
+    "country": "Spain",
+    "founded": 1899,
+    "national": false
+  }
+}

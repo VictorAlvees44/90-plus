@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 181701,
+    "name": "Gerard Martín",
+    "age": 23,
+    "number": 18,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/181701.png"
+  },
+  "team": {
+    "id": 529,
+    "name": "Barcelona",
+    "logo": "https://media.api-sports.io/football/teams/529.png",
+    "country": "Spain",
+    "founded": 1899,
+    "national": false
+  }
+}

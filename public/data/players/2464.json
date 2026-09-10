@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 2464,
+    "name": "A. Marchesín",
+    "age": 38,
+    "number": 1,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/2464.png"
+  },
+  "team": {
+    "id": 451,
+    "name": "Boca Juniors",
+    "logo": "https://media.api-sports.io/football/teams/451.png",
+    "country": "Argentina",
+    "founded": 1905,
+    "national": false
+  }
+}

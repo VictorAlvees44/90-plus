@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 465196,
+    "name": "Ryan Francisco",
+    "age": 19,
+    "number": 49,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/465196.png"
+  },
+  "team": {
+    "id": 126,
+    "name": "Sao Paulo",
+    "logo": "https://media.api-sports.io/football/teams/126.png",
+    "country": "Brazil",
+    "founded": 1930,
+    "national": false
+  }
+}

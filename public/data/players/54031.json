@@ -1,0 +1,178 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 54031,
+    "name": "Nicolas",
+    "age": 36,
+    "number": 9,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/54031.png"
+  },
+  "team": {
+    "id": 140,
+    "name": "Criciuma",
+    "logo": "https://media.api-sports.io/football/teams/140.png",
+    "country": "Brazil",
+    "founded": 1947,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2024-01-01",
+      "from": "Ceara",
+      "to": "Paysandu",
+      "type": "Free"
+    },
+    {
+      "date": "2023-04-19",
+      "from": "Goias",
+      "to": "Ceara",
+      "type": "N/A"
+    },
+    {
+      "date": "2021-07-08",
+      "from": "Paysandu",
+      "to": "Goias",
+      "type": "N/A"
+    },
+    {
+      "date": "2018-04-03",
+      "from": "Caxias",
+      "to": "Criciuma",
+      "type": "N/A"
+    },
+    {
+      "date": "2017-12-01",
+      "from": "Pelotas",
+      "to": "Caxias",
+      "type": "N/A"
+    },
+    {
+      "date": "2017-07-20",
+      "from": "Caxias",
+      "to": "Pelotas",
+      "type": "Loan"
+    },
+    {
+      "date": "2011-05-15",
+      "from": "São Luiz",
+      "to": "Criciuma",
+      "type": "N/A"
+    },
+    {
+      "date": "2025-06-06",
+      "from": "Paysandu",
+      "to": "Criciuma",
+      "type": "Free Transfer"
+    },
+    {
+      "date": "2025-06-04",
+      "from": "Paysandu",
+      "to": "Criciuma",
+      "type": "Free agent"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Copa Verde",
+      "season": "2025",
+      "place": "Winner"
+    },
+    {
+      "league": "Paraense A",
+      "season": "2025",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Super Copa Grão Pará",
+      "season": "2025",
+      "place": "Winner"
+    },
+    {
+      "league": "Copa Verde",
+      "season": "2024",
+      "place": "Winner"
+    },
+    {
+      "league": "Paraense A",
+      "season": "2024",
+      "place": "Winner"
+    },
+    {
+      "league": "Goiano 1",
+      "season": "2023",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa do Nordeste",
+      "season": "2023",
+      "place": "Winner"
+    },
+    {
+      "league": "Goiano 1",
+      "season": "2022",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Paraense A",
+      "season": "2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Serie B",
+      "season": "2021",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Paraense A",
+      "season": "2020",
+      "place": "Winner"
+    },
+    {
+      "league": "Copa Verde",
+      "season": "2019",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Gaúcho 2",
+      "season": "2016",
+      "place": "Winner"
+    },
+    {
+      "league": "Gaúcho 2",
+      "place": "Winner"
+    },
+    {
+      "league": "Copa Verde",
+      "place": "Winner"
+    },
+    {
+      "league": "Copa Verde",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Paraense A",
+      "place": "Winner"
+    },
+    {
+      "league": "Paraense A",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Serie B",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Goiano 1",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa do Nordeste",
+      "place": "Winner"
+    },
+    {
+      "league": "Super Copa Grão Pará",
+      "place": "Winner"
+    }
+  ]
+}

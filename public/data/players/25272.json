@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 25272,
+    "name": "Cauly",
+    "age": 30,
+    "number": 80,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/25272.png"
+  },
+  "team": {
+    "id": 126,
+    "name": "Sao Paulo",
+    "logo": "https://media.api-sports.io/football/teams/126.png",
+    "country": "Brazil",
+    "founded": 1930,
+    "national": false
+  }
+}

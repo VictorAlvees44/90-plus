@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:32:36.931Z",
+  "updatedAt": "2026-09-10T07:29:29.164Z",
   "items": [
     {
       "type": "league",
@@ -301,678 +301,6 @@
       "label": "Liga MX",
       "subtitle": "Mexico",
       "image": "https://media.api-sports.io/football/leagues/262.png"
-    },
-    {
-      "type": "team",
-      "id": 441,
-      "label": "Union Santa Fe",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/441.png"
-    },
-    {
-      "type": "team",
-      "id": 478,
-      "label": "Instituto Cordoba",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/478.png"
-    },
-    {
-      "type": "team",
-      "id": 575,
-      "label": "AEK Athens FC",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/575.png"
-    },
-    {
-      "type": "team",
-      "id": 1026,
-      "label": "Lask Linz",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1026.png"
-    },
-    {
-      "type": "team",
-      "id": 569,
-      "label": "Club Brugge KV",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/569.png"
-    },
-    {
-      "type": "team",
-      "id": 66,
-      "label": "Aston Villa",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/66.png"
-    },
-    {
-      "type": "team",
-      "id": 8893,
-      "label": "Pagham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8893.png"
-    },
-    {
-      "type": "team",
-      "id": 8685,
-      "label": "Ascot United",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8685.png"
-    },
-    {
-      "type": "team",
-      "id": 67,
-      "label": "Blackburn",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/67.png"
-    },
-    {
-      "type": "team",
-      "id": 62,
-      "label": "Sheffield Utd",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/62.png"
-    },
-    {
-      "type": "team",
-      "id": 43,
-      "label": "Cardiff",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/43.png"
-    },
-    {
-      "type": "team",
-      "id": 75,
-      "label": "Stoke City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/75.png"
-    },
-    {
-      "type": "team",
-      "id": 41,
-      "label": "Southampton",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/41.png"
-    },
-    {
-      "type": "team",
-      "id": 76,
-      "label": "Swansea",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/76.png"
-    },
-    {
-      "type": "team",
-      "id": 38,
-      "label": "Watford",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/38.png"
-    },
-    {
-      "type": "team",
-      "id": 59,
-      "label": "Preston",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/59.png"
-    },
-    {
-      "type": "team",
-      "id": 1837,
-      "label": "Wrexham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1837.png"
-    },
-    {
-      "type": "team",
-      "id": 44,
-      "label": "Burnley",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/44.png"
-    },
-    {
-      "type": "team",
-      "id": 1338,
-      "label": "Oxford United",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1338.png"
-    },
-    {
-      "type": "team",
-      "id": 53,
-      "label": "Reading",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/53.png"
-    },
-    {
-      "type": "team",
-      "id": 35,
-      "label": "Bournemouth",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/35.png"
-    },
-    {
-      "type": "team",
-      "id": 1379,
-      "label": "Lincoln",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1379.png"
-    },
-    {
-      "type": "team",
-      "id": 52,
-      "label": "Crystal Palace",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/52.png"
-    },
-    {
-      "type": "team",
-      "id": 70,
-      "label": "Middlesbrough",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/70.png"
-    },
-    {
-      "type": "team",
-      "id": 1373,
-      "label": "Leyton Orient",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1373.png"
-    },
-    {
-      "type": "team",
-      "id": 1343,
-      "label": "Bradford",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1343.png"
-    },
-    {
-      "type": "team",
-      "id": 746,
-      "label": "Sunderland",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/746.png"
-    },
-    {
-      "type": "team",
-      "id": 64,
-      "label": "Hull City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/64.png"
-    },
-    {
-      "type": "team",
-      "id": 8672,
-      "label": "AFC Stoneham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8672.png"
-    },
-    {
-      "type": "team",
-      "id": 7615,
-      "label": "Basingstoke Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7615.png"
-    },
-    {
-      "type": "team",
-      "id": 8699,
-      "label": "Barton Town Old Boys",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8699.png"
-    },
-    {
-      "type": "team",
-      "id": 16992,
-      "label": "North Ferriby",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/16992.png"
-    },
-    {
-      "type": "team",
-      "id": 8711,
-      "label": "Boldmere St. Michaels",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8711.png"
-    },
-    {
-      "type": "team",
-      "id": 24335,
-      "label": "Bourne Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/24335.png"
-    },
-    {
-      "type": "team",
-      "id": 7216,
-      "label": "Brentwood Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7216.png"
-    },
-    {
-      "type": "team",
-      "id": 8658,
-      "label": "Concord Rangers",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8658.png"
-    },
-    {
-      "type": "team",
-      "id": 19549,
-      "label": "Buckhurst Hill",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/19549.png"
-    },
-    {
-      "type": "team",
-      "id": 7267,
-      "label": "Yaxley",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7267.png"
-    },
-    {
-      "type": "team",
-      "id": 7711,
-      "label": "Cray Wanderers",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7711.png"
-    },
-    {
-      "type": "team",
-      "id": 7728,
-      "label": "Lewes",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7728.png"
-    },
-    {
-      "type": "team",
-      "id": 4690,
-      "label": "Dartford",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/4690.png"
-    },
-    {
-      "type": "team",
-      "id": 7261,
-      "label": "Westfield (Surrey)",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7261.png"
-    },
-    {
-      "type": "team",
-      "id": 8781,
-      "label": "Fakenham Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8781.png"
-    },
-    {
-      "type": "team",
-      "id": 7678,
-      "label": "Ware",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7678.png"
-    },
-    {
-      "type": "team",
-      "id": 7642,
-      "label": "Felixstowe & Walton Utd",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7642.png"
-    },
-    {
-      "type": "team",
-      "id": 7759,
-      "label": "Wingate & Finchley",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7759.png"
-    },
-    {
-      "type": "team",
-      "id": 1824,
-      "label": "Guiseley AFC",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1824.png"
-    },
-    {
-      "type": "team",
-      "id": 8953,
-      "label": "Stockton Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8953.png"
-    },
-    {
-      "type": "team",
-      "id": 14411,
-      "label": "Hashtag United",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/14411.png"
-    },
-    {
-      "type": "team",
-      "id": 4708,
-      "label": "St Albans City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/4708.png"
-    },
-    {
-      "type": "team",
-      "id": 1843,
-      "label": "Havant & Wville",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1843.png"
-    },
-    {
-      "type": "team",
-      "id": 8147,
-      "label": "Chippenham Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8147.png"
-    },
-    {
-      "type": "team",
-      "id": 4682,
-      "label": "Hitchin Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/4682.png"
-    },
-    {
-      "type": "team",
-      "id": 7700,
-      "label": "Biggleswade Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7700.png"
-    },
-    {
-      "type": "team",
-      "id": 16987,
-      "label": "Jersey Bulls",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/16987.png"
-    },
-    {
-      "type": "team",
-      "id": 7217,
-      "label": "Burgess Hill Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7217.png"
-    },
-    {
-      "type": "team",
-      "id": 8654,
-      "label": "Kettering Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8654.png"
-    },
-    {
-      "type": "team",
-      "id": 8989,
-      "label": "Wellingborough Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8989.png"
-    },
-    {
-      "type": "team",
-      "id": 7727,
-      "label": "Leiston",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7727.png"
-    },
-    {
-      "type": "team",
-      "id": 7228,
-      "label": "Grays Athletic",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7228.png"
-    },
-    {
-      "type": "team",
-      "id": 7655,
-      "label": "Mangotsfield United",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7655.png"
-    },
-    {
-      "type": "team",
-      "id": 8653,
-      "label": "Gloucester City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8653.png"
-    },
-    {
-      "type": "team",
-      "id": 7735,
-      "label": "Needham Market",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7735.png"
-    },
-    {
-      "type": "team",
-      "id": 8950,
-      "label": "Stanway Rovers",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8950.png"
-    },
-    {
-      "type": "team",
-      "id": 17072,
-      "label": "Newmarket",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/17072.png"
-    },
-    {
-      "type": "team",
-      "id": 7623,
-      "label": "Canvey Island",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7623.png"
-    },
-    {
-      "type": "team",
-      "id": 24346,
-      "label": "Portishead Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/24346.png"
-    },
-    {
-      "type": "team",
-      "id": 7758,
-      "label": "Wimborne Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7758.png"
-    },
-    {
-      "type": "team",
-      "id": 16993,
-      "label": "Prestwich Heys",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/16993.png"
-    },
-    {
-      "type": "team",
-      "id": 24347,
-      "label": "South Liverpool",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/24347.png"
-    },
-    {
-      "type": "team",
-      "id": 7674,
-      "label": "Tadcaster Albion",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7674.png"
-    },
-    {
-      "type": "team",
-      "id": 7726,
-      "label": "Lancaster City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7726.png"
-    },
-    {
-      "type": "team",
-      "id": 7756,
-      "label": "Warrington Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7756.png"
-    },
-    {
-      "type": "team",
-      "id": 8932,
-      "label": "Shildon AFC",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8932.png"
-    },
-    {
-      "type": "team",
-      "id": 8664,
-      "label": "Welling United",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/8664.png"
-    },
-    {
-      "type": "team",
-      "id": 7641,
-      "label": "Faversham Town",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/7641.png"
-    },
-    {
-      "type": "team",
-      "id": 9010,
-      "label": "Worcester City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/9010.png"
-    },
-    {
-      "type": "team",
-      "id": 18201,
-      "label": "Knowle",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/18201.png"
-    },
-    {
-      "type": "team",
-      "id": 68,
-      "label": "Bolton",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/68.png"
-    },
-    {
-      "type": "team",
-      "id": 48,
-      "label": "West Ham",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/48.png"
-    },
-    {
-      "type": "team",
-      "id": 58,
-      "label": "Millwall",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/58.png"
-    },
-    {
-      "type": "team",
-      "id": 34,
-      "label": "Newcastle",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/34.png"
-    },
-    {
-      "type": "team",
-      "id": 165,
-      "label": "Borussia Dortmund",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/165.png"
-    },
-    {
-      "type": "team",
-      "id": 533,
-      "label": "Villarreal",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/533.png"
-    },
-    {
-      "type": "team",
-      "id": 212,
-      "label": "FC Porto",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/212.png"
-    },
-    {
-      "type": "team",
-      "id": 50,
-      "label": "Manchester City",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/50.png"
-    },
-    {
-      "type": "team",
-      "id": 79,
-      "label": "Lille",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/79.png"
-    },
-    {
-      "type": "team",
-      "id": 543,
-      "label": "Real Betis",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/543.png"
-    },
-    {
-      "type": "team",
-      "id": 541,
-      "label": "Real Madrid",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/541.png"
-    },
-    {
-      "type": "team",
-      "id": 505,
-      "label": "Inter",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/505.png"
-    },
-    {
-      "type": "team",
-      "id": 124,
-      "label": "Fluminense",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/124.png"
-    },
-    {
-      "type": "team",
-      "id": 1064,
-      "label": "Platense",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1064.png"
-    },
-    {
-      "type": "team",
-      "id": 1139,
-      "label": "Santa Fe",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1139.png"
-    },
-    {
-      "type": "team",
-      "id": 133,
-      "label": "Vasco DA Gama",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/133.png"
-    },
-    {
-      "type": "team",
-      "id": 1193,
-      "label": "Cuiaba",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/1193.png"
-    },
-    {
-      "type": "team",
-      "id": 13975,
-      "label": "Athletic Club",
-      "subtitle": "Clube ou seleção",
-      "image": "data/media/teams/13975.png"
     },
     {
       "type": "team",
@@ -1617,6 +945,1840 @@
       "label": "Goias",
       "subtitle": "Clube ou seleção",
       "image": "data/media/teams/151.png"
+    },
+    {
+      "type": "team",
+      "id": 123,
+      "label": "Sport Recife",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/123.png"
+    },
+    {
+      "type": "team",
+      "id": 139,
+      "label": "Ponte Preta",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/139.png"
+    },
+    {
+      "type": "team",
+      "id": 2562,
+      "label": "Cienciano",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/2562.png"
+    },
+    {
+      "type": "team",
+      "id": 2365,
+      "label": "Atletico Torque",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/2365.png"
+    },
+    {
+      "type": "team",
+      "id": 1153,
+      "label": "Independiente del Valle",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1153.png"
+    },
+    {
+      "type": "team",
+      "id": 127,
+      "label": "Flamengo",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/127.png"
+    },
+    {
+      "type": "team",
+      "id": 2286,
+      "label": "U.N.A.M. - Pumas",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/2286.png"
+    },
+    {
+      "type": "team",
+      "id": 2289,
+      "label": "Leon",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/2289.png"
+    },
+    {
+      "type": "team",
+      "id": 181,
+      "label": "SV Darmstadt 98",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/181.png"
+    },
+    {
+      "type": "team",
+      "id": 188,
+      "label": "Arminia Bielefeld",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/188.png"
+    },
+    {
+      "type": "team",
+      "id": 171,
+      "label": "1. FC Nürnberg",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/171.png"
+    },
+    {
+      "type": "team",
+      "id": 166,
+      "label": "Hannover 96",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/166.png"
+    },
+    {
+      "type": "team",
+      "id": 1620,
+      "label": "FC Viktoria Köln",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1620.png"
+    },
+    {
+      "type": "team",
+      "id": 1321,
+      "label": "Hansa Rostock",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1321.png"
+    },
+    {
+      "type": "team",
+      "id": 511,
+      "label": "Empoli",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/511.png"
+    },
+    {
+      "type": "team",
+      "id": 876,
+      "label": "Arezzo",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/876.png"
+    },
+    {
+      "type": "team",
+      "id": 182,
+      "label": "Union Berlin",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/182.png"
+    },
+    {
+      "type": "team",
+      "id": 174,
+      "label": "FC Schalke 04",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/174.png"
+    },
+    {
+      "type": "team",
+      "id": 517,
+      "label": "Venezia",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/517.png"
+    },
+    {
+      "type": "team",
+      "id": 502,
+      "label": "Fiorentina",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/502.png"
+    },
+    {
+      "type": "team",
+      "id": 94,
+      "label": "Rennes",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/94.png"
+    },
+    {
+      "type": "team",
+      "id": 81,
+      "label": "Marseille",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/81.png"
+    },
+    {
+      "type": "team",
+      "id": 4695,
+      "label": "Kidderminster Harriers",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/4695.png"
+    },
+    {
+      "type": "team",
+      "id": 1366,
+      "label": "Hartlepool",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1366.png"
+    },
+    {
+      "type": "team",
+      "id": 48,
+      "label": "West Ham",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/48.png"
+    },
+    {
+      "type": "team",
+      "id": 1837,
+      "label": "Wrexham",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1837.png"
+    },
+    {
+      "type": "team",
+      "id": 536,
+      "label": "Sevilla",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/536.png"
+    },
+    {
+      "type": "team",
+      "id": 532,
+      "label": "Valencia",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/532.png"
+    },
+    {
+      "type": "team",
+      "id": 506,
+      "label": "Benevento",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/506.png"
+    },
+    {
+      "type": "team",
+      "id": 504,
+      "label": "Hellas Verona",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/504.png"
+    },
+    {
+      "type": "team",
+      "id": 801,
+      "label": "Pisa",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/801.png"
+    },
+    {
+      "type": "team",
+      "id": 527,
+      "label": "Virtus Entella",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/527.png"
+    },
+    {
+      "type": "team",
+      "id": 457,
+      "label": "Newells Old Boys",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/457.png"
+    },
+    {
+      "type": "team",
+      "id": 438,
+      "label": "Velez Sarsfield",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/438.png"
+    },
+    {
+      "type": "team",
+      "id": 442,
+      "label": "Defensa Y Justicia",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/442.png"
+    },
+    {
+      "type": "team",
+      "id": 1066,
+      "label": "Gimnasia M.",
+      "subtitle": "Clube ou seleção",
+      "image": "data/media/teams/1066.png"
+    },
+    {
+      "type": "player",
+      "id": 9826,
+      "label": "Airton",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9826.png"
+    },
+    {
+      "type": "player",
+      "id": 9410,
+      "label": "Alisson",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9410.png"
+    },
+    {
+      "type": "player",
+      "id": 357499,
+      "label": "Kauã Moroso",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/357499.png"
+    },
+    {
+      "type": "player",
+      "id": 507385,
+      "label": "Lucas Soratto",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/507385.png"
+    },
+    {
+      "type": "player",
+      "id": 506310,
+      "label": "Pedro",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/506310.png"
+    },
+    {
+      "type": "player",
+      "id": 9945,
+      "label": "Bruno Alves",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9945.png"
+    },
+    {
+      "type": "player",
+      "id": 41206,
+      "label": "César Martins",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/41206.png"
+    },
+    {
+      "type": "player",
+      "id": 350419,
+      "label": "Hiago Accinelli da Roza",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/350419.png"
+    },
+    {
+      "type": "player",
+      "id": 10448,
+      "label": "Luciano Castán",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10448.png"
+    },
+    {
+      "type": "player",
+      "id": 10340,
+      "label": "Marcelo Hermes",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10340.png"
+    },
+    {
+      "type": "player",
+      "id": 10048,
+      "label": "Marcinho",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10048.png"
+    },
+    {
+      "type": "player",
+      "id": 9484,
+      "label": "Rodrigo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9484.png"
+    },
+    {
+      "type": "player",
+      "id": 311277,
+      "label": "Rômulo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/311277.png"
+    },
+    {
+      "type": "player",
+      "id": 504017,
+      "label": "Ruan",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/504017.png"
+    },
+    {
+      "type": "player",
+      "id": 80523,
+      "label": "Willean Lepo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/80523.png"
+    },
+    {
+      "type": "player",
+      "id": 9645,
+      "label": "Eduardo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9645.png"
+    },
+    {
+      "type": "player",
+      "id": 291912,
+      "label": "Eliel Felisbino Costa",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/291912.png"
+    },
+    {
+      "type": "player",
+      "id": 80624,
+      "label": "Fellipe Mateus",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/80624.png"
+    },
+    {
+      "type": "player",
+      "id": 237798,
+      "label": "Guilherme Lobo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/237798.png"
+    },
+    {
+      "type": "player",
+      "id": 10065,
+      "label": "Jean Irmer",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10065.png"
+    },
+    {
+      "type": "player",
+      "id": 152858,
+      "label": "Jhonata Robert",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/152858.png"
+    },
+    {
+      "type": "player",
+      "id": 545012,
+      "label": "L. Bugs",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/545012.png"
+    },
+    {
+      "type": "player",
+      "id": 44494,
+      "label": "R. Otero",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/44494.png"
+    },
+    {
+      "type": "player",
+      "id": 64363,
+      "label": "Ronald",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/64363.png"
+    },
+    {
+      "type": "player",
+      "id": 10001,
+      "label": "Sandry",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10001.png"
+    },
+    {
+      "type": "player",
+      "id": 545028,
+      "label": "Thiaguinho",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/545028.png"
+    },
+    {
+      "type": "player",
+      "id": 544976,
+      "label": "Caue",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/544976.png"
+    },
+    {
+      "type": "player",
+      "id": 9296,
+      "label": "Diego Gonçalves",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9296.png"
+    },
+    {
+      "type": "player",
+      "id": 197074,
+      "label": "João Carlos",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/197074.png"
+    },
+    {
+      "type": "player",
+      "id": 54031,
+      "label": "Nicolas",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/54031.png"
+    },
+    {
+      "type": "player",
+      "id": 10438,
+      "label": "Romarinho",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10438.png"
+    },
+    {
+      "type": "player",
+      "id": 522768,
+      "label": "Thales",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/522768.png"
+    },
+    {
+      "type": "player",
+      "id": 34704,
+      "label": "Waguininho",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/34704.png"
+    },
+    {
+      "type": "player",
+      "id": 109209,
+      "label": "Yuri",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/109209.png"
+    },
+    {
+      "type": "player",
+      "id": 631042,
+      "label": "Joaquim Flesch Horn",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/631042.png"
+    },
+    {
+      "type": "player",
+      "id": 30763,
+      "label": "Jandrei",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/30763.png"
+    },
+    {
+      "type": "player",
+      "id": 656135,
+      "label": "Leo Agliardi",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/656135.png"
+    },
+    {
+      "type": "player",
+      "id": 195495,
+      "label": "Pedro Rocha",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/195495.png"
+    },
+    {
+      "type": "player",
+      "id": 78037,
+      "label": "Ruan Carneiro",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/78037.png"
+    },
+    {
+      "type": "player",
+      "id": 9453,
+      "label": "Aderlan",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9453.png"
+    },
+    {
+      "type": "player",
+      "id": 10196,
+      "label": "Alan Ruschel",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10196.png"
+    },
+    {
+      "type": "player",
+      "id": 544696,
+      "label": "Bernardo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/544696.png"
+    },
+    {
+      "type": "player",
+      "id": 631043,
+      "label": "Gabriel Borges",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/631043.png"
+    },
+    {
+      "type": "player",
+      "id": 654524,
+      "label": "Cabelo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/654524.png"
+    },
+    {
+      "type": "player",
+      "id": 656136,
+      "label": "Clebio",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/656136.png"
+    },
+    {
+      "type": "player",
+      "id": 631044,
+      "label": "Kaua Costa",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/631044.png"
+    },
+    {
+      "type": "player",
+      "id": 9905,
+      "label": "Diogo Barbosa",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9905.png"
+    },
+    {
+      "type": "player",
+      "id": 54614,
+      "label": "Gabriel Pinheiro",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/54614.png"
+    },
+    {
+      "type": "player",
+      "id": 632907,
+      "label": "Pedro",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/632907.png"
+    },
+    {
+      "type": "player",
+      "id": 660595,
+      "label": "Henzo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/660595.png"
+    },
+    {
+      "type": "player",
+      "id": 631046,
+      "label": "Kaue Lima",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/631046.png"
+    },
+    {
+      "type": "player",
+      "id": 351487,
+      "label": "Marcos Paulo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/351487.png"
+    },
+    {
+      "type": "player",
+      "id": 467816,
+      "label": "Mateus Schaffer",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/467816.png"
+    },
+    {
+      "type": "player",
+      "id": 41180,
+      "label": "Messias",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/41180.png"
+    },
+    {
+      "type": "player",
+      "id": 197035,
+      "label": "Nathan",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/197035.png"
+    },
+    {
+      "type": "player",
+      "id": 180921,
+      "label": "Patryck",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/180921.png"
+    },
+    {
+      "type": "player",
+      "id": 9272,
+      "label": "Raí Ramos",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9272.png"
+    },
+    {
+      "type": "player",
+      "id": 77843,
+      "label": "Rodrigo Sam",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/77843.png"
+    },
+    {
+      "type": "player",
+      "id": 631048,
+      "label": "Matheus Schroeder",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/631048.png"
+    },
+    {
+      "type": "player",
+      "id": 50166,
+      "label": "Titi",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/50166.png"
+    },
+    {
+      "type": "player",
+      "id": 588524,
+      "label": "Wadson",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/588524.png"
+    },
+    {
+      "type": "player",
+      "id": 609515,
+      "label": "N. Begliardi",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/609515.png"
+    },
+    {
+      "type": "player",
+      "id": 660596,
+      "label": "L. Borges",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/660596.png"
+    },
+    {
+      "type": "player",
+      "id": 461690,
+      "label": "Davi Goes",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/461690.png"
+    },
+    {
+      "type": "player",
+      "id": 568,
+      "label": "Gabriel Pires",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/568.png"
+    },
+    {
+      "type": "player",
+      "id": 472847,
+      "label": "João Trevisol",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/472847.png"
+    },
+    {
+      "type": "player",
+      "id": 631050,
+      "label": "Kaynan",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/631050.png"
+    },
+    {
+      "type": "player",
+      "id": 141580,
+      "label": "Luan Gonçalves",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/141580.png"
+    },
+    {
+      "type": "player",
+      "id": 10565,
+      "label": "Lucas Mineiro",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10565.png"
+    },
+    {
+      "type": "player",
+      "id": 631051,
+      "label": "Lucca",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/631051.png"
+    },
+    {
+      "type": "player",
+      "id": 650642,
+      "label": "Luiz Henrique",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/650642.png"
+    },
+    {
+      "type": "player",
+      "id": 415150,
+      "label": "I. Ly",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/415150.png"
+    },
+    {
+      "type": "player",
+      "id": 237674,
+      "label": "Mandaca",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/237674.png"
+    },
+    {
+      "type": "player",
+      "id": 80670,
+      "label": "Pablo Roberto",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/80670.png"
+    },
+    {
+      "type": "player",
+      "id": 609437,
+      "label": "Paulo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/609437.png"
+    },
+    {
+      "type": "player",
+      "id": 353028,
+      "label": "Raí",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/353028.png"
+    },
+    {
+      "type": "player",
+      "id": 632700,
+      "label": "Ray Breno",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/632700.png"
+    },
+    {
+      "type": "player",
+      "id": 631053,
+      "label": "Sasso",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/631053.png"
+    },
+    {
+      "type": "player",
+      "id": 650644,
+      "label": "Yarlei",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/650644.png"
+    },
+    {
+      "type": "player",
+      "id": 12825,
+      "label": "Alan Kardec",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/12825.png"
+    },
+    {
+      "type": "player",
+      "id": 9298,
+      "label": "Alisson Safira",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9298.png"
+    },
+    {
+      "type": "player",
+      "id": 119779,
+      "label": "Allanzinho",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/119779.png"
+    },
+    {
+      "type": "player",
+      "id": 16402,
+      "label": "L. Amarilla",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/16402.png"
+    },
+    {
+      "type": "player",
+      "id": 153478,
+      "label": "Ari Moura",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/153478.png"
+    },
+    {
+      "type": "player",
+      "id": 6407,
+      "label": "M. Castro",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/6407.png"
+    },
+    {
+      "type": "player",
+      "id": 106460,
+      "label": "Fábio Lima",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/106460.png"
+    },
+    {
+      "type": "player",
+      "id": 575325,
+      "label": "J. Scatolin",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/575325.png"
+    },
+    {
+      "type": "player",
+      "id": 650643,
+      "label": "C. Junior",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/650643.png"
+    },
+    {
+      "type": "player",
+      "id": 302945,
+      "label": "Lucas Alves",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/302945.png"
+    },
+    {
+      "type": "player",
+      "id": 10322,
+      "label": "Marcos Paulo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10322.png"
+    },
+    {
+      "type": "player",
+      "id": 658910,
+      "label": "L. Moura",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/658910.png"
+    },
+    {
+      "type": "player",
+      "id": 609593,
+      "label": "N. Y. Schuh Padilha",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/609593.png"
+    },
+    {
+      "type": "player",
+      "id": 177230,
+      "label": "L. Brey",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/177230.png"
+    },
+    {
+      "type": "player",
+      "id": 5903,
+      "label": "J. García",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/5903.png"
+    },
+    {
+      "type": "player",
+      "id": 2464,
+      "label": "A. Marchesín",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/2464.png"
+    },
+    {
+      "type": "player",
+      "id": 2481,
+      "label": "Á. Montero",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/2481.png"
+    },
+    {
+      "type": "player",
+      "id": 289444,
+      "label": "L. Blanco",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/289444.png"
+    },
+    {
+      "type": "player",
+      "id": 288750,
+      "label": "A. Costa",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/288750.png"
+    },
+    {
+      "type": "player",
+      "id": 369412,
+      "label": "L. Di Lollo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/369412.png"
+    },
+    {
+      "type": "player",
+      "id": 6082,
+      "label": "N. Figal",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/6082.png"
+    },
+    {
+      "type": "player",
+      "id": 414484,
+      "label": "D. Gorosito",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/414484.png"
+    },
+    {
+      "type": "player",
+      "id": 560376,
+      "label": "F. Herrera",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/560376.png"
+    },
+    {
+      "type": "player",
+      "id": 51332,
+      "label": "L. Lozano",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/51332.png"
+    },
+    {
+      "type": "player",
+      "id": 212842,
+      "label": "Marco Pellegrino",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/212842.png"
+    },
+    {
+      "type": "player",
+      "id": 606034,
+      "label": "M. Satas",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/606034.png"
+    },
+    {
+      "type": "player",
+      "id": 11424,
+      "label": "W. Alarcón",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/11424.png"
+    },
+    {
+      "type": "player",
+      "id": 510587,
+      "label": "T. Aranda",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/510587.png"
+    },
+    {
+      "type": "player",
+      "id": 26305,
+      "label": "S. Ascacíbar",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/26305.png"
+    },
+    {
+      "type": "player",
+      "id": 6209,
+      "label": "T. Belmonte",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/6209.png"
+    },
+    {
+      "type": "player",
+      "id": 5791,
+      "label": "M. Braida",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/5791.png"
+    },
+    {
+      "type": "player",
+      "id": 11463,
+      "label": "C. Palacios",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/11463.png"
+    },
+    {
+      "type": "player",
+      "id": 459876,
+      "label": "M. Delgado",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/459876.png"
+    },
+    {
+      "type": "player",
+      "id": 271,
+      "label": "L. Paredes",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/271.png"
+    },
+    {
+      "type": "player",
+      "id": 414378,
+      "label": "C. Rey",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/414378.png"
+    },
+    {
+      "type": "player",
+      "id": 288707,
+      "label": "K. Zenón",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/288707.png"
+    },
+    {
+      "type": "player",
+      "id": 2521,
+      "label": "Á. Romero",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/2521.png"
+    },
+    {
+      "type": "player",
+      "id": 35551,
+      "label": "A. Bareiro",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/35551.png"
+    },
+    {
+      "type": "player",
+      "id": 510586,
+      "label": "L. Flores",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/510586.png"
+    },
+    {
+      "type": "player",
+      "id": 59229,
+      "label": "M. Giménez",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/59229.png"
+    },
+    {
+      "type": "player",
+      "id": 6327,
+      "label": "M. Merentiel",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/6327.png"
+    },
+    {
+      "type": "player",
+      "id": 35533,
+      "label": "E. Valencia",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/35533.png"
+    },
+    {
+      "type": "player",
+      "id": 6092,
+      "label": "A. Velasco",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/6092.png"
+    },
+    {
+      "type": "player",
+      "id": 2494,
+      "label": "S. Villa",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/2494.png"
+    },
+    {
+      "type": "player",
+      "id": 50726,
+      "label": "Carlos Coronel",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/50726.png"
+    },
+    {
+      "type": "player",
+      "id": 10081,
+      "label": "Rafael",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10081.png"
+    },
+    {
+      "type": "player",
+      "id": 311517,
+      "label": "Young",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/311517.png"
+    },
+    {
+      "type": "player",
+      "id": 516821,
+      "label": "Nicolas",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/516821.png"
+    },
+    {
+      "type": "player",
+      "id": 8451,
+      "label": "Aurélio Buta",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/8451.png"
+    },
+    {
+      "type": "player",
+      "id": 6237,
+      "label": "E. Díaz",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/6237.png"
+    },
+    {
+      "type": "player",
+      "id": 46795,
+      "label": "Domingos Duarte",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/46795.png"
+    },
+    {
+      "type": "player",
+      "id": 10375,
+      "label": "Iago",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10375.png"
+    },
+    {
+      "type": "player",
+      "id": 634548,
+      "label": "Igor Felisberto",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/634548.png"
+    },
+    {
+      "type": "player",
+      "id": 414456,
+      "label": "Isac",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/414456.png"
+    },
+    {
+      "type": "player",
+      "id": 133330,
+      "label": "Lucas Carvalho",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/133330.png"
+    },
+    {
+      "type": "player",
+      "id": 639743,
+      "label": "Osorio Luis",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/639743.png"
+    },
+    {
+      "type": "player",
+      "id": 505991,
+      "label": "Maik",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/505991.png"
+    },
+    {
+      "type": "player",
+      "id": 2571,
+      "label": "R. Arboleda",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/2571.png"
+    },
+    {
+      "type": "player",
+      "id": 9340,
+      "label": "Sabino",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9340.png"
+    },
+    {
+      "type": "player",
+      "id": 190,
+      "label": "Cédric Soares",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/190.png"
+    },
+    {
+      "type": "player",
+      "id": 30429,
+      "label": "R. Tolói",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/30429.png"
+    },
+    {
+      "type": "player",
+      "id": 970,
+      "label": "Wendell",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/970.png"
+    },
+    {
+      "type": "player",
+      "id": 195107,
+      "label": "D. Bobadilla",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/195107.png"
+    },
+    {
+      "type": "player",
+      "id": 25272,
+      "label": "Cauly",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/25272.png"
+    },
+    {
+      "type": "player",
+      "id": 77754,
+      "label": "Danielzinho",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/77754.png"
+    },
+    {
+      "type": "player",
+      "id": 612911,
+      "label": "D. Ferreira",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/612911.png"
+    },
+    {
+      "type": "player",
+      "id": 9957,
+      "label": "Luan",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/9957.png"
+    },
+    {
+      "type": "player",
+      "id": 696,
+      "label": "Marcos Antônio",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/696.png"
+    },
+    {
+      "type": "player",
+      "id": 277169,
+      "label": "Newton",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/277169.png"
+    },
+    {
+      "type": "player",
+      "id": 313732,
+      "label": "Pablo Maia",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/313732.png"
+    },
+    {
+      "type": "player",
+      "id": 505992,
+      "label": "Pedro Ferreira",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/505992.png"
+    },
+    {
+      "type": "player",
+      "id": 41188,
+      "label": "André Silva",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/41188.png"
+    },
+    {
+      "type": "player",
+      "id": 10040,
+      "label": "Artur",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10040.png"
+    },
+    {
+      "type": "player",
+      "id": 106510,
+      "label": "Ferreira",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/106510.png"
+    },
+    {
+      "type": "player",
+      "id": 47368,
+      "label": "J. Calleri",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/47368.png"
+    },
+    {
+      "type": "player",
+      "id": 178,
+      "label": "Lucas Moura",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/178.png"
+    },
+    {
+      "type": "player",
+      "id": 505994,
+      "label": "Lucca Marques Alencar",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/505994.png"
+    },
+    {
+      "type": "player",
+      "id": 10323,
+      "label": "Luciano",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/10323.png"
+    },
+    {
+      "type": "player",
+      "id": 465196,
+      "label": "Ryan Francisco",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/465196.png"
+    },
+    {
+      "type": "player",
+      "id": 607347,
+      "label": "G. Santana",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/607347.png"
+    },
+    {
+      "type": "player",
+      "id": 7541,
+      "label": "Victor Sá",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/7541.png"
+    },
+    {
+      "type": "player",
+      "id": 607350,
+      "label": "P. dos Santos",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/607350.png"
+    },
+    {
+      "type": "player",
+      "id": 543468,
+      "label": "Eder Aller",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/543468.png"
+    },
+    {
+      "type": "player",
+      "id": 182718,
+      "label": "Joan García",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/182718.png"
+    },
+    {
+      "type": "player",
+      "id": 1305,
+      "label": "D. Livaković",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/1305.png"
+    },
+    {
+      "type": "player",
+      "id": 851,
+      "label": "W. Szczęsny",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/851.png"
+    },
+    {
+      "type": "player",
+      "id": 161928,
+      "label": "Alejandro Balde",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/161928.png"
+    },
+    {
+      "type": "player",
+      "id": 855,
+      "label": "João Cancelo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/855.png"
+    },
+    {
+      "type": "player",
+      "id": 2282,
+      "label": "A. Christensen",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/2282.png"
+    },
+    {
+      "type": "player",
+      "id": 396623,
+      "label": "Pau Cubarsí Paredes",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/396623.png"
+    },
+    {
+      "type": "player",
+      "id": 568001,
+      "label": "X. Espart",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/568001.png"
+    },
+    {
+      "type": "player",
+      "id": 619,
+      "label": "Eric García",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/619.png"
+    },
+    {
+      "type": "player",
+      "id": 1257,
+      "label": "J. Koundé",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/1257.png"
+    },
+    {
+      "type": "player",
+      "id": 181701,
+      "label": "Gerard Martín",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/181701.png"
+    },
+    {
+      "type": "player",
+      "id": 570752,
+      "label": "J. Pesquer",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/570752.png"
+    },
+    {
+      "type": "player",
+      "id": 433396,
+      "label": "Marc Bernal",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/433396.png"
+    },
+    {
+      "type": "player",
+      "id": 478610,
+      "label": "M. Catovic",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/478610.png"
+    },
+    {
+      "type": "player",
+      "id": 574799,
+      "label": "B. Farinas",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/574799.png"
+    },
+    {
+      "type": "player",
+      "id": 340626,
+      "label": "Fermín",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/340626.png"
+    },
+    {
+      "type": "player",
+      "id": 296667,
+      "label": "Gavi",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/296667.png"
+    },
+    {
+      "type": "player",
+      "id": 568002,
+      "label": "O. Goren",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/568002.png"
+    },
+    {
+      "type": "player",
+      "id": 1323,
+      "label": "Dani Olmo",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/1323.png"
+    },
+    {
+      "type": "player",
+      "id": 133609,
+      "label": "Pedri",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/133609.png"
+    },
+    {
+      "type": "player",
+      "id": 44,
+      "label": "Rodri",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/44.png"
+    },
+    {
+      "type": "player",
+      "id": 568143,
+      "label": "E. Tunkara",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/568143.png"
+    },
+    {
+      "type": "player",
+      "id": 538,
+      "label": "F. de Jong",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/538.png"
+    },
+    {
+      "type": "player",
+      "id": 550547,
+      "label": "H. Abdelkarim",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/550547.png"
+    },
+    {
+      "type": "player",
+      "id": 7334,
+      "label": "K. Adeyemi",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/7334.png"
+    },
+    {
+      "type": "player",
+      "id": 338958,
+      "label": "R. Bardghji",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/338958.png"
+    },
+    {
+      "type": "player",
+      "id": 426446,
+      "label": "J. Bisiwu",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/426446.png"
+    },
+    {
+      "type": "player",
+      "id": 643,
+      "label": "Gabriel Jesus",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/643.png"
+    },
+    {
+      "type": "player",
+      "id": 138787,
+      "label": "A. Gordon",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/138787.png"
+    },
+    {
+      "type": "player",
+      "id": 386828,
+      "label": "Lamine Yamal",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/386828.png"
+    },
+    {
+      "type": "player",
+      "id": 1496,
+      "label": "Raphinha",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/1496.png"
+    },
+    {
+      "type": "player",
+      "id": 612947,
+      "label": "M. Berger",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/612947.png"
+    },
+    {
+      "type": "player",
+      "id": 198483,
+      "label": "L. Bossin",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/198483.png"
+    },
+    {
+      "type": "player",
+      "id": 203380,
+      "label": "T. Ernst",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/203380.png"
+    },
+    {
+      "type": "player",
+      "id": 108485,
+      "label": "F. Kastenmeier",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/108485.png"
+    },
+    {
+      "type": "player",
+      "id": 629173,
+      "label": "H. Agboluaje",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/629173.png"
+    },
+    {
+      "type": "player",
+      "id": 337587,
+      "label": "J. Bos",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/337587.png"
+    },
+    {
+      "type": "player",
+      "id": 37451,
+      "label": "M. Deijl",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/37451.png"
+    },
+    {
+      "type": "player",
+      "id": 371228,
+      "label": "T. Kraaijeveld",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/371228.png"
+    },
+    {
+      "type": "player",
+      "id": 182636,
+      "label": "Javi López",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/182636.png"
+    },
+    {
+      "type": "player",
+      "id": 162475,
+      "label": "Mika Màrmol",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/162475.png"
+    },
+    {
+      "type": "player",
+      "id": 37147,
+      "label": "B. Nieuwkoop",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/37147.png"
+    },
+    {
+      "type": "player",
+      "id": 359390,
+      "label": "G. Read",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/359390.png"
+    },
+    {
+      "type": "player",
+      "id": 37742,
+      "label": "G. Smal",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/37742.png"
+    },
+    {
+      "type": "player",
+      "id": 37148,
+      "label": "J. St. Juste",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/37148.png"
+    },
+    {
+      "type": "player",
+      "id": 32858,
+      "label": "T. Watanabe",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/32858.png"
+    },
+    {
+      "type": "player",
+      "id": 666811,
+      "label": "T. Wessels",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/666811.png"
+    },
+    {
+      "type": "player",
+      "id": 653521,
+      "label": "I. Grootfaam",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/653521.png"
+    },
+    {
+      "type": "player",
+      "id": 40911,
+      "label": "J. Moder",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/40911.png"
+    },
+    {
+      "type": "player",
+      "id": 632814,
+      "label": "A. Nahany",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/632814.png"
+    },
+    {
+      "type": "player",
+      "id": 37784,
+      "label": "S. Steijn",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/37784.png"
+    },
+    {
+      "type": "player",
+      "id": 284071,
+      "label": "O. Targhalline",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/284071.png"
+    },
+    {
+      "type": "player",
+      "id": 314266,
+      "label": "L. Valente",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/314266.png"
+    },
+    {
+      "type": "player",
+      "id": 8680,
+      "label": "C. Vanhoutte",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/8680.png"
+    },
+    {
+      "type": "player",
+      "id": 425819,
+      "label": "G. Zechiël",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/425819.png"
+    },
+    {
+      "type": "player",
+      "id": 491239,
+      "label": "T. van den Elshout",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/491239.png"
+    },
+    {
+      "type": "player",
+      "id": 128385,
+      "label": "Gonçalo Borges",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/128385.png"
+    },
+    {
+      "type": "player",
+      "id": 458540,
+      "label": "G. Diarra",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/458540.png"
+    },
+    {
+      "type": "player",
+      "id": 326067,
+      "label": "A. Hadj-Moussa",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/326067.png"
+    },
+    {
+      "type": "player",
+      "id": 353943,
+      "label": "Nacho Ferri",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/353943.png"
+    },
+    {
+      "type": "player",
+      "id": 727,
+      "label": "R. Nelson",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/727.png"
+    },
+    {
+      "type": "player",
+      "id": 629206,
+      "label": "J. Schaken",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/629206.png"
+    },
+    {
+      "type": "player",
+      "id": 584888,
+      "label": "J. Zinhagel",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/584888.png"
+    },
+    {
+      "type": "player",
+      "id": 624605,
+      "label": "S. van Persie",
+      "subtitle": "Jogador",
+      "image": "https://media.api-sports.io/football/players/624605.png"
     }
   ]
 }

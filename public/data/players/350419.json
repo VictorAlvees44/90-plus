@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 350419,
+    "name": "Hiago Accinelli da Roza",
+    "age": 20,
+    "number": 31,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/350419.png"
+  },
+  "team": {
+    "id": 140,
+    "name": "Criciuma",
+    "logo": "https://media.api-sports.io/football/teams/140.png",
+    "country": "Brazil",
+    "founded": 1947,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 631046,
+    "name": "Kaue Lima",
+    "age": 20,
+    "number": 13,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/631046.png"
+  },
+  "team": {
+    "id": 152,
+    "name": "Juventude",
+    "logo": "https://media.api-sports.io/football/teams/152.png",
+    "country": "Brazil",
+    "founded": 1913,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 80523,
+    "name": "Willean Lepo",
+    "age": 28,
+    "number": 97,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/80523.png"
+  },
+  "team": {
+    "id": 140,
+    "name": "Criciuma",
+    "logo": "https://media.api-sports.io/football/teams/140.png",
+    "country": "Brazil",
+    "founded": 1947,
+    "national": false
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "team": {
+    "id": 140,
+    "name": "Criciuma",
+    "logo": "https://media.api-sports.io/football/teams/140.png",
+    "country": "Brazil",
+    "founded": 1947,
+    "national": false
+  },
+  "venue": {
+    "name": "Estádio Heriberto Hülse",
+    "city": "Criciúma, Santa Catarina",
+    "capacity": 19300,
+    "image": "https://media.api-sports.io/football/venues/233.png"
+  },
+  "squad": [
+    {
+      "id": 9826,
+      "name": "Airton",
+      "age": 31,
+      "number": 32,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/9826.png"
+    },
+    {
+      "id": 9410,
+      "name": "Alisson",
+      "age": 30,
+      "number": 1,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/9410.png"
+    },
+    {
+      "id": 357499,
+      "name": "Kauã Moroso",
+      "age": 21,
+      "number": 73,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/357499.png"
+    },
+    {
+      "id": 507385,
+      "name": "Lucas Soratto",
+      "age": 18,
+      "number": 93,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/507385.png"
+    },
+    {
+      "id": 506310,
+      "name": "Pedro",
+      "age": 20,
+      "number": 70,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/506310.png"
+    },
+    {
+      "id": 9945,
+      "name": "Bruno Alves",
+      "age": 34,
+      "number": 34,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/9945.png"
+    },
+    {
+      "id": 41206,
+      "name": "César Martins",
+      "age": 33,
+      "number": 37,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/41206.png"
+    },
+    {
+      "id": 350419,
+      "name": "Hiago Accinelli da Roza",
+      "age": 20,
+      "number": 31,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/350419.png"
+    },
+    {
+      "id": 10448,
+      "name": "Luciano Castán",
+      "age": 36,
+      "number": 4,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/10448.png"
+    },
+    {
+      "id": 10340,
+      "name": "Marcelo Hermes",
+      "age": 31,
+      "number": 22,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/10340.png"
+    },
+    {
+      "id": 10048,
+      "name": "Marcinho",
+      "age": 29,
+      "number": 6,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/10048.png"
+    },
+    {
+      "id": 9484,
+      "name": "Rodrigo",
+      "age": 38,
+      "number": 3,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/9484.png"
+    },
+    {
+      "id": 311277,
+      "name": "Rômulo",
+      "age": 22,
+      "number": 49,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/311277.png"
+    },
+    {
+      "id": 504017,
+      "name": "Ruan",
+      "age": 19,
+      "number": 43,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/504017.png"
+    },
+    {
+      "id": 80523,
+      "name": "Willean Lepo",
+      "age": 28,
+      "number": 97,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/80523.png"
+    },
+    {
+      "id": 9645,
+      "name": "Eduardo",
+      "age": 28,
+      "number": 5,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/9645.png"
+    },
+    {
+      "id": 291912,
+      "name": "Eliel Felisbino Costa",
+      "age": 22,
+      "number": 17,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/291912.png"
+    },
+    {
+      "id": 80624,
+      "name": "Fellipe Mateus",
+      "age": 34,
+      "number": 7,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/80624.png"
+    },
+    {
+      "id": 237798,
+      "name": "Guilherme Lobo",
+      "age": 26,
+      "number": 8,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/237798.png"
+    },
+    {
+      "id": 10065,
+      "name": "Jean Irmer",
+      "age": 31,
+      "number": 41,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/10065.png"
+    },
+    {
+      "id": 152858,
+      "name": "Jhonata Robert",
+      "age": 26,
+      "number": 10,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/152858.png"
+    },
+    {
+      "id": 545012,
+      "name": "L. Bugs",
+      "age": 19,
+      "number": 17,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/545012.png"
+    },
+    {
+      "id": 44494,
+      "name": "R. Otero",
+      "age": 33,
+      "number": 91,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/44494.png"
+    },
+    {
+      "id": 64363,
+      "name": "Ronald",
+      "age": 28,
+      "number": 14,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/64363.png"
+    },
+    {
+      "id": 10001,
+      "name": "Sandry",
+      "age": 23,
+      "number": 38,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/10001.png"
+    },
+    {
+      "id": 545028,
+      "name": "Thiaguinho",
+      "age": 19,
+      "number": 50,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/545028.png"
+    },
+    {
+      "id": 544976,
+      "name": "Caue",
+      "age": 22,
+      "number": 88,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/544976.png"
+    },
+    {
+      "id": 9296,
+      "name": "Diego Gonçalves",
+      "age": 31,
+      "number": 77,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/9296.png"
+    },
+    {
+      "id": 197074,
+      "name": "João Carlos",
+      "age": 24,
+      "number": 21,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/197074.png"
+    },
+    {
+      "id": 54031,
+      "name": "Nicolas",
+      "age": 36,
+      "number": 9,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/54031.png"
+    },
+    {
+      "id": 10438,
+      "name": "Romarinho",
+      "age": 31,
+      "number": 11,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/10438.png"
+    },
+    {
+      "id": 522768,
+      "name": "Thales",
+      "age": 19,
+      "number": 19,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/522768.png"
+    },
+    {
+      "id": 34704,
+      "name": "Waguininho",
+      "age": 35,
+      "number": 13,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/34704.png"
+    },
+    {
+      "id": 109209,
+      "name": "Yuri",
+      "age": 27,
+      "number": 33,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/109209.png"
+    }
+  ]
+}

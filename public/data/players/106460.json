@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 106460,
+    "name": "Fábio Lima",
+    "age": 29,
+    "number": 11,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/106460.png"
+  },
+  "team": {
+    "id": 152,
+    "name": "Juventude",
+    "logo": "https://media.api-sports.io/football/teams/152.png",
+    "country": "Brazil",
+    "founded": 1913,
+    "national": false
+  }
+}

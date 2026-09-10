@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 631042,
+    "name": "Joaquim Flesch Horn",
+    "age": 18,
+    "number": 21,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/631042.png"
+  },
+  "team": {
+    "id": 152,
+    "name": "Juventude",
+    "logo": "https://media.api-sports.io/football/teams/152.png",
+    "country": "Brazil",
+    "founded": 1913,
+    "national": false
+  }
+}

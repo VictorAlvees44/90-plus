@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 9298,
+    "name": "Alisson Safira",
+    "age": 31,
+    "number": 25,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/9298.png"
+  },
+  "team": {
+    "id": 152,
+    "name": "Juventude",
+    "logo": "https://media.api-sports.io/football/teams/152.png",
+    "country": "Brazil",
+    "founded": 1913,
+    "national": false
+  }
+}

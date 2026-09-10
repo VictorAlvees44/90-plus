@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 10196,
+    "name": "Alan Ruschel",
+    "age": 36,
+    "number": 28,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/10196.png"
+  },
+  "team": {
+    "id": 152,
+    "name": "Juventude",
+    "logo": "https://media.api-sports.io/football/teams/152.png",
+    "country": "Brazil",
+    "founded": 1913,
+    "national": false
+  }
+}

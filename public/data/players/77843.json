@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 77843,
+    "name": "Rodrigo Sam",
+    "age": 30,
+    "number": 34,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/77843.png"
+  },
+  "team": {
+    "id": 152,
+    "name": "Juventude",
+    "logo": "https://media.api-sports.io/football/teams/152.png",
+    "country": "Brazil",
+    "founded": 1913,
+    "national": false
+  }
+}

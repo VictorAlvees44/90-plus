@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 612947,
+    "name": "M. Berger",
+    "age": 21,
+    "number": 37,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/612947.png"
+  },
+  "team": {
+    "id": 209,
+    "name": "Feyenoord",
+    "logo": "https://media.api-sports.io/football/teams/209.png",
+    "country": "Netherlands",
+    "founded": 1908,
+    "national": false
+  }
+}

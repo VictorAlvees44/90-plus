@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 10040,
+    "name": "Artur",
+    "age": 27,
+    "number": 37,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/10040.png"
+  },
+  "team": {
+    "id": 126,
+    "name": "Sao Paulo",
+    "logo": "https://media.api-sports.io/football/teams/126.png",
+    "country": "Brazil",
+    "founded": 1930,
+    "national": false
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 152858,
+    "name": "Jhonata Robert",
+    "age": 26,
+    "number": 10,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/152858.png"
+  },
+  "team": {
+    "id": 140,
+    "name": "Criciuma",
+    "logo": "https://media.api-sports.io/football/teams/140.png",
+    "country": "Brazil",
+    "founded": 1947,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2024-08-27",
+      "from": "Gremio",
+      "to": "Criciuma",
+      "type": "N/A"
+    },
+    {
+      "date": "2021-05-29",
+      "from": "Famalicao",
+      "to": "Gremio",
+      "type": "N/A"
+    },
+    {
+      "date": "2020-01-28",
+      "from": "Gremio",
+      "to": "Cruzeiro",
+      "type": "Loan"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Recopa Catarinense",
+      "season": "2026",
+      "place": "Winner"
+    },
+    {
+      "league": "Gaúcho 1",
+      "season": "2024",
+      "place": "Winner"
+    },
+    {
+      "league": "Recopa Gaúcha",
+      "season": "2024",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Gaúcho 1",
+      "season": "2023",
+      "place": "Winner"
+    },
+    {
+      "league": "Recopa Gaúcha",
+      "season": "2023",
+      "place": "Winner"
+    },
+    {
+      "league": "Serie A",
+      "season": "2023",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Gaúcho 1",
+      "season": "2022",
+      "place": "Winner"
+    },
+    {
+      "league": "Serie B",
+      "season": "2022",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Gaúcho 1",
+      "place": "Winner"
+    },
+    {
+      "league": "Serie B",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Recopa Gaúcha",
+      "place": "Winner"
+    },
+    {
+      "league": "Recopa Gaúcha",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Serie A",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Recopa Catarinense",
+      "place": "Winner"
+    }
+  ]
+}

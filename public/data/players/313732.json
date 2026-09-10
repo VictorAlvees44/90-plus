@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 313732,
+    "name": "Pablo Maia",
+    "age": 23,
+    "number": 29,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/313732.png"
+  },
+  "team": {
+    "id": 126,
+    "name": "Sao Paulo",
+    "logo": "https://media.api-sports.io/football/teams/126.png",
+    "country": "Brazil",
+    "founded": 1930,
+    "national": false
+  }
+}

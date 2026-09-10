@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 612911,
+    "name": "D. Ferreira",
+    "age": 18,
+    "number": 48,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/612911.png"
+  },
+  "team": {
+    "id": 126,
+    "name": "Sao Paulo",
+    "logo": "https://media.api-sports.io/football/teams/126.png",
+    "country": "Brazil",
+    "founded": 1930,
+    "national": false
+  }
+}

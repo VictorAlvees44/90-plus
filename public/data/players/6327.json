@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 6327,
+    "name": "M. Merentiel",
+    "age": 29,
+    "number": 16,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/6327.png"
+  },
+  "team": {
+    "id": 451,
+    "name": "Boca Juniors",
+    "logo": "https://media.api-sports.io/football/teams/451.png",
+    "country": "Argentina",
+    "founded": 1905,
+    "national": false
+  }
+}

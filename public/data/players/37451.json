@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 37451,
+    "name": "M. Deijl",
+    "age": 28,
+    "number": 20,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/37451.png"
+  },
+  "team": {
+    "id": 209,
+    "name": "Feyenoord",
+    "logo": "https://media.api-sports.io/football/teams/209.png",
+    "country": "Netherlands",
+    "founded": 1908,
+    "national": false
+  }
+}

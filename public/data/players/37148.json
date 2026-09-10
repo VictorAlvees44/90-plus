@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 37148,
+    "name": "J. St. Juste",
+    "age": 29,
+    "number": 6,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/37148.png"
+  },
+  "team": {
+    "id": 209,
+    "name": "Feyenoord",
+    "logo": "https://media.api-sports.io/football/teams/209.png",
+    "country": "Netherlands",
+    "founded": 1908,
+    "national": false
+  }
+}

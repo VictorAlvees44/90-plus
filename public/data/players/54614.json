@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "player": {
+    "id": 54614,
+    "name": "Gabriel Pinheiro",
+    "age": 28,
+    "number": 97,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/54614.png"
+  },
+  "team": {
+    "id": 152,
+    "name": "Juventude",
+    "logo": "https://media.api-sports.io/football/teams/152.png",
+    "country": "Brazil",
+    "founded": 1913,
+    "national": false
+  }
+}
