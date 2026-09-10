@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T14:26:18.953Z",
+  "updatedAt": "2026-09-10T18:24:22.464Z",
   "fixtures": [
     {
       "id": 1520863,
@@ -722,7 +722,7 @@
         "home": 1,
         "away": 2
       },
-      "venue": "Yankee Stadium"
+      "venue": "Citi Field"
     },
     {
       "id": 1490457,
@@ -883,7 +883,7 @@
         "home": 1,
         "away": 1
       },
-      "venue": "Estadio Jorge Luis Hirschi"
+      "venue": "Estadio Ciudad de La Plata"
     },
     {
       "id": 1490461,
@@ -996,7 +996,8 @@
     {
       "id": 1635659,
       "startsAt": "2026-09-10T16:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 82,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1013,12 +1014,17 @@
         "name": "AS Roma",
         "logo": "data/media/teams/497.png"
       },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
       "venue": "Chobani Stadium Fenerbahce Sukru Saracoglu"
     },
     {
       "id": 1635708,
       "startsAt": "2026-09-10T16:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 81,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1034,6 +1040,10 @@
         "id": 550,
         "name": "Shakhtar Donetsk",
         "logo": "data/media/teams/550.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
       },
       "venue": "Philips Stadion"
     },
@@ -1210,7 +1220,7 @@
         "name": "Ponte Preta",
         "logo": "data/media/teams/139.png"
       },
-      "venue": "Ilha do Retiro"
+      "venue": "Estadio Adelmar da Costa Carvalho"
     },
     {
       "id": 1631511,
