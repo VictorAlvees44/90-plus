@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T18:24:22.464Z",
+  "updatedAt": "2026-09-10T22:34:29.820Z",
   "fixtures": [
     {
       "id": 1520863,
@@ -996,8 +996,8 @@
     {
       "id": 1635659,
       "startsAt": "2026-09-10T16:45:00+00:00",
-      "status": "live",
-      "elapsed": 82,
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1023,8 +1023,8 @@
     {
       "id": 1635708,
       "startsAt": "2026-09-10T16:45:00+00:00",
-      "status": "live",
-      "elapsed": 81,
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1050,7 +1050,8 @@
     {
       "id": 1564305,
       "startsAt": "2026-09-10T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 41,
         "name": "League One",
@@ -1067,12 +1068,17 @@
         "name": "Luton",
         "logo": "data/media/teams/1359.png"
       },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
       "venue": "SPORTA Arena"
     },
     {
       "id": 1635632,
       "startsAt": "2026-09-10T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1089,12 +1095,17 @@
         "name": "Bodo/Glimt",
         "logo": "data/media/teams/327.png"
       },
+      "score": {
+        "home": 5,
+        "away": 0
+      },
       "venue": "Allianz Arena"
     },
     {
       "id": 1635648,
       "startsAt": "2026-09-10T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1111,12 +1122,17 @@
         "name": "RB Leipzig",
         "logo": "data/media/teams/173.png"
       },
+      "score": {
+        "home": 4,
+        "away": 1
+      },
       "venue": "Stadio Giuseppe Sinigaglia"
     },
     {
       "id": 1635697,
       "startsAt": "2026-09-10T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1133,12 +1149,17 @@
         "name": "Sabah FA",
         "logo": "data/media/teams/13976.png"
       },
+      "score": {
+        "home": 4,
+        "away": 0
+      },
       "venue": "Old Trafford"
     },
     {
       "id": 1635729,
       "startsAt": "2026-09-10T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -1154,6 +1175,10 @@
         "id": 116,
         "name": "Lens",
         "logo": "data/media/teams/116.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 3
       },
       "venue": "Fortuna Arena"
     },
@@ -1182,7 +1207,8 @@
     {
       "id": 1520869,
       "startsAt": "2026-09-10T22:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 4,
       "league": {
         "id": 72,
         "name": "Serie B",
@@ -1198,6 +1224,10 @@
         "id": 151,
         "name": "Goias",
         "logo": "data/media/teams/151.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
       }
     },
     {
