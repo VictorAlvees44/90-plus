@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T07:29:29.164Z",
+  "updatedAt": "2026-09-10T14:26:18.953Z",
   "fixtures": [
     {
       "id": 1520863,
@@ -53,7 +53,7 @@
         "home": 1,
         "away": 0
       },
-      "venue": "Estadio Alberto J. Armando"
+      "venue": "Alberto Jose Armando"
     },
     {
       "id": 1635628,
@@ -80,7 +80,7 @@
         "home": 5,
         "away": 1
       },
-      "venue": "Camp Nou"
+      "venue": "Spotify Camp Nou"
     },
     {
       "id": 1635741,
@@ -107,7 +107,7 @@
         "home": 3,
         "away": 1
       },
-      "venue": "MHPArena"
+      "venue": "MHP Arena"
     },
     {
       "id": 1563152,
@@ -134,7 +134,7 @@
         "home": 0,
         "away": 1
       },
-      "venue": "Pride Park"
+      "venue": "Pride Park Stadium"
     },
     {
       "id": 1563153,
@@ -373,7 +373,8 @@
       "score": {
         "home": 3,
         "away": 1
-      }
+      },
+      "venue": "Estádio José Alvalade"
     },
     {
       "id": 1636205,
@@ -454,7 +455,7 @@
         "home": 2,
         "away": 0
       },
-      "venue": "MRV Arena"
+      "venue": "Estádio Urbano Caldeira"
     },
     {
       "id": 1520862,
