@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 47998,
+    "name": "A. Yusuf",
+    "age": 25,
+    "number": 80,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/47998.png"
+  },
+  "team": {
+    "id": 1609,
+    "name": "New England Revolution",
+    "logo": "https://media.api-sports.io/football/teams/1609.png",
+    "country": "USA",
+    "founded": 1995,
+    "national": false
+  }
+}

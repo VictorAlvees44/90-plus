@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 51003,
+    "name": "A. Farrell",
+    "age": 33,
+    "number": 88,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/51003.png"
+  },
+  "team": {
+    "id": 1609,
+    "name": "New England Revolution",
+    "logo": "https://media.api-sports.io/football/teams/1609.png",
+    "country": "USA",
+    "founded": 1995,
+    "national": false
+  }
+}

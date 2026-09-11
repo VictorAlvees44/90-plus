@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 542212,
+    "name": "D. Sumalla",
+    "age": 18,
+    "number": 70,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/542212.png"
+  },
+  "team": {
+    "id": 9568,
+    "name": "Inter Miami",
+    "logo": "https://media.api-sports.io/football/teams/9568.png",
+    "country": "USA",
+    "founded": 2018,
+    "national": false
+  }
+}

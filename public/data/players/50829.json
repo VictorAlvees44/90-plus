@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 50829,
+    "name": "L. Abubakar",
+    "age": 31,
+    "number": 5,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/50829.png"
+  },
+  "team": {
+    "id": 1597,
+    "name": "FC Dallas",
+    "logo": "https://media.api-sports.io/football/teams/1597.png",
+    "country": "USA",
+    "founded": 1996,
+    "national": false
+  }
+}

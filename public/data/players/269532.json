@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 269532,
+    "name": "D. Turgeman",
+    "age": 22,
+    "number": 99,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/269532.png"
+  },
+  "team": {
+    "id": 1609,
+    "name": "New England Revolution",
+    "logo": "https://media.api-sports.io/football/teams/1609.png",
+    "country": "USA",
+    "founded": 1995,
+    "national": false
+  }
+}

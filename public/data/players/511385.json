@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 511385,
+    "name": "K. Chandler",
+    "age": 20,
+    "number": 33,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/511385.png"
+  },
+  "team": {
+    "id": 1612,
+    "name": "Minnesota United FC",
+    "logo": "https://media.api-sports.io/football/teams/1612.png",
+    "country": "USA",
+    "founded": 2010,
+    "national": false
+  }
+}

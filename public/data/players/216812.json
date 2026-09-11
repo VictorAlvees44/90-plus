@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 216812,
+    "name": "N. Triantis",
+    "age": 22,
+    "number": 25,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/216812.png"
+  },
+  "team": {
+    "id": 1612,
+    "name": "Minnesota United FC",
+    "logo": "https://media.api-sports.io/football/teams/1612.png",
+    "country": "USA",
+    "founded": 2010,
+    "national": false
+  }
+}

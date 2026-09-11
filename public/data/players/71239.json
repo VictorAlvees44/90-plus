@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 71239,
+    "name": "J. Cohen",
+    "age": 33,
+    "number": 44,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/71239.png"
+  },
+  "team": {
+    "id": 1607,
+    "name": "Chicago Fire",
+    "logo": "https://media.api-sports.io/football/teams/1607.png",
+    "country": "USA",
+    "founded": 1997,
+    "national": false
+  }
+}

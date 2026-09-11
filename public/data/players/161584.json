@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 161584,
+    "name": "J. Gómez",
+    "age": 24,
+    "number": 18,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/161584.png"
+  },
+  "team": {
+    "id": 1607,
+    "name": "Chicago Fire",
+    "logo": "https://media.api-sports.io/football/teams/1607.png",
+    "country": "USA",
+    "founded": 1997,
+    "national": false
+  }
+}

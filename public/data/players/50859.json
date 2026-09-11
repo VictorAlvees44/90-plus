@@ -1,0 +1,142 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 50859,
+    "name": "M. Moralez",
+    "age": 38,
+    "number": 10,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/50859.png"
+  },
+  "team": {
+    "id": 1604,
+    "name": "New York City FC",
+    "logo": "https://media.api-sports.io/football/teams/1604.png",
+    "country": "USA",
+    "founded": 2013,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2023-08-08",
+      "from": "Racing Club",
+      "to": "New York City FC",
+      "type": "Free"
+    },
+    {
+      "date": "2022-12-23",
+      "from": "New York City FC",
+      "to": "Racing Club",
+      "type": "Free"
+    },
+    {
+      "date": "2017-02-15",
+      "from": "Leon",
+      "to": "New York City FC",
+      "type": "N/A"
+    },
+    {
+      "date": "2016-01-01",
+      "from": "Atalanta",
+      "to": "Leon",
+      "type": "€ 3.7M"
+    },
+    {
+      "date": "2011-08-09",
+      "from": "Velez Sarsfield",
+      "to": "Atalanta",
+      "type": "€ 5.3M"
+    },
+    {
+      "date": "2009-02-08",
+      "to": "Velez Sarsfield",
+      "type": "€ 1.9M"
+    },
+    {
+      "date": "2008-01-01",
+      "to": "Racing Club",
+      "type": "Loan"
+    },
+    {
+      "date": "2007-07-01",
+      "from": "Racing Club",
+      "type": "€ 5M"
+    },
+    {
+      "date": "2025-12-30",
+      "from": "New York City FC",
+      "to": "Moralez Maximiliano",
+      "type": "Free agent"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Super Copa International",
+      "season": "2023",
+      "place": "Winner"
+    },
+    {
+      "league": "Campeones Cup",
+      "season": "2022",
+      "place": "Winner"
+    },
+    {
+      "league": "MLS",
+      "season": "2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Copa MX",
+      "season": "2015/2016",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "season": "2011",
+      "place": "Winner"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "season": "2010/2011",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "season": "2009",
+      "place": "Winner"
+    },
+    {
+      "league": "FIFA U20 World Cup",
+      "season": "2007",
+      "place": "Winner"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "place": "Winner"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa MX",
+      "place": "2nd Place"
+    },
+    {
+      "league": "MLS",
+      "place": "Winner"
+    },
+    {
+      "league": "Super Copa International",
+      "place": "Winner"
+    },
+    {
+      "league": "FIFA U20 World Cup",
+      "place": "Winner"
+    },
+    {
+      "league": "Campeones Cup",
+      "place": "Winner"
+    }
+  ]
+}

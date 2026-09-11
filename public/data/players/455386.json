@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 455386,
+    "name": "Y. Bright",
+    "age": 24,
+    "number": 42,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/455386.png"
+  },
+  "team": {
+    "id": 9568,
+    "name": "Inter Miami",
+    "logo": "https://media.api-sports.io/football/teams/9568.png",
+    "country": "USA",
+    "founded": 2018,
+    "national": false
+  }
+}

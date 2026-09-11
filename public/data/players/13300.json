@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 13300,
+    "name": "A. Perea",
+    "age": 25,
+    "number": 8,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/13300.png"
+  },
+  "team": {
+    "id": 1604,
+    "name": "New York City FC",
+    "logo": "https://media.api-sports.io/football/teams/1604.png",
+    "country": "USA",
+    "founded": 2013,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 201717,
+    "name": "T. Gray",
+    "age": 23,
+    "number": 24,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/201717.png"
+  },
+  "team": {
+    "id": 1604,
+    "name": "New York City FC",
+    "logo": "https://media.api-sports.io/football/teams/1604.png",
+    "country": "USA",
+    "founded": 2013,
+    "national": false
+  }
+}

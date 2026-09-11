@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 51012,
+    "name": "Carles Gil",
+    "age": 33,
+    "number": 10,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/51012.png"
+  },
+  "team": {
+    "id": 1609,
+    "name": "New England Revolution",
+    "logo": "https://media.api-sports.io/football/teams/1609.png",
+    "country": "USA",
+    "founded": 1995,
+    "national": false
+  }
+}

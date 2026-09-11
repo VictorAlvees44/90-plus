@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 115532,
+    "name": "S. Moreno",
+    "age": 25,
+    "number": 10,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/115532.png"
+  },
+  "team": {
+    "id": 1597,
+    "name": "FC Dallas",
+    "logo": "https://media.api-sports.io/football/teams/1597.png",
+    "country": "USA",
+    "founded": 1996,
+    "national": false
+  }
+}

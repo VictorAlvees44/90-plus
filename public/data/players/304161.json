@@ -1,0 +1,104 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 304161,
+    "name": "B. Traoré",
+    "age": 23,
+    "number": 9,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/304161.png"
+  },
+  "team": {
+    "id": 1604,
+    "name": "New York City FC",
+    "logo": "https://media.api-sports.io/football/teams/1604.png",
+    "country": "USA",
+    "founded": 2013,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2024-07-22",
+      "from": "Sheffield Utd",
+      "to": "FC Basel 1893",
+      "type": "N/A"
+    },
+    {
+      "date": "2024-07-01",
+      "from": "Nantes",
+      "to": "Sheffield Utd",
+      "type": "N/A"
+    },
+    {
+      "date": "2024-01-04",
+      "from": "Sheffield Utd",
+      "to": "Nantes",
+      "type": "Loan"
+    },
+    {
+      "date": "2023-07-18",
+      "from": "BK Hacken",
+      "to": "Sheffield Utd",
+      "type": "€ 4.6M"
+    },
+    {
+      "date": "2026-07-11",
+      "from": "FC Basel 1893",
+      "to": "New York City FC",
+      "type": "Transfer"
+    },
+    {
+      "date": "2026-07-12",
+      "from": "FC Basel 1893",
+      "to": "New York City FC",
+      "type": "Transfer"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Super League",
+      "season": "2024/2025",
+      "place": "Winner"
+    },
+    {
+      "league": "Schweizer Pokal",
+      "season": "2024/2025",
+      "place": "Winner"
+    },
+    {
+      "league": "Svenska Cupen",
+      "season": "2022/2023",
+      "place": "Winner"
+    },
+    {
+      "league": "Allsvenskan",
+      "season": "2022",
+      "place": "Winner"
+    },
+    {
+      "league": "Svenska Cupen",
+      "season": "2020/2021",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Svenska Cupen",
+      "place": "Winner"
+    },
+    {
+      "league": "Svenska Cupen",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Allsvenskan",
+      "place": "Winner"
+    },
+    {
+      "league": "Super League",
+      "place": "Winner"
+    },
+    {
+      "league": "Schweizer Pokal",
+      "place": "Winner"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 412510,
+    "name": "D. McIntosh",
+    "age": 18,
+    "number": 19,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/412510.png"
+  },
+  "team": {
+    "id": 1609,
+    "name": "New England Revolution",
+    "logo": "https://media.api-sports.io/football/teams/1609.png",
+    "country": "USA",
+    "founded": 1995,
+    "national": false
+  }
+}

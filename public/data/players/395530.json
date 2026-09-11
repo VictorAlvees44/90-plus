@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 395530,
+    "name": "M. Gonzalez",
+    "age": 21,
+    "number": 18,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/395530.png"
+  },
+  "team": {
+    "id": 1612,
+    "name": "Minnesota United FC",
+    "logo": "https://media.api-sports.io/football/teams/1612.png",
+    "country": "USA",
+    "founded": 2010,
+    "national": false
+  }
+}

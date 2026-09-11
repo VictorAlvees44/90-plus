@@ -1,0 +1,50 @@
+{
+  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "player": {
+    "id": 75414,
+    "name": "N. Fernández Mercau",
+    "age": 25,
+    "number": 7,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/75414.png"
+  },
+  "team": {
+    "id": 1604,
+    "name": "New York City FC",
+    "logo": "https://media.api-sports.io/football/teams/1604.png",
+    "country": "USA",
+    "founded": 2013,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2022-09-01",
+      "from": "San Lorenzo",
+      "to": "Elche",
+      "type": "N/A"
+    },
+    {
+      "date": "2025-07-22",
+      "from": "Elche",
+      "to": "New York City",
+      "type": "Transfer"
+    },
+    {
+      "date": "2025-07-24",
+      "from": "Elche",
+      "to": "New York City FC",
+      "type": "Transfer"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Segunda División",
+      "season": "2024/2025",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Segunda División",
+      "place": "2nd Place"
+    }
+  ]
+}
