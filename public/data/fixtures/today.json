@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T14:26:08.038Z",
+  "updatedAt": "2026-09-11T18:28:11.567Z",
   "fixtures": [
     {
       "id": 1520868,
@@ -111,7 +111,8 @@
     {
       "id": 1576172,
       "startsAt": "2026-09-11T16:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 79,
         "name": "2. Bundesliga",
@@ -128,12 +129,17 @@
         "name": "Arminia Bielefeld",
         "logo": "data/media/teams/188.png"
       },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
       "venue": "Merck-Stadion am Bollenfalltor"
     },
     {
       "id": 1576176,
       "startsAt": "2026-09-11T16:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 79,
         "name": "2. Bundesliga",
@@ -150,12 +156,17 @@
         "name": "Hannover 96",
         "logo": "data/media/teams/166.png"
       },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
       "venue": "Max-Morlock-Stadion"
     },
     {
       "id": 1583992,
       "startsAt": "2026-09-11T17:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 69,
       "league": {
         "id": 80,
         "name": "3. Liga",
@@ -172,12 +183,17 @@
         "name": "Hansa Rostock",
         "logo": "data/media/teams/1321.png"
       },
+      "score": {
+        "home": 4,
+        "away": 0
+      },
       "venue": "Sportpark Hohenberg"
     },
     {
       "id": 1601527,
       "startsAt": "2026-09-11T17:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 67,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -193,6 +209,10 @@
         "id": 876,
         "name": "Arezzo",
         "logo": "data/media/teams/876.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
       },
       "venue": "Stadio Carlo Castellani"
     },

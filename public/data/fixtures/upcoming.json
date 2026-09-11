@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T14:26:08.038Z",
+  "updatedAt": "2026-09-11T18:28:11.567Z",
   "fixtures": [
     {
       "id": 1492374,
@@ -1885,7 +1885,8 @@
         "id": 84,
         "name": "Nice",
         "logo": "data/media/teams/84.png"
-      }
+      },
+      "venue": "Stade de l'Abbé-Deschamps"
     },
     {
       "id": 1552758,
@@ -1906,7 +1907,8 @@
         "id": 77,
         "name": "Angers",
         "logo": "data/media/teams/77.png"
-      }
+      },
+      "venue": "Stade Océane"
     },
     {
       "id": 1552761,
