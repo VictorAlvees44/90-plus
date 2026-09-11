@@ -1,11 +1,11 @@
 {
-  "dataVersion": "2026-09-11T07:27:46.405Z",
-  "updatedAt": "2026-09-11T07:27:46.405Z",
-  "lastSuccessAt": "2026-09-11T07:27:46.405Z",
+  "dataVersion": "2026-09-11T14:26:08.038Z",
+  "updatedAt": "2026-09-11T14:26:08.038Z",
+  "lastSuccessAt": "2026-09-11T14:26:08.038Z",
   "lastFailureAt": null,
   "source": "api-football",
   "quota": {
-    "used": 43,
+    "used": 12,
     "limit": 100,
     "failures": []
   }

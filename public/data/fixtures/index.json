@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:27:46.405Z",
+  "updatedAt": "2026-09-11T14:26:08.038Z",
   "fixtures": [
     {
       "id": 1490455,
@@ -1018,28 +1018,6 @@
       "venue": "Estadio Victoria"
     },
     {
-      "id": 1550958,
-      "startsAt": "2026-09-12T03:00:00+00:00",
-      "status": "scheduled",
-      "league": {
-        "id": 262,
-        "name": "Liga MX",
-        "logo": "https://media.api-sports.io/football/leagues/262.png",
-        "country": "Mexico"
-      },
-      "home": {
-        "id": 2280,
-        "name": "Club Tijuana",
-        "logo": "data/media/teams/2280.png"
-      },
-      "away": {
-        "id": 2290,
-        "name": "Club Queretaro",
-        "logo": "data/media/teams/2290.png"
-      },
-      "venue": "Estadio Caliente"
-    },
-    {
       "id": 1550959,
       "startsAt": "2026-09-12T03:00:00+00:00",
       "status": "scheduled",
@@ -1060,6 +1038,28 @@
         "logo": "data/media/teams/2292.png"
       },
       "venue": "Estadio Banorte"
+    },
+    {
+      "id": 1550958,
+      "startsAt": "2026-09-12T03:10:00+00:00",
+      "status": "scheduled",
+      "league": {
+        "id": 262,
+        "name": "Liga MX",
+        "logo": "https://media.api-sports.io/football/leagues/262.png",
+        "country": "Mexico"
+      },
+      "home": {
+        "id": 2280,
+        "name": "Club Tijuana",
+        "logo": "data/media/teams/2280.png"
+      },
+      "away": {
+        "id": 2290,
+        "name": "Club Queretaro",
+        "logo": "data/media/teams/2290.png"
+      },
+      "venue": "Estadio Caliente"
     },
     {
       "id": 1576170,
@@ -3120,7 +3120,7 @@
     },
     {
       "id": 1550962,
-      "startsAt": "2026-09-12T23:00:00+00:00",
+      "startsAt": "2026-09-12T23:05:00+00:00",
       "status": "scheduled",
       "league": {
         "id": 262,
