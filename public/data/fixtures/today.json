@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T18:28:11.567Z",
+  "updatedAt": "2026-09-11T22:33:40.251Z",
   "fixtures": [
     {
       "id": 1520868,
@@ -165,8 +165,8 @@
     {
       "id": 1583992,
       "startsAt": "2026-09-11T17:00:00+00:00",
-      "status": "live",
-      "elapsed": 69,
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 80,
         "name": "3. Liga",
@@ -192,8 +192,8 @@
     {
       "id": 1601527,
       "startsAt": "2026-09-11T17:00:00+00:00",
-      "status": "live",
-      "elapsed": 67,
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -212,14 +212,15 @@
       },
       "score": {
         "home": 0,
-        "away": 0
+        "away": 1
       },
       "venue": "Stadio Carlo Castellani"
     },
     {
       "id": 1575164,
       "startsAt": "2026-09-11T18:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 78,
         "name": "Bundesliga",
@@ -235,12 +236,17 @@
         "id": 174,
         "name": "FC Schalke 04",
         "logo": "data/media/teams/174.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 3
       }
     },
     {
       "id": 1550126,
       "startsAt": "2026-09-11T18:45:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 135,
         "name": "Serie A",
@@ -257,12 +263,17 @@
         "name": "Fiorentina",
         "logo": "data/media/teams/502.png"
       },
+      "score": {
+        "home": 2,
+        "away": 4
+      },
       "venue": "Stadio Pierluigi Penzo"
     },
     {
       "id": 1552763,
       "startsAt": "2026-09-11T18:45:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 61,
         "name": "Ligue 1",
@@ -279,12 +290,17 @@
         "name": "Marseille",
         "logo": "data/media/teams/81.png"
       },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
       "venue": "Roazhon Park"
     },
     {
       "id": 1585209,
       "startsAt": "2026-09-11T18:45:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 43,
         "name": "National League",
@@ -301,12 +317,17 @@
         "name": "Hartlepool",
         "logo": "data/media/teams/1366.png"
       },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
       "venue": "Aggborough Stadium"
     },
     {
       "id": 1563166,
       "startsAt": "2026-09-11T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -323,12 +344,17 @@
         "name": "Wrexham",
         "logo": "data/media/teams/1837.png"
       },
+      "score": {
+        "home": 6,
+        "away": 0
+      },
       "venue": "London Stadium"
     },
     {
       "id": 1570381,
       "startsAt": "2026-09-11T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 140,
         "name": "La Liga",
@@ -344,12 +370,17 @@
         "id": 532,
         "name": "Valencia",
         "logo": "data/media/teams/532.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
       }
     },
     {
       "id": 1601524,
       "startsAt": "2026-09-11T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -366,12 +397,17 @@
         "name": "Hellas Verona",
         "logo": "data/media/teams/504.png"
       },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
       "venue": "Stadio Ciro Vigorito"
     },
     {
       "id": 1601531,
       "startsAt": "2026-09-11T19:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -388,12 +424,17 @@
         "name": "Virtus Entella",
         "logo": "data/media/teams/527.png"
       },
+      "score": {
+        "home": 1,
+        "away": 4
+      },
       "venue": "Arena Garibaldi - Stadio Romeo Anconetani"
     },
     {
       "id": 1493133,
       "startsAt": "2026-09-11T20:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 128,
         "name": "Liga Profesional Argentina",
@@ -410,12 +451,17 @@
         "name": "Velez Sarsfield",
         "logo": "data/media/teams/438.png"
       },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
       "venue": "Estadio Marcelo Bielsa"
     },
     {
       "id": 1493126,
       "startsAt": "2026-09-11T22:15:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 20,
       "league": {
         "id": 128,
         "name": "Liga Profesional Argentina",
@@ -431,6 +477,10 @@
         "id": 1066,
         "name": "Gimnasia M.",
         "logo": "data/media/teams/1066.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
       },
       "venue": "Estadio Norberto Tito Tomaghello"
     }
