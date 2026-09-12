@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "updatedAt": "2026-09-12T13:37:15.774Z",
   "fixtures": [
     {
       "id": 1492374,
@@ -138,7 +138,8 @@
     {
       "id": 1576170,
       "startsAt": "2026-09-12T11:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 79,
         "name": "2. Bundesliga",
@@ -155,12 +156,17 @@
         "name": "SpVgg Greuther Fürth",
         "logo": "data/media/teams/178.png"
       },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
       "venue": "Vonovia Ruhrstadion"
     },
     {
       "id": 1576171,
       "startsAt": "2026-09-12T11:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 79,
         "name": "2. Bundesliga",
@@ -177,12 +183,17 @@
         "name": "Dynamo Dresden",
         "logo": "data/media/teams/183.png"
       },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
       "venue": "Eintracht-Stadion"
     },
     {
       "id": 1576175,
       "startsAt": "2026-09-12T11:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 79,
         "name": "2. Bundesliga",
@@ -199,12 +210,17 @@
         "name": "1. FC Kaiserslautern",
         "logo": "data/media/teams/745.png"
       },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
       "venue": "Avnet-Arena"
     },
     {
       "id": 1563156,
       "startsAt": "2026-09-12T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -221,12 +237,17 @@
         "name": "Cardiff",
         "logo": "data/media/teams/43.png"
       },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
       "venue": "Toughsheet Community Stadium"
     },
     {
       "id": 1563158,
       "startsAt": "2026-09-12T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -243,12 +264,17 @@
         "name": "Birmingham",
         "logo": "data/media/teams/54.png"
       },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
       "venue": "Pride Park"
     },
     {
       "id": 1563165,
       "startsAt": "2026-09-12T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 40,
         "name": "Championship",
@@ -265,12 +291,17 @@
         "name": "QPR",
         "logo": "data/media/teams/72.png"
       },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
       "venue": "The Hawthorns"
     },
     {
       "id": 1563745,
       "startsAt": "2026-09-12T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 42,
         "name": "League Two",
@@ -287,12 +318,17 @@
         "name": "Cheltenham",
         "logo": "data/media/teams/1372.png"
       },
+      "score": {
+        "home": 1,
+        "away": 3
+      },
       "venue": "The Broadfield Stadium"
     },
     {
       "id": 1563747,
       "startsAt": "2026-09-12T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 42,
         "name": "League Two",
@@ -309,12 +345,17 @@
         "name": "Bristol Rovers",
         "logo": "data/media/teams/1334.png"
       },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
       "venue": "Blundell Park"
     },
     {
       "id": 1564298,
       "startsAt": "2026-09-12T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 41,
         "name": "League One",
@@ -331,12 +372,17 @@
         "name": "Wycombe",
         "logo": "data/media/teams/1358.png"
       },
+      "score": {
+        "home": 2,
+        "away": 3
+      },
       "venue": "Brisbane Road"
     },
     {
       "id": 1564301,
       "startsAt": "2026-09-12T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 41,
         "name": "League One",
@@ -353,12 +399,17 @@
         "name": "Bradford",
         "logo": "data/media/teams/1343.png"
       },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
       "venue": "Meadow Lane"
     },
     {
       "id": 1585210,
       "startsAt": "2026-09-12T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 43,
         "name": "National League",
@@ -375,12 +426,17 @@
         "name": "Tamworth",
         "logo": "data/media/teams/7752.png"
       },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
       "venue": "Exercise Stadium"
     },
     {
       "id": 1585211,
       "startsAt": "2026-09-12T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
+      "elapsed": 90,
       "league": {
         "id": 43,
         "name": "National League",
@@ -397,12 +453,17 @@
         "name": "Barrow",
         "logo": "data/media/teams/1819.png"
       },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
       "venue": "Sussex Transport Community Stadium"
     },
     {
       "id": 1570378,
       "startsAt": "2026-09-12T12:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 79,
       "league": {
         "id": 140,
         "name": "La Liga",
@@ -419,12 +480,17 @@
         "name": "Alaves",
         "logo": "data/media/teams/542.png"
       },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
       "venue": "Estadio El Sardinero"
     },
     {
       "id": 1583985,
       "startsAt": "2026-09-12T12:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 77,
       "league": {
         "id": 80,
         "name": "3. Liga",
@@ -441,12 +507,17 @@
         "name": "MSV Duisburg",
         "logo": "data/media/teams/187.png"
       },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
       "venue": "Merkur Spiel-Arena"
     },
     {
       "id": 1583987,
       "startsAt": "2026-09-12T12:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 75,
       "league": {
         "id": 80,
         "name": "3. Liga",
@@ -463,12 +534,17 @@
         "name": "Würzburger Kickers",
         "logo": "data/media/teams/784.png"
       },
+      "score": {
+        "home": 3,
+        "away": 2
+      },
       "venue": "Stadion an der Hafenstrasse"
     },
     {
       "id": 1583988,
       "startsAt": "2026-09-12T12:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 78,
       "league": {
         "id": 80,
         "name": "3. Liga",
@@ -485,12 +561,17 @@
         "name": "FC Ingolstadt 04",
         "logo": "data/media/teams/184.png"
       },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
       "venue": "Ludwigspark Stadion"
     },
     {
       "id": 1583990,
       "startsAt": "2026-09-12T12:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 79,
       "league": {
         "id": 80,
         "name": "3. Liga",
@@ -506,12 +587,17 @@
         "id": 1317,
         "name": "SG Sonnenhof Grossaspach",
         "logo": "data/media/teams/1317.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
       }
     },
     {
       "id": 1583991,
       "startsAt": "2026-09-12T12:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 78,
       "league": {
         "id": 80,
         "name": "3. Liga",
@@ -528,12 +614,17 @@
         "name": "SV Meppen",
         "logo": "data/media/teams/1318.png"
       },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
       "venue": "Sportclub Arena"
     },
     {
       "id": 1550119,
       "startsAt": "2026-09-12T13:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 29,
       "league": {
         "id": 135,
         "name": "Serie A",
@@ -550,12 +641,17 @@
         "name": "Frosinone",
         "logo": "data/media/teams/512.png"
       },
-      "venue": "Stadio Luigi Ferraris"
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "venue": "Luigi Ferraris"
     },
     {
       "id": 1601528,
       "startsAt": "2026-09-12T13:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 36,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -572,12 +668,17 @@
         "name": "Juve Stabia",
         "logo": "data/media/teams/863.png"
       },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
       "venue": "Stadio Romeo Menti"
     },
     {
       "id": 1601530,
       "startsAt": "2026-09-12T13:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 34,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -594,12 +695,17 @@
         "name": "Ascoli",
         "logo": "data/media/teams/507.png"
       },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
       "venue": "Stadio Euganeo"
     },
     {
       "id": 1601532,
       "startsAt": "2026-09-12T13:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 35,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -616,12 +722,17 @@
         "name": "Modena",
         "logo": "data/media/teams/899.png"
       },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
       "venue": "Stadio Marco Druso"
     },
     {
       "id": 1575158,
       "startsAt": "2026-09-12T13:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 7,
       "league": {
         "id": 78,
         "name": "Bundesliga",
@@ -638,12 +749,17 @@
         "name": "SC Paderborn 07",
         "logo": "data/media/teams/185.png"
       },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
       "venue": "Signal Iduna Park"
     },
     {
       "id": 1575160,
       "startsAt": "2026-09-12T13:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 7,
       "league": {
         "id": 78,
         "name": "Bundesliga",
@@ -660,12 +776,17 @@
         "name": "VfB Stuttgart",
         "logo": "data/media/teams/172.png"
       },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
       "venue": "SNP Arena"
     },
     {
       "id": 1575161,
       "startsAt": "2026-09-12T13:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 7,
       "league": {
         "id": 78,
         "name": "Bundesliga",
@@ -682,12 +803,17 @@
         "name": "Borussia Mönchengladbach",
         "logo": "data/media/teams/163.png"
       },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
       "venue": "Europa-Park Stadion"
     },
     {
       "id": 1575162,
       "startsAt": "2026-09-12T13:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 7,
       "league": {
         "id": 78,
         "name": "Bundesliga",
@@ -704,12 +830,17 @@
         "name": "Bayer Leverkusen",
         "logo": "data/media/teams/168.png"
       },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
       "venue": "WWK Arena"
     },
     {
       "id": 1575163,
       "startsAt": "2026-09-12T13:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
+      "elapsed": 7,
       "league": {
         "id": 78,
         "name": "Bundesliga",
@@ -725,6 +856,10 @@
         "id": 169,
         "name": "Eintracht Frankfurt",
         "logo": "data/media/teams/169.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
       },
       "venue": "Mewa Arena"
     },
