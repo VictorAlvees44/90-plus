@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 5995,
+    "name": "N. de la Cruz",
+    "age": 28,
+    "number": 18,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/5995.png"
+  },
+  "team": {
+    "id": 127,
+    "name": "Flamengo",
+    "logo": "https://media.api-sports.io/football/teams/127.png",
+    "country": "Brazil",
+    "founded": 1895,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 449151,
+    "name": "Y. Vásquez",
+    "age": 19,
+    "number": 52,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/449151.png"
+  },
+  "team": {
+    "id": 1153,
+    "name": "Independiente del Valle",
+    "logo": "https://media.api-sports.io/football/teams/1153.png",
+    "country": "Ecuador",
+    "founded": 1958,
+    "national": false
+  }
+}

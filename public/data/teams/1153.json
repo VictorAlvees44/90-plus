@@ -1,0 +1,259 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "team": {
+    "id": 1153,
+    "name": "Independiente del Valle",
+    "logo": "https://media.api-sports.io/football/teams/1153.png",
+    "country": "Ecuador",
+    "founded": 1958,
+    "national": false
+  },
+  "venue": {
+    "name": "Estadio Banco Guayaquil",
+    "city": "Quito",
+    "capacity": 12600,
+    "image": "https://media.api-sports.io/football/venues/18580.png"
+  },
+  "squad": [
+    {
+      "id": 642742,
+      "name": "M. Peralta",
+      "age": 17,
+      "number": 70,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/642742.png"
+    },
+    {
+      "id": 13235,
+      "name": "A. Quintana",
+      "age": 31,
+      "number": 1,
+      "position": "Goalkeeper",
+      "photo": "https://media.api-sports.io/football/players/13235.png"
+    },
+    {
+      "id": 5196,
+      "name": "M. Carabajal",
+      "age": 28,
+      "number": 14,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/5196.png"
+    },
+    {
+      "id": 16389,
+      "name": "G. Cortéz",
+      "age": 28,
+      "number": 15,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/16389.png"
+    },
+    {
+      "id": 16528,
+      "name": "J. Espinoza",
+      "age": 26,
+      "number": 4,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/16528.png"
+    },
+    {
+      "id": 449150,
+      "name": "A. Gómez",
+      "age": 19,
+      "number": 20,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/449150.png"
+    },
+    {
+      "id": 354318,
+      "name": "L. Loor",
+      "age": 24,
+      "number": 19,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/354318.png"
+    },
+    {
+      "id": 647018,
+      "name": "Deinner Ordóñez",
+      "age": 16,
+      "number": 51,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/647018.png"
+    },
+    {
+      "id": 278174,
+      "name": "Daykol Alejandro Romero Padilla",
+      "age": 24,
+      "number": 13,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/278174.png"
+    },
+    {
+      "id": 16359,
+      "name": "R. Schunke",
+      "age": 34,
+      "number": 5,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/16359.png"
+    },
+    {
+      "id": 278364,
+      "name": "L. Zárate",
+      "age": 25,
+      "number": 2,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/278364.png"
+    },
+    {
+      "id": 16470,
+      "name": "J. Alcívar",
+      "age": 26,
+      "number": 6,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/16470.png"
+    },
+    {
+      "id": 322329,
+      "name": "J. Arroyo",
+      "age": 22,
+      "number": 77,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/322329.png"
+    },
+    {
+      "id": 184916,
+      "name": "R. Briones",
+      "age": 25,
+      "number": 16,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/184916.png"
+    },
+    {
+      "id": 582247,
+      "name": "S. Gongora",
+      "age": 22,
+      "number": 18,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/582247.png"
+    },
+    {
+      "id": 2581,
+      "name": "J. Méndez",
+      "age": 28,
+      "number": 32,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/2581.png"
+    },
+    {
+      "id": 321658,
+      "name": "P. Mercado",
+      "age": 22,
+      "number": 7,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/321658.png"
+    },
+    {
+      "id": 354955,
+      "name": "Y. Ochoa",
+      "age": 20,
+      "number": 8,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/354955.png"
+    },
+    {
+      "id": 353989,
+      "name": "Emerson Ivan Pata Rodríguez",
+      "age": 21,
+      "number": 31,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/353989.png"
+    },
+    {
+      "id": 70768,
+      "name": "H. Quintana",
+      "age": 24,
+      "number": 28,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/70768.png"
+    },
+    {
+      "id": 653980,
+      "name": "E. Quintero",
+      "age": 16,
+      "number": 56,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/653980.png"
+    },
+    {
+      "id": 653989,
+      "name": "H. Quintero",
+      "age": 16,
+      "number": 57,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/653989.png"
+    },
+    {
+      "id": 166967,
+      "name": "A. Rodríguez",
+      "age": 26,
+      "number": 17,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/166967.png"
+    },
+    {
+      "id": 10252,
+      "name": "J. Sornoza",
+      "age": 31,
+      "number": 10,
+      "position": "Midfielder",
+      "photo": "https://media.api-sports.io/football/players/10252.png"
+    },
+    {
+      "id": 311816,
+      "name": "Andy René Velasco García",
+      "age": 29,
+      "number": 33,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/311816.png"
+    },
+    {
+      "id": 101883,
+      "name": "J. Viacava",
+      "age": 26,
+      "number": 23,
+      "position": "Defender",
+      "photo": "https://media.api-sports.io/football/players/101883.png"
+    },
+    {
+      "id": 2518,
+      "name": "C. González",
+      "age": 32,
+      "number": 9,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/2518.png"
+    },
+    {
+      "id": 311347,
+      "name": "M. Perelló",
+      "age": 24,
+      "number": 11,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/311347.png"
+    },
+    {
+      "id": 16480,
+      "name": "D. Reasco",
+      "age": 26,
+      "number": 99,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/16480.png"
+    },
+    {
+      "id": 449151,
+      "name": "Y. Vásquez",
+      "age": 19,
+      "number": 52,
+      "position": "Attacker",
+      "photo": "https://media.api-sports.io/football/players/449151.png"
+    }
+  ]
+}

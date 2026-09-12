@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 101877,
+    "name": "M. Amondarain",
+    "age": 32,
+    "number": 4,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/101877.png"
+  },
+  "team": {
+    "id": 2562,
+    "name": "Cienciano",
+    "logo": "https://media.api-sports.io/football/teams/2562.png",
+    "country": "Peru",
+    "founded": 1901,
+    "national": false
+  }
+}

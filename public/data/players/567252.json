@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 567252,
+    "name": "Vinicius Ferrari",
+    "age": 22,
+    "number": 30,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/567252.png"
+  },
+  "team": {
+    "id": 139,
+    "name": "Ponte Preta",
+    "logo": "https://media.api-sports.io/football/teams/139.png",
+    "country": "Brazil",
+    "founded": 1900,
+    "national": false
+  }
+}

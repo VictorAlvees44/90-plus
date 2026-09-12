@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 95839,
+    "name": "A. Robles",
+    "age": 31,
+    "number": 29,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/95839.png"
+  },
+  "team": {
+    "id": 2562,
+    "name": "Cienciano",
+    "logo": "https://media.api-sports.io/football/teams/2562.png",
+    "country": "Peru",
+    "founded": 1901,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 122225,
+    "name": "J. Romagnoli",
+    "age": 29,
+    "number": 9,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/122225.png"
+  },
+  "team": {
+    "id": 2562,
+    "name": "Cienciano",
+    "logo": "https://media.api-sports.io/football/teams/2562.png",
+    "country": "Peru",
+    "founded": 1901,
+    "national": false
+  }
+}

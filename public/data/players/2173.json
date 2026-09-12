@@ -1,0 +1,153 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 2173,
+    "name": "C. de Pena",
+    "age": 33,
+    "number": 10,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/2173.png"
+  },
+  "team": {
+    "id": 123,
+    "name": "Sport Recife",
+    "logo": "https://media.api-sports.io/football/teams/123.png",
+    "country": "Brazil",
+    "founded": 1905,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2024-04-12",
+      "from": "Internacional",
+      "to": "Bahia",
+      "type": "N/A"
+    },
+    {
+      "date": "2022-04-01",
+      "from": "Dynamo Kyiv",
+      "to": "Internacional",
+      "type": "Free"
+    },
+    {
+      "date": "2019-04-10",
+      "from": "Club Nacional",
+      "to": "Dynamo Kyiv",
+      "type": "Free"
+    },
+    {
+      "date": "2017-01-31",
+      "from": "Middlesbrough",
+      "to": "Oviedo",
+      "type": "Loan"
+    },
+    {
+      "date": "2015-09-01",
+      "from": "Club Nacional",
+      "to": "Middlesbrough",
+      "type": "€ 2.3M"
+    },
+    {
+      "date": "2025-03-15",
+      "from": "Bahia",
+      "to": "Coritiba",
+      "type": "Free Transfer"
+    },
+    {
+      "date": "2025-03-11",
+      "from": "Bahia",
+      "to": "Coritiba",
+      "type": "Free agent"
+    },
+    {
+      "date": "2026-01-25",
+      "from": "Coritiba",
+      "to": "Sport Recife",
+      "type": "Free agent"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Serie A",
+      "season": "2022",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Premier League",
+      "season": "2020/2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Cup",
+      "season": "2020/2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Premier League",
+      "season": "2019/2020",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Cup",
+      "season": "2019/2020",
+      "place": "Winner"
+    },
+    {
+      "league": "Premier League",
+      "season": "2018/2019",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Liga AUF",
+      "season": "2018",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Super Copa",
+      "season": "2018",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Championship",
+      "season": "2015/2016",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Liga AUF",
+      "season": "2014/2015",
+      "place": "Winner"
+    },
+    {
+      "league": "Liga AUF",
+      "place": "Winner"
+    },
+    {
+      "league": "Liga AUF",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Championship",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Super Copa",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Premier League",
+      "place": "Winner"
+    },
+    {
+      "league": "Premier League",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Cup",
+      "place": "Winner"
+    },
+    {
+      "league": "Serie A",
+      "place": "2nd Place"
+    }
+  ]
+}

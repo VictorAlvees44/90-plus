@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 633698,
+    "name": "Gustavo Almeida",
+    "age": 20,
+    "number": 44,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/633698.png"
+  },
+  "team": {
+    "id": 139,
+    "name": "Ponte Preta",
+    "logo": "https://media.api-sports.io/football/teams/139.png",
+    "country": "Brazil",
+    "founded": 1900,
+    "national": false
+  }
+}

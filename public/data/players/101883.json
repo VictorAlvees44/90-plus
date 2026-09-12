@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 101883,
+    "name": "J. Viacava",
+    "age": 26,
+    "number": 23,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/101883.png"
+  },
+  "team": {
+    "id": 1153,
+    "name": "Independiente del Valle",
+    "logo": "https://media.api-sports.io/football/teams/1153.png",
+    "country": "Ecuador",
+    "founded": 1958,
+    "national": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 237706,
+    "name": "Chrystian Barletta",
+    "age": 24,
+    "number": 30,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/237706.png"
+  },
+  "team": {
+    "id": 123,
+    "name": "Sport Recife",
+    "logo": "https://media.api-sports.io/football/teams/123.png",
+    "country": "Brazil",
+    "founded": 1905,
+    "national": false
+  }
+}

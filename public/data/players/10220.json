@@ -1,0 +1,154 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 10220,
+    "name": "Perotti",
+    "age": 28,
+    "number": 9,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/10220.png"
+  },
+  "team": {
+    "id": 123,
+    "name": "Sport Recife",
+    "logo": "https://media.api-sports.io/football/teams/123.png",
+    "country": "Brazil",
+    "founded": 1905,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2024-01-11",
+      "from": "FC Tokyo",
+      "to": "Chapecoense-sc",
+      "type": "N/A"
+    },
+    {
+      "date": "2023-01-09",
+      "from": "Chapecoense-sc",
+      "to": "FC Tokyo",
+      "type": "Loan"
+    },
+    {
+      "date": "2020-08-01",
+      "from": "Nacional",
+      "to": "Chapecoense-sc",
+      "type": "N/A"
+    },
+    {
+      "date": "2019-07-01",
+      "from": "Chapecoense-sc",
+      "to": "Nacional",
+      "type": "Loan"
+    },
+    {
+      "date": "2025-01-28",
+      "from": "Chapecoense-sc",
+      "to": "Radomiak Radom",
+      "type": "Transfer"
+    },
+    {
+      "date": "2025-01-21",
+      "from": "Chapecoense-sc",
+      "to": "Radomiak Radom",
+      "type": "Free agent"
+    },
+    {
+      "date": "2025-06-10",
+      "from": "Radomiak Radom",
+      "to": "Chapecoense-sc",
+      "type": "Free Transfer"
+    },
+    {
+      "date": "2026-03-26",
+      "from": "Chapecoense-sc",
+      "to": "Sport Recife",
+      "type": "Loan"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Catarinense 1",
+      "season": "2021",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Recopa Catarinense",
+      "season": "2021",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Serie B",
+      "season": "2020/2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Catarinense 1",
+      "season": "2020",
+      "place": "Winner"
+    },
+    {
+      "league": "Catarinense 1",
+      "season": "2019",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Catarinense 1",
+      "season": "2018",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Catarinense 1",
+      "season": "2017",
+      "place": "Winner"
+    },
+    {
+      "league": "Trofeo Joan Gamper",
+      "season": "2017",
+      "place": "2nd Place"
+    },
+    {
+      "league": "CONMEBOL Recopa",
+      "season": "2017",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Catarinense 1",
+      "season": "2016",
+      "place": "Winner"
+    },
+    {
+      "league": "CONMEBOL Sudamericana",
+      "season": "2016",
+      "place": "Winner"
+    },
+    {
+      "league": "Catarinense 1",
+      "place": "Winner"
+    },
+    {
+      "league": "Catarinense 1",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Trofeo Joan Gamper",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Serie B",
+      "place": "Winner"
+    },
+    {
+      "league": "Recopa Catarinense",
+      "place": "2nd Place"
+    },
+    {
+      "league": "CONMEBOL Sudamericana",
+      "place": "Winner"
+    },
+    {
+      "league": "CONMEBOL Recopa",
+      "place": "2nd Place"
+    }
+  ]
+}

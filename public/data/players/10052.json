@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 10052,
+    "name": "Marcelo Benevenuto",
+    "age": 29,
+    "number": 5,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/10052.png"
+  },
+  "team": {
+    "id": 123,
+    "name": "Sport Recife",
+    "logo": "https://media.api-sports.io/football/teams/123.png",
+    "country": "Brazil",
+    "founded": 1905,
+    "national": false
+  }
+}

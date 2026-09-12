@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 618,
+    "name": "Danilo",
+    "age": 35,
+    "number": 13,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/618.png"
+  },
+  "team": {
+    "id": 127,
+    "name": "Flamengo",
+    "logo": "https://media.api-sports.io/football/teams/127.png",
+    "country": "Brazil",
+    "founded": 1895,
+    "national": false
+  }
+}

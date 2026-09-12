@@ -1,0 +1,173 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 195109,
+    "name": "Patrick de Paula",
+    "age": 26,
+    "number": 7,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/195109.png"
+  },
+  "team": {
+    "id": 123,
+    "name": "Sport Recife",
+    "logo": "https://media.api-sports.io/football/teams/123.png",
+    "country": "Brazil",
+    "founded": 1905,
+    "national": false
+  },
+  "transfers": [
+    {
+      "date": "2024-08-20",
+      "from": "Botafogo",
+      "to": "Criciuma",
+      "type": "Loan"
+    },
+    {
+      "date": "2022-04-01",
+      "from": "Palmeiras",
+      "to": "Botafogo",
+      "type": "N/A"
+    },
+    {
+      "date": "2025-01-01",
+      "from": "Criciuma",
+      "to": "Botafogo",
+      "type": "Back from Loan"
+    },
+    {
+      "date": "2025-07-29",
+      "from": "Botafogo",
+      "to": "Estoril",
+      "type": "Loan"
+    },
+    {
+      "date": "2026-01-02",
+      "from": "Botafogo",
+      "to": "Remo",
+      "type": "Loan"
+    },
+    {
+      "date": "2025-07-27",
+      "from": "Botafogo",
+      "to": "Estoril",
+      "type": "Loan"
+    },
+    {
+      "date": "2025-12-30",
+      "from": "Estoril",
+      "to": "Botafogo",
+      "type": "Return from loan"
+    },
+    {
+      "date": "2026-08-06",
+      "from": "Remo",
+      "to": "Botafogo",
+      "type": "Return from loan"
+    },
+    {
+      "date": "2026-08-23",
+      "from": "Botafogo",
+      "to": "Sport Recife",
+      "type": "Free agent"
+    }
+  ],
+  "trophies": [
+    {
+      "league": "Supercopa do Brasil",
+      "season": "2025",
+      "place": "2nd Place"
+    },
+    {
+      "league": "CONMEBOL Recopa",
+      "season": "2025",
+      "place": "2nd Place"
+    },
+    {
+      "league": "CONMEBOL Recopa",
+      "season": "2022",
+      "place": "Winner"
+    },
+    {
+      "league": "FIFA Intercontinental Cup",
+      "season": "2022",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Paulista A1",
+      "season": "2021",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Supercopa do Brasil",
+      "season": "2021",
+      "place": "2nd Place"
+    },
+    {
+      "league": "CONMEBOL Libertadores",
+      "season": "2021",
+      "place": "Winner"
+    },
+    {
+      "league": "CONMEBOL Recopa",
+      "season": "2021",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa do Brasil",
+      "season": "2020/2021",
+      "place": "Winner"
+    },
+    {
+      "league": "CONMEBOL Libertadores",
+      "season": "2020/2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Paulista A1",
+      "season": "2020",
+      "place": "Winner"
+    },
+    {
+      "league": "Florida Cup",
+      "season": "2020",
+      "place": "Winner"
+    },
+    {
+      "league": "Paulista A1",
+      "place": "Winner"
+    },
+    {
+      "league": "Paulista A1",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Copa do Brasil",
+      "place": "Winner"
+    },
+    {
+      "league": "Supercopa do Brasil",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Florida Cup",
+      "place": "Winner"
+    },
+    {
+      "league": "CONMEBOL Libertadores",
+      "place": "Winner"
+    },
+    {
+      "league": "CONMEBOL Recopa",
+      "place": "Winner"
+    },
+    {
+      "league": "CONMEBOL Recopa",
+      "place": "2nd Place"
+    },
+    {
+      "league": "FIFA Intercontinental Cup",
+      "place": "2nd Place"
+    }
+  ]
+}

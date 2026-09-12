@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 510588,
+    "name": "S. Zampiero",
+    "age": 18,
+    "number": 14,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/510588.png"
+  },
+  "team": {
+    "id": 2365,
+    "name": "Atletico Torque",
+    "logo": "https://media.api-sports.io/football/teams/2365.png",
+    "country": "Uruguay",
+    "founded": 2007,
+    "national": false
+  }
+}

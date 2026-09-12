@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 554568,
+    "name": "Miguel",
+    "age": 20,
+    "number": 17,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/554568.png"
+  },
+  "team": {
+    "id": 139,
+    "name": "Ponte Preta",
+    "logo": "https://media.api-sports.io/football/teams/139.png",
+    "country": "Brazil",
+    "founded": 1900,
+    "national": false
+  }
+}

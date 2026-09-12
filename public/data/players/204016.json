@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 204016,
+    "name": "André Lima",
+    "age": 25,
+    "number": 8,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/204016.png"
+  },
+  "team": {
+    "id": 139,
+    "name": "Ponte Preta",
+    "logo": "https://media.api-sports.io/football/teams/139.png",
+    "country": "Brazil",
+    "founded": 1900,
+    "national": false
+  }
+}

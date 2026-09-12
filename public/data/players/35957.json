@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 35957,
+    "name": "R. Sandoval",
+    "age": 30,
+    "number": 17,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/35957.png"
+  },
+  "team": {
+    "id": 2562,
+    "name": "Cienciano",
+    "logo": "https://media.api-sports.io/football/teams/2562.png",
+    "country": "Peru",
+    "founded": 1901,
+    "national": false
+  }
+}

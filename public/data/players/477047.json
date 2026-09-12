@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 477047,
+    "name": "Gabriel",
+    "age": 19,
+    "number": 67,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/477047.png"
+  },
+  "team": {
+    "id": 123,
+    "name": "Sport Recife",
+    "logo": "https://media.api-sports.io/football/teams/123.png",
+    "country": "Brazil",
+    "founded": 1905,
+    "national": false
+  }
+}

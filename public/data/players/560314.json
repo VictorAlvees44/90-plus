@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 560314,
+    "name": "J. Freitas",
+    "age": 18,
+    "number": 30,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/560314.png"
+  },
+  "team": {
+    "id": 127,
+    "name": "Flamengo",
+    "logo": "https://media.api-sports.io/football/teams/127.png",
+    "country": "Brazil",
+    "founded": 1895,
+    "national": false
+  }
+}

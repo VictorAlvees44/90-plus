@@ -1,144 +1,9 @@
 {
-  "updatedAt": "2026-09-11T22:33:40.251Z",
+  "updatedAt": "2026-09-12T07:19:44.348Z",
   "fixtures": [
     {
-      "id": 1490455,
-      "startsAt": "2026-09-10T00:00:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 253,
-        "name": "Major League Soccer",
-        "logo": "https://media.api-sports.io/football/leagues/253.png",
-        "country": "USA"
-      },
-      "home": {
-        "id": 1604,
-        "name": "New York City FC",
-        "logo": "data/media/teams/1604.png"
-      },
-      "away": {
-        "id": 1609,
-        "name": "New England Revolution",
-        "logo": "data/media/teams/1609.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "venue": "Citi Field"
-    },
-    {
-      "id": 1490457,
-      "startsAt": "2026-09-10T00:30:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 253,
-        "name": "Major League Soccer",
-        "logo": "https://media.api-sports.io/football/leagues/253.png",
-        "country": "USA"
-      },
-      "home": {
-        "id": 1607,
-        "name": "Chicago Fire",
-        "logo": "data/media/teams/1607.png"
-      },
-      "away": {
-        "id": 9568,
-        "name": "Inter Miami",
-        "logo": "data/media/teams/9568.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "venue": "Soldier Field"
-    },
-    {
-      "id": 1490458,
-      "startsAt": "2026-09-10T00:30:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 253,
-        "name": "Major League Soccer",
-        "logo": "https://media.api-sports.io/football/leagues/253.png",
-        "country": "USA"
-      },
-      "home": {
-        "id": 1612,
-        "name": "Minnesota United FC",
-        "logo": "data/media/teams/1612.png"
-      },
-      "away": {
-        "id": 1597,
-        "name": "FC Dallas",
-        "logo": "data/media/teams/1597.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "venue": "Allianz Field"
-    },
-    {
-      "id": 1490459,
-      "startsAt": "2026-09-10T00:30:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 253,
-        "name": "Major League Soccer",
-        "logo": "https://media.api-sports.io/football/leagues/253.png",
-        "country": "USA"
-      },
-      "home": {
-        "id": 16489,
-        "name": "Austin",
-        "logo": "data/media/teams/16489.png"
-      },
-      "away": {
-        "id": 1610,
-        "name": "Colorado Rapids",
-        "logo": "data/media/teams/1610.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "venue": "Q2 Stadium"
-    },
-    {
-      "id": 1490460,
-      "startsAt": "2026-09-10T00:30:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 253,
-        "name": "Major League Soccer",
-        "logo": "https://media.api-sports.io/football/leagues/253.png",
-        "country": "USA"
-      },
-      "home": {
-        "id": 1600,
-        "name": "Houston Dynamo",
-        "logo": "data/media/teams/1600.png"
-      },
-      "away": {
-        "id": 1606,
-        "name": "Real Salt Lake",
-        "logo": "data/media/teams/1606.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "venue": "Shell Energy Stadium"
-    },
-    {
-      "id": 1520861,
-      "startsAt": "2026-09-10T00:30:00+00:00",
+      "id": 1520868,
+      "startsAt": "2026-09-11T00:30:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
@@ -148,23 +13,51 @@
         "country": "Brazil"
       },
       "home": {
-        "id": 144,
-        "name": "Atletico Goianiense",
-        "logo": "data/media/teams/144.png"
+        "id": 123,
+        "name": "Sport Recife",
+        "logo": "data/media/teams/123.png"
       },
       "away": {
-        "id": 129,
-        "name": "Ceara",
-        "logo": "data/media/teams/129.png"
+        "id": 139,
+        "name": "Ponte Preta",
+        "logo": "data/media/teams/139.png"
       },
       "score": {
         "home": 2,
-        "away": 1
-      }
+        "away": 0
+      },
+      "venue": "Estadio Adelmar da Costa Carvalho"
     },
     {
-      "id": 1631506,
-      "startsAt": "2026-09-10T00:30:00+00:00",
+      "id": 1631511,
+      "startsAt": "2026-09-11T00:30:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 11,
+        "name": "CONMEBOL Sudamericana",
+        "logo": "https://media.api-sports.io/football/leagues/11.png",
+        "country": "World"
+      },
+      "home": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "data/media/teams/2562.png"
+      },
+      "away": {
+        "id": 2365,
+        "name": "Atletico Torque",
+        "logo": "data/media/teams/2365.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "venue": "Estadio Inca Garcilaso de la Vega"
+    },
+    {
+      "id": 1635386,
+      "startsAt": "2026-09-11T00:30:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
@@ -174,370 +67,422 @@
         "country": "World"
       },
       "home": {
-        "id": 450,
-        "name": "Estudiantes L.P.",
-        "logo": "data/media/teams/450.png"
+        "id": 1153,
+        "name": "Independiente del Valle",
+        "logo": "data/media/teams/1153.png"
       },
       "away": {
-        "id": 131,
-        "name": "Corinthians",
-        "logo": "data/media/teams/131.png"
+        "id": 127,
+        "name": "Flamengo",
+        "logo": "data/media/teams/127.png"
       },
       "score": {
-        "home": 1,
-        "away": 1
+        "home": 0,
+        "away": 2
       },
-      "venue": "Estadio Ciudad de La Plata"
+      "venue": "Estadio Banco Guayaquil"
     },
     {
-      "id": 1490461,
-      "startsAt": "2026-09-10T02:30:00+00:00",
+      "id": 1550955,
+      "startsAt": "2026-09-11T03:05:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
-        "id": 253,
-        "name": "Major League Soccer",
-        "logo": "https://media.api-sports.io/football/leagues/253.png",
-        "country": "USA"
+        "id": 262,
+        "name": "Liga MX",
+        "logo": "https://media.api-sports.io/football/leagues/262.png",
+        "country": "Mexico"
       },
       "home": {
-        "id": 1616,
-        "name": "Los Angeles FC",
-        "logo": "data/media/teams/1616.png"
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "data/media/teams/2286.png"
       },
       "away": {
-        "id": 1602,
-        "name": "New York Red Bulls",
-        "logo": "data/media/teams/1602.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 0
-      },
-      "venue": "BMO Stadium"
-    },
-    {
-      "id": 1490462,
-      "startsAt": "2026-09-10T02:30:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 253,
-        "name": "Major League Soccer",
-        "logo": "https://media.api-sports.io/football/leagues/253.png",
-        "country": "USA"
-      },
-      "home": {
-        "id": 1603,
-        "name": "Vancouver Whitecaps",
-        "logo": "data/media/teams/1603.png"
-      },
-      "away": {
-        "id": 1605,
-        "name": "Los Angeles Galaxy",
-        "logo": "data/media/teams/1605.png"
+        "id": 2289,
+        "name": "Leon",
+        "logo": "data/media/teams/2289.png"
       },
       "score": {
         "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": 1576172,
+      "startsAt": "2026-09-11T16:30:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 79,
+        "name": "2. Bundesliga",
+        "logo": "https://media.api-sports.io/football/leagues/79.png",
+        "country": "Germany"
+      },
+      "home": {
+        "id": 181,
+        "name": "SV Darmstadt 98",
+        "logo": "data/media/teams/181.png"
+      },
+      "away": {
+        "id": 188,
+        "name": "Arminia Bielefeld",
+        "logo": "data/media/teams/188.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "venue": "Merck-Stadion am Bollenfalltor"
+    },
+    {
+      "id": 1576176,
+      "startsAt": "2026-09-11T16:30:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 79,
+        "name": "2. Bundesliga",
+        "logo": "https://media.api-sports.io/football/leagues/79.png",
+        "country": "Germany"
+      },
+      "home": {
+        "id": 171,
+        "name": "1. FC Nürnberg",
+        "logo": "data/media/teams/171.png"
+      },
+      "away": {
+        "id": 166,
+        "name": "Hannover 96",
+        "logo": "data/media/teams/166.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "venue": "Max-Morlock-Stadion"
+    },
+    {
+      "id": 1583992,
+      "startsAt": "2026-09-11T17:00:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 80,
+        "name": "3. Liga",
+        "logo": "https://media.api-sports.io/football/leagues/80.png",
+        "country": "Germany"
+      },
+      "home": {
+        "id": 1620,
+        "name": "FC Viktoria Köln",
+        "logo": "data/media/teams/1620.png"
+      },
+      "away": {
+        "id": 1321,
+        "name": "Hansa Rostock",
+        "logo": "data/media/teams/1321.png"
+      },
+      "score": {
+        "home": 4,
         "away": 0
       },
-      "venue": "BC Place"
+      "venue": "Sportpark Hohenberg"
     },
     {
-      "id": 1490464,
-      "startsAt": "2026-09-10T02:30:00+00:00",
+      "id": 1601527,
+      "startsAt": "2026-09-11T17:00:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
-        "id": 253,
-        "name": "Major League Soccer",
-        "logo": "https://media.api-sports.io/football/leagues/253.png",
-        "country": "USA"
+        "id": 136,
+        "name": "Serie B",
+        "logo": "https://media.api-sports.io/football/leagues/136.png",
+        "country": "Italy"
       },
       "home": {
-        "id": 25484,
-        "name": "San Diego",
-        "logo": "data/media/teams/25484.png"
+        "id": 511,
+        "name": "Empoli",
+        "logo": "data/media/teams/511.png"
       },
       "away": {
-        "id": 1596,
-        "name": "San Jose Earthquakes",
-        "logo": "data/media/teams/1596.png"
+        "id": 876,
+        "name": "Arezzo",
+        "logo": "data/media/teams/876.png"
       },
       "score": {
-        "home": 2,
+        "home": 0,
+        "away": 1
+      },
+      "venue": "Stadio Carlo Castellani"
+    },
+    {
+      "id": 1575164,
+      "startsAt": "2026-09-11T18:30:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 78,
+        "name": "Bundesliga",
+        "logo": "https://media.api-sports.io/football/leagues/78.png",
+        "country": "Germany"
+      },
+      "home": {
+        "id": 182,
+        "name": "Union Berlin",
+        "logo": "data/media/teams/182.png"
+      },
+      "away": {
+        "id": 174,
+        "name": "FC Schalke 04",
+        "logo": "data/media/teams/174.png"
+      },
+      "score": {
+        "home": 1,
         "away": 3
-      },
-      "venue": "Snapdragon Stadium"
+      }
     },
     {
-      "id": 1490465,
-      "startsAt": "2026-09-10T02:30:00+00:00",
+      "id": 1550126,
+      "startsAt": "2026-09-11T18:45:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
-        "id": 253,
-        "name": "Major League Soccer",
-        "logo": "https://media.api-sports.io/football/leagues/253.png",
-        "country": "USA"
+        "id": 135,
+        "name": "Serie A",
+        "logo": "https://media.api-sports.io/football/leagues/135.png",
+        "country": "Italy"
       },
       "home": {
-        "id": 1617,
-        "name": "Portland Timbers",
-        "logo": "data/media/teams/1617.png"
+        "id": 517,
+        "name": "Venezia",
+        "logo": "data/media/teams/517.png"
       },
       "away": {
-        "id": 20787,
-        "name": "St. Louis City",
-        "logo": "data/media/teams/20787.png"
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "data/media/teams/502.png"
       },
       "score": {
         "home": 2,
-        "away": 2
+        "away": 4
       },
-      "venue": "Providence Park"
+      "venue": "Stadio Pierluigi Penzo"
     },
     {
-      "id": 1635659,
-      "startsAt": "2026-09-10T16:45:00+00:00",
+      "id": 1552763,
+      "startsAt": "2026-09-11T18:45:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "logo": "https://media.api-sports.io/football/leagues/2.png",
-        "country": "World"
+        "id": 61,
+        "name": "Ligue 1",
+        "logo": "https://media.api-sports.io/football/leagues/61.png",
+        "country": "France"
       },
       "home": {
-        "id": 611,
-        "name": "Fenerbahçe",
-        "logo": "data/media/teams/611.png"
+        "id": 94,
+        "name": "Rennes",
+        "logo": "data/media/teams/94.png"
       },
       "away": {
-        "id": 497,
-        "name": "AS Roma",
-        "logo": "data/media/teams/497.png"
+        "id": 81,
+        "name": "Marseille",
+        "logo": "data/media/teams/81.png"
       },
       "score": {
         "home": 1,
-        "away": 1
+        "away": 0
       },
-      "venue": "Chobani Stadium Fenerbahce Sukru Saracoglu"
+      "venue": "Roazhon Park"
     },
     {
-      "id": 1635708,
-      "startsAt": "2026-09-10T16:45:00+00:00",
+      "id": 1585209,
+      "startsAt": "2026-09-11T18:45:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "logo": "https://media.api-sports.io/football/leagues/2.png",
-        "country": "World"
-      },
-      "home": {
-        "id": 197,
-        "name": "PSV Eindhoven",
-        "logo": "data/media/teams/197.png"
-      },
-      "away": {
-        "id": 550,
-        "name": "Shakhtar Donetsk",
-        "logo": "data/media/teams/550.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "venue": "Philips Stadion"
-    },
-    {
-      "id": 1564305,
-      "startsAt": "2026-09-10T19:00:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 41,
-        "name": "League One",
-        "logo": "https://media.api-sports.io/football/leagues/41.png",
+        "id": 43,
+        "name": "National League",
+        "logo": "https://media.api-sports.io/football/leagues/43.png",
         "country": "England"
       },
       "home": {
-        "id": 1368,
-        "name": "Stevenage",
-        "logo": "data/media/teams/1368.png"
+        "id": 4695,
+        "name": "Kidderminster Harriers",
+        "logo": "data/media/teams/4695.png"
       },
       "away": {
-        "id": 1359,
-        "name": "Luton",
-        "logo": "data/media/teams/1359.png"
+        "id": 1366,
+        "name": "Hartlepool",
+        "logo": "data/media/teams/1366.png"
       },
       "score": {
         "home": 2,
-        "away": 1
-      },
-      "venue": "SPORTA Arena"
-    },
-    {
-      "id": 1635632,
-      "startsAt": "2026-09-10T19:00:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "logo": "https://media.api-sports.io/football/leagues/2.png",
-        "country": "World"
-      },
-      "home": {
-        "id": 157,
-        "name": "Bayern München",
-        "logo": "data/media/teams/157.png"
-      },
-      "away": {
-        "id": 327,
-        "name": "Bodo/Glimt",
-        "logo": "data/media/teams/327.png"
-      },
-      "score": {
-        "home": 5,
         "away": 0
       },
-      "venue": "Allianz Arena"
+      "venue": "Aggborough Stadium"
     },
     {
-      "id": 1635648,
-      "startsAt": "2026-09-10T19:00:00+00:00",
+      "id": 1563166,
+      "startsAt": "2026-09-11T19:00:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "logo": "https://media.api-sports.io/football/leagues/2.png",
-        "country": "World"
+        "id": 40,
+        "name": "Championship",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "country": "England"
       },
       "home": {
-        "id": 895,
-        "name": "Como",
-        "logo": "data/media/teams/895.png"
+        "id": 48,
+        "name": "West Ham",
+        "logo": "data/media/teams/48.png"
       },
       "away": {
-        "id": 173,
-        "name": "RB Leipzig",
-        "logo": "data/media/teams/173.png"
+        "id": 1837,
+        "name": "Wrexham",
+        "logo": "data/media/teams/1837.png"
       },
       "score": {
-        "home": 4,
-        "away": 1
-      },
-      "venue": "Stadio Giuseppe Sinigaglia"
-    },
-    {
-      "id": 1635697,
-      "startsAt": "2026-09-10T19:00:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "logo": "https://media.api-sports.io/football/leagues/2.png",
-        "country": "World"
-      },
-      "home": {
-        "id": 33,
-        "name": "Manchester United",
-        "logo": "data/media/teams/33.png"
-      },
-      "away": {
-        "id": 13976,
-        "name": "Sabah FA",
-        "logo": "data/media/teams/13976.png"
-      },
-      "score": {
-        "home": 4,
+        "home": 6,
         "away": 0
       },
-      "venue": "Old Trafford"
+      "venue": "London Stadium"
     },
     {
-      "id": 1635729,
-      "startsAt": "2026-09-10T19:00:00+00:00",
+      "id": 1570381,
+      "startsAt": "2026-09-11T19:00:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "logo": "https://media.api-sports.io/football/leagues/2.png",
-        "country": "World"
+        "id": 140,
+        "name": "La Liga",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "country": "Spain"
       },
       "home": {
-        "id": 560,
-        "name": "Slavia Praha",
-        "logo": "data/media/teams/560.png"
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "data/media/teams/536.png"
       },
       "away": {
-        "id": 116,
-        "name": "Lens",
-        "logo": "data/media/teams/116.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 3
-      },
-      "venue": "Fortuna Arena"
-    },
-    {
-      "id": 1520867,
-      "startsAt": "2026-09-10T22:30:00+00:00",
-      "status": "finished",
-      "elapsed": 90,
-      "league": {
-        "id": 72,
-        "name": "Serie B",
-        "logo": "https://media.api-sports.io/football/leagues/72.png",
-        "country": "Brazil"
-      },
-      "home": {
-        "id": 7865,
-        "name": "São Bernardo",
-        "logo": "data/media/teams/7865.png"
-      },
-      "away": {
-        "id": 148,
-        "name": "Londrina",
-        "logo": "data/media/teams/148.png"
+        "id": 532,
+        "name": "Valencia",
+        "logo": "data/media/teams/532.png"
       },
       "score": {
         "home": 1,
-        "away": 2
-      },
-      "venue": "Estadio Primeiro de Maio"
+        "away": 0
+      }
     },
     {
-      "id": 1520869,
-      "startsAt": "2026-09-10T22:30:00+00:00",
+      "id": 1601524,
+      "startsAt": "2026-09-11T19:00:00+00:00",
       "status": "finished",
       "elapsed": 90,
       "league": {
-        "id": 72,
+        "id": 136,
         "name": "Serie B",
-        "logo": "https://media.api-sports.io/football/leagues/72.png",
-        "country": "Brazil"
+        "logo": "https://media.api-sports.io/football/leagues/136.png",
+        "country": "Italy"
       },
       "home": {
-        "id": 142,
-        "name": "Vila Nova",
-        "logo": "data/media/teams/142.png"
+        "id": 506,
+        "name": "Benevento",
+        "logo": "data/media/teams/506.png"
       },
       "away": {
-        "id": 151,
-        "name": "Goias",
-        "logo": "data/media/teams/151.png"
+        "id": 504,
+        "name": "Hellas Verona",
+        "logo": "data/media/teams/504.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "venue": "Stadio Ciro Vigorito"
+    },
+    {
+      "id": 1601531,
+      "startsAt": "2026-09-11T19:00:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 136,
+        "name": "Serie B",
+        "logo": "https://media.api-sports.io/football/leagues/136.png",
+        "country": "Italy"
+      },
+      "home": {
+        "id": 801,
+        "name": "Pisa",
+        "logo": "data/media/teams/801.png"
+      },
+      "away": {
+        "id": 527,
+        "name": "Virtus Entella",
+        "logo": "data/media/teams/527.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "venue": "Arena Garibaldi - Stadio Romeo Anconetani"
+    },
+    {
+      "id": 1493133,
+      "startsAt": "2026-09-11T20:00:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "country": "Argentina"
+      },
+      "home": {
+        "id": 457,
+        "name": "Newells Old Boys",
+        "logo": "data/media/teams/457.png"
+      },
+      "away": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "data/media/teams/438.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "venue": "Estadio Marcelo Bielsa"
+    },
+    {
+      "id": 1493126,
+      "startsAt": "2026-09-11T22:15:00+00:00",
+      "status": "finished",
+      "elapsed": 90,
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "country": "Argentina"
+      },
+      "home": {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "logo": "data/media/teams/442.png"
+      },
+      "away": {
+        "id": 1066,
+        "name": "Gimnasia M.",
+        "logo": "data/media/teams/1066.png"
       },
       "score": {
         "home": 2,
         "away": 0
-      }
+      },
+      "venue": "Estadio Norberto Tito Tomaghello"
     }
   ]
 }

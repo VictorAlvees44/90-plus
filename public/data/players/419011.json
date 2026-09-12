@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 419011,
+    "name": "Nicolas Araujo",
+    "age": 20,
+    "number": 7,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/419011.png"
+  },
+  "team": {
+    "id": 139,
+    "name": "Ponte Preta",
+    "logo": "https://media.api-sports.io/football/teams/139.png",
+    "country": "Brazil",
+    "founded": 1900,
+    "national": false
+  }
+}

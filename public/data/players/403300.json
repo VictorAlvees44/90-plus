@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 403300,
+    "name": "Lorran",
+    "age": 19,
+    "number": 99,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/403300.png"
+  },
+  "team": {
+    "id": 127,
+    "name": "Flamengo",
+    "logo": "https://media.api-sports.io/football/teams/127.png",
+    "country": "Brazil",
+    "founded": 1895,
+    "national": false
+  }
+}

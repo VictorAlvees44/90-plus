@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-09-12T07:19:44.348Z",
+  "player": {
+    "id": 2518,
+    "name": "C. González",
+    "age": 32,
+    "number": 9,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/2518.png"
+  },
+  "team": {
+    "id": 1153,
+    "name": "Independiente del Valle",
+    "logo": "https://media.api-sports.io/football/teams/1153.png",
+    "country": "Ecuador",
+    "founded": 1958,
+    "national": false
+  }
+}
